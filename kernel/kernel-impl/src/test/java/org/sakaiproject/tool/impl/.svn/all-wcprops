@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/tool/impl
+END
+ConcreteActiveToolComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/tool/impl/ConcreteActiveToolComponent.java
+END
+BaseSessionComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/tool/impl/BaseSessionComponentTest.java
+END
+SessionComponentRegressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/tool/impl/SessionComponentRegressionTest.java
+END
+MySessionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/tool/impl/MySessionTest.java
+END
+ActiveToolComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/tool/impl/ActiveToolComponentTest.java
+END

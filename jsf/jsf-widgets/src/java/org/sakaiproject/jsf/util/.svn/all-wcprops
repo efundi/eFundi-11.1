@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jsf/jsf-widgets/src/java/org/sakaiproject/jsf/util
+END
+ConfigurationResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jsf/jsf-widgets/src/java/org/sakaiproject/jsf/util/ConfigurationResource.java
+END
+ConversionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jsf/jsf-widgets/src/java/org/sakaiproject/jsf/util/ConversionUtil.java
+END
+RendererUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jsf/jsf-widgets/src/java/org/sakaiproject/jsf/util/RendererUtil.java
+END
+TagUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jsf/jsf-widgets/src/java/org/sakaiproject/jsf/util/TagUtil.java
+END
+LocaleUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jsf/jsf-widgets/src/java/org/sakaiproject/jsf/util/LocaleUtil.java
+END

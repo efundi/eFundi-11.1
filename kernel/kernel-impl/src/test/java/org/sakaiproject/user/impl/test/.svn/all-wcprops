@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/user/impl/test
+END
+AuthenticationCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/user/impl/test/AuthenticationCacheTest.java
+END
+UserDirectoryServiceGetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/user/impl/test/UserDirectoryServiceGetTest.java
+END
+RequireLocalAccountLegacyAuthenticationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/user/impl/test/RequireLocalAccountLegacyAuthenticationTest.java
+END
+AuthenticatedUserProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/user/impl/test/AuthenticatedUserProviderTest.java
+END
+ContextualDisplayServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/user/impl/test/ContextualDisplayServiceTest.java
+END
+GetUsersByEidTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/user/impl/test/GetUsersByEidTest.java
+END

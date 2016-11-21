@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/api/src/java/org/sakaiproject/entitybroker/entityprovider/extension
+END
+SearchContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/api/src/java/org/sakaiproject/entitybroker/entityprovider/extension/SearchContent.java
+END
+RequestGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/api/src/java/org/sakaiproject/entitybroker/entityprovider/extension/RequestGetter.java
+END
+SearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/api/src/java/org/sakaiproject/entitybroker/entityprovider/extension/SearchResult.java
+END
+EntityData.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/api/src/java/org/sakaiproject/entitybroker/entityprovider/extension/EntityData.java
+END
+PropertiesProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/api/src/java/org/sakaiproject/entitybroker/entityprovider/extension/PropertiesProvider.java
+END
+CustomAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/api/src/java/org/sakaiproject/entitybroker/entityprovider/extension/CustomAction.java
+END
+TemplateMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/api/src/java/org/sakaiproject/entitybroker/entityprovider/extension/TemplateMap.java
+END
+Formats.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/api/src/java/org/sakaiproject/entitybroker/entityprovider/extension/Formats.java
+END
+TagSearchProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/api/src/java/org/sakaiproject/entitybroker/entityprovider/extension/TagSearchProvider.java
+END
+RequestStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/api/src/java/org/sakaiproject/entitybroker/entityprovider/extension/RequestStorage.java
+END
+ActionReturn.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/api/src/java/org/sakaiproject/entitybroker/entityprovider/extension/ActionReturn.java
+END
+RequestGetterWrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/api/src/java/org/sakaiproject/entitybroker/entityprovider/extension/RequestGetterWrite.java
+END
+SearchProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/api/src/java/org/sakaiproject/entitybroker/entityprovider/extension/SearchProvider.java
+END
+TagSearchService.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/api/src/java/org/sakaiproject/entitybroker/entityprovider/extension/TagSearchService.java
+END
+URLRedirect.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/api/src/java/org/sakaiproject/entitybroker/entityprovider/extension/URLRedirect.java
+END
+TagProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/api/src/java/org/sakaiproject/entitybroker/entityprovider/extension/TagProvider.java
+END
+SearchResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/api/src/java/org/sakaiproject/entitybroker/entityprovider/extension/SearchResults.java
+END
+RequestStorageWrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/api/src/java/org/sakaiproject/entitybroker/entityprovider/extension/RequestStorageWrite.java
+END
+QuerySearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/api/src/java/org/sakaiproject/entitybroker/entityprovider/extension/QuerySearch.java
+END
+LearningTrackingProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/api/src/java/org/sakaiproject/entitybroker/entityprovider/extension/LearningTrackingProvider.java
+END
+EntityProviderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/api/src/java/org/sakaiproject/entitybroker/entityprovider/extension/EntityProviderListener.java
+END
+BrowseEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/api/src/java/org/sakaiproject/entitybroker/entityprovider/extension/BrowseEntity.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/syllabus/syllabus-hbm/src/java/org/sakaiproject/component/app/syllabus
+END
+SyllabusItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/syllabus/syllabus-hbm/src/java/org/sakaiproject/component/app/syllabus/SyllabusItemImpl.java
+END
+SyllabusItemImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/syllabus/syllabus-hbm/src/java/org/sakaiproject/component/app/syllabus/SyllabusItemImpl.hbm.xml
+END
+SyllabusAttachmentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/syllabus/syllabus-hbm/src/java/org/sakaiproject/component/app/syllabus/SyllabusAttachmentImpl.java
+END
+SyllabusDataImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/syllabus/syllabus-hbm/src/java/org/sakaiproject/component/app/syllabus/SyllabusDataImpl.java
+END
+SyllabusAttachment.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/syllabus/syllabus-hbm/src/java/org/sakaiproject/component/app/syllabus/SyllabusAttachment.hbm.xml
+END
+SyllabusDataImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/syllabus/syllabus-hbm/src/java/org/sakaiproject/component/app/syllabus/SyllabusDataImpl.hbm.xml
+END

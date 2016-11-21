@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/spring
+END
+EntityPropertiesServiceSpringImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/spring/EntityPropertiesServiceSpringImpl.java
+END
+ResourceFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/spring/ResourceFinder.java
+END
+EntityProviderAutoRegistrar.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/spring/EntityProviderAutoRegistrar.java
+END
+BeanCollectorAutoRegistrar.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/spring/BeanCollectorAutoRegistrar.java
+END

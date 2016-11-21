@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/memory/impl
+END
+HazelcastCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/memory/impl/HazelcastCache.java
+END
+BasicMapCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/memory/impl/BasicMapCache.java
+END
+BaseMemoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/memory/impl/BaseMemoryService.java
+END
+EhcacheCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/memory/impl/EhcacheCache.java
+END
+BasicCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/memory/impl/BasicCache.java
+END
+SakaiCacheManagerFactoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/memory/impl/SakaiCacheManagerFactoryBean.java
+END
+HazelcastMemoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/memory/impl/HazelcastMemoryService.java
+END
+EhCacheJmxRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/memory/impl/EhCacheJmxRegistration.java
+END
+EhcacheMemoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/memory/impl/EhcacheMemoryService.java
+END

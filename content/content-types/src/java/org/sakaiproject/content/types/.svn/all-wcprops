@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-types/src/java/org/sakaiproject/content/types
+END
+HtmlDocumentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-types/src/java/org/sakaiproject/content/types/HtmlDocumentType.java
+END
+TextDocumentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-types/src/java/org/sakaiproject/content/types/TextDocumentType.java
+END
+FileUploadType.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-types/src/java/org/sakaiproject/content/types/FileUploadType.java
+END
+ContentTypeRegistryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-types/src/java/org/sakaiproject/content/types/ContentTypeRegistryBean.java
+END
+UrlResourceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-types/src/java/org/sakaiproject/content/types/UrlResourceType.java
+END
+FolderType.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-types/src/java/org/sakaiproject/content/types/FolderType.java
+END
+MakeSitePageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-types/src/java/org/sakaiproject/content/types/MakeSitePageAction.java
+END

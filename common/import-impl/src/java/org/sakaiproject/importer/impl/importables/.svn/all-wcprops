@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-impl/src/java/org/sakaiproject/importer/impl/importables
+END
+QuestionPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/QuestionPool.java
+END
+AbstractImportable.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/AbstractImportable.java
+END
+DiscussionTopic.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/DiscussionTopic.java
+END
+HtmlDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/HtmlDocument.java
+END
+TextDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/TextDocument.java
+END
+Assessment.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/Assessment.java
+END
+AssessmentAnswer.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/AssessmentAnswer.java
+END
+FileResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/FileResource.java
+END
+Announcement.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/Announcement.java
+END
+Folder.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/Folder.java
+END
+LBCCResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/LBCCResource.java
+END
+WebLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/WebLink.java
+END
+AssessmentFileResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/AssessmentFileResource.java
+END
+AssessmentQuestion.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-impl/src/java/org/sakaiproject/importer/impl/importables/AssessmentQuestion.java
+END

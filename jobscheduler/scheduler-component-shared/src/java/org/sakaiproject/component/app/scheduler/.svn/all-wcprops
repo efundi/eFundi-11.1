@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler
+END
+JobDetailWrapperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/JobDetailWrapperImpl.java
+END
+quartz.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/quartz.properties
+END
+NavigableEventLogListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/NavigableEventLogListener.java
+END
+DelayedInvocationReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/DelayedInvocationReader.java
+END
+ConnectionProviderDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/ConnectionProviderDelegate.java
+END
+TriggerWrapperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/TriggerWrapperImpl.java
+END
+ScheduledInvocationManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/ScheduledInvocationManagerImpl.java
+END
+GlobalTriggerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/GlobalTriggerListener.java
+END
+SchedulerManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/SchedulerManagerImpl.java
+END
+ClassFileNameFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/ClassFileNameFilter.java
+END

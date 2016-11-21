@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/announcement/announcement-impl/impl/src/sql/mysql
+END
+sakai_announcement.sql
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/announcement/announcement-impl/impl/src/sql/mysql/sakai_announcement.sql
+END
+sakai_announcement_2_8_0_mysql_conversion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/announcement/announcement-impl/impl/src/sql/mysql/sakai_announcement_2_8_0_mysql_conversion.sql
+END

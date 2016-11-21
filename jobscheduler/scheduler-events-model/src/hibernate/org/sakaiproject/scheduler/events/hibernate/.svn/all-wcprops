@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-events-model/src/hibernate/org/sakaiproject/scheduler/events/hibernate
+END
+TriggerEventHibernateImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-events-model/src/hibernate/org/sakaiproject/scheduler/events/hibernate/TriggerEventHibernateImpl.hbm.xml
+END

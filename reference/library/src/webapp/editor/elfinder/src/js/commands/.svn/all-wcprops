@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands
+END
+reload.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/reload.js
+END
+mkdir.js
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/mkdir.js
+END
+places.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/places.js
+END
+view.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/view.js
+END
+copy.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/copy.js
+END
+extract.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/extract.js
+END
+rm.js
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/rm.js
+END
+getfile.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/getfile.js
+END
+quicklook.plugins.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/quicklook.plugins.js
+END
+help.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/help.js
+END
+chmod.js
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/chmod.js
+END
+info.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/info.js
+END
+back.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/back.js
+END
+forward.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/forward.js
+END
+search.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/search.js
+END
+rename.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/rename.js
+END
+download.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/download.js
+END
+mkfile.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/mkfile.js
+END
+netmount.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/netmount.js
+END
+duplicate.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/duplicate.js
+END
+paste.js
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/paste.js
+END
+archive.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/archive.js
+END
+upload.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/upload.js
+END
+up.js
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/up.js
+END
+edit.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/edit.js
+END
+sort.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/sort.js
+END
+home.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/home.js
+END
+cut.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/cut.js
+END
+resize.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/resize.js
+END
+quicklook.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/quicklook.js
+END
+open.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/elfinder/src/js/commands/open.js
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/forum
+END
+dfForumDetail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/forum/dfForumDetail.jsp
+END
+dfForumDirect.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/forum/dfForumDirect.jsp
+END
+dfForumSettings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/forum/dfForumSettings.jsp
+END

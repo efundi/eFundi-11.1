@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/search/search-api/api/src/java/org/sakaiproject/search/api/rdf
+END
+RDFSearchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/search/search-api/api/src/java/org/sakaiproject/search/api/rdf/RDFSearchException.java
+END
+RDFIndexException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/search/search-api/api/src/java/org/sakaiproject/search/api/rdf/RDFIndexException.java
+END
+RDFSearchService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/search/search-api/api/src/java/org/sakaiproject/search/api/rdf/RDFSearchService.java
+END
+RDFException.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/search/search-api/api/src/java/org/sakaiproject/search/api/rdf/RDFException.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/facade/impl/standalone
+END
+ContextStandaloneImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/facade/impl/standalone/ContextStandaloneImpl.java
+END
+AuthnTestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/facade/impl/standalone/AuthnTestImpl.java
+END
+AuthzStandaloneImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/facade/impl/standalone/AuthzStandaloneImpl.java
+END
+ContextTestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/facade/impl/standalone/ContextTestImpl.java
+END
+AuthnStandaloneImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/sections-service/sections-impl/standalone/src/java/org/sakaiproject/component/section/facade/impl/standalone/AuthnStandaloneImpl.java
+END

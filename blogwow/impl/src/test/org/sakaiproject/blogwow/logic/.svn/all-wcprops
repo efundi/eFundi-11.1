@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sakaicontrib/blogwow.git/!svn/ver/324/branches/master/impl/src/test/org/sakaiproject/blogwow/logic
+END
+EntryLogicImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/sakaicontrib/blogwow.git/!svn/ver/324/branches/master/impl/src/test/org/sakaiproject/blogwow/logic/EntryLogicImplTest.java
+END
+CommentLogicImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/sakaicontrib/blogwow.git/!svn/ver/324/branches/master/impl/src/test/org/sakaiproject/blogwow/logic/CommentLogicImplTest.java
+END
+BlogLogicImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sakaicontrib/blogwow.git/!svn/ver/324/branches/master/impl/src/test/org/sakaiproject/blogwow/logic/BlogLogicImplTest.java
+END

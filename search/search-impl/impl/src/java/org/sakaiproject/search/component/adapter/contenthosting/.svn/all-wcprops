@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting
+END
+ContentDigester.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting/ContentDigester.java
+END
+SanslanContentDigester.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting/SanslanContentDigester.java
+END
+ContentHostingContentProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting/ContentHostingContentProducer.java
+END
+PPTContentDigester.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting/PPTContentDigester.java
+END
+XLContentDigester.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting/XLContentDigester.java
+END
+DefaultContentDigester.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting/DefaultContentDigester.java
+END
+HtmlContentDigester.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting/HtmlContentDigester.java
+END
+DefaultFullContentDigester.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting/DefaultFullContentDigester.java
+END
+PoiContentDigester.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting/PoiContentDigester.java
+END
+TikaContentDigester.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting/TikaContentDigester.java
+END
+PDFContentDigester.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting/PDFContentDigester.java
+END
+BaseContentDigester.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/search/search-impl/impl/src/java/org/sakaiproject/search/component/adapter/contenthosting/BaseContentDigester.java
+END

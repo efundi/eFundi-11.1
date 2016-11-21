@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/entity
+END
+SynopticMsgcntrItemEntityProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/entity/SynopticMsgcntrItemEntityProviderImpl.java
+END
+ForumTopicEntityProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/entity/ForumTopicEntityProviderImpl.java
+END
+ForumEntityProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/entity/ForumEntityProviderImpl.java
+END
+ForumMessageEntityProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/entity/ForumMessageEntityProviderImpl.java
+END
+TopicEntityProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/entity/TopicEntityProviderImpl.java
+END
+MessageForumsEntityContentProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-component-impl/src/java/org/sakaiproject/component/app/messageforums/entity/MessageForumsEntityContentProducer.java
+END

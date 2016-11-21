@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java
+END
+spring-hibernate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/spring-hibernate.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/log4j.properties
+END
+hibernate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/hibernate.properties
+END

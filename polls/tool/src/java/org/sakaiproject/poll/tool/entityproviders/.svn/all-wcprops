@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/polls/tool/src/java/org/sakaiproject/poll/tool/entityproviders
+END
+PollsEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/polls/tool/src/java/org/sakaiproject/poll/tool/entityproviders/PollsEntityProvider.java
+END
+PollOptionEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/polls/tool/src/java/org/sakaiproject/poll/tool/entityproviders/PollOptionEntityProvider.java
+END
+PollVoteEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/polls/tool/src/java/org/sakaiproject/poll/tool/entityproviders/PollVoteEntityProvider.java
+END
+PollEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/polls/tool/src/java/org/sakaiproject/poll/tool/entityproviders/PollEntityProvider.java
+END

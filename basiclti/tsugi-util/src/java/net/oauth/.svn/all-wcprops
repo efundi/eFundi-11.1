@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/net/oauth
+END
+OAuthException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/net/oauth/OAuthException.java
+END
+OAuth.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/net/oauth/OAuth.java
+END
+OAuthProblemException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/net/oauth/OAuthProblemException.java
+END
+SimpleOAuthValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/net/oauth/SimpleOAuthValidator.java
+END
+ParameterStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/net/oauth/ParameterStyle.java
+END
+OAuthAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/net/oauth/OAuthAccessor.java
+END
+OAuthMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/net/oauth/OAuthMessage.java
+END
+OAuthValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/net/oauth/OAuthValidator.java
+END
+consumer.properties.sample
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/net/oauth/consumer.properties.sample
+END
+ConsumerProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/net/oauth/ConsumerProperties.java
+END
+OAuthConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/net/oauth/OAuthConsumer.java
+END
+OAuthServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/net/oauth/OAuthServiceProvider.java
+END

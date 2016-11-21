@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/wicket-tool/src/java/org/sakaiproject/wicket/ajax/markup/html/navigation/paging
+END
+PagingNavigationButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/wicket-tool/src/java/org/sakaiproject/wicket/ajax/markup/html/navigation/paging/PagingNavigationButton.java
+END
+ClassicPagingNavigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/wicket-tool/src/java/org/sakaiproject/wicket/ajax/markup/html/navigation/paging/ClassicPagingNavigator.java
+END
+ClassicPagingNavigator.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/wicket-tool/src/java/org/sakaiproject/wicket/ajax/markup/html/navigation/paging/ClassicPagingNavigator.html
+END
+PagingNavigationIncrementButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/wicket-tool/src/java/org/sakaiproject/wicket/ajax/markup/html/navigation/paging/PagingNavigationIncrementButton.java
+END
+PagingChoiceRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/wicket-tool/src/java/org/sakaiproject/wicket/ajax/markup/html/navigation/paging/PagingChoiceRenderer.java
+END
+ClassicPagingNavigator.properties
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/wicket-tool/src/java/org/sakaiproject/wicket/ajax/markup/html/navigation/paging/ClassicPagingNavigator.properties
+END

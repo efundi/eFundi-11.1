@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/asi
+END
+Section.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/asi/Section.java
+END
+Assessment.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/asi/Assessment.java
+END
+PrintUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/asi/PrintUtil.java
+END
+ASIBaseClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/asi/ASIBaseClass.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/asi/Item.java
+END

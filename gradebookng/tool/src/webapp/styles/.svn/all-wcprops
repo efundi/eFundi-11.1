@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/webapp/styles
+END
+blur.svg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/webapp/styles/blur.svg
+END
+gradebook-settings.css
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/webapp/styles/gradebook-settings.css
+END
+gradebook-grades.css
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/webapp/styles/gradebook-grades.css
+END
+gradebook-shared.css
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/webapp/styles/gradebook-shared.css
+END
+gradebook-permissions.css
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/webapp/styles/gradebook-permissions.css
+END
+gradebook-importexport.css
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/webapp/styles/gradebook-importexport.css
+END
+gradebook-print.css
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/webapp/styles/gradebook-print.css
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/334/branches/master
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/LICENSE.txt
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/310/branches/master/.gitignore
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/310/branches/master/INSTALL
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/pom.xml
+END
+DEBUGGING
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/94/branches/master/DEBUGGING
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/README
+END

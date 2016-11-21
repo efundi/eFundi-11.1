@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/messagebundle/impl/test
+END
+bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/messagebundle/impl/test/bundle.properties
+END
+bundle_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/messagebundle/impl/test/bundle_fr.properties
+END
+bundle_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/messagebundle/impl/test/bundle_eu.properties
+END
+MessageBundleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/messagebundle/impl/test/MessageBundleTest.java
+END

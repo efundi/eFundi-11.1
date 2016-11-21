@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/tool/src/java/org/sakaiproject/dash/tool
+END
+MyApplication.properties
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/tool/src/java/org/sakaiproject/dash/tool/MyApplication.properties
+END
+MyApplication_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/tool/src/java/org/sakaiproject/dash/tool/MyApplication_zh_CN.properties
+END
+MyApplication_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/tool/src/java/org/sakaiproject/dash/tool/MyApplication_ca.properties
+END
+MyApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/tool/src/java/org/sakaiproject/dash/tool/MyApplication.java
+END
+MyApplication_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/tool/src/java/org/sakaiproject/dash/tool/MyApplication_es.properties
+END
+MyApplication_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/tool/src/java/org/sakaiproject/dash/tool/MyApplication_ja.properties
+END
+MyApplication_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/tool/src/java/org/sakaiproject/dash/tool/MyApplication_tr_TR.properties
+END

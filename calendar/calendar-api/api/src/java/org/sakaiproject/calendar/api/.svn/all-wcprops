@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-api/api/src/java/org/sakaiproject/calendar/api
+END
+CalendarEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-api/api/src/java/org/sakaiproject/calendar/api/CalendarEdit.java
+END
+CalendarEventEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-api/api/src/java/org/sakaiproject/calendar/api/CalendarEventEdit.java
+END
+OpaqueUrlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-api/api/src/java/org/sakaiproject/calendar/api/OpaqueUrlDao.java
+END
+ExternalCalendarSubscriptionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-api/api/src/java/org/sakaiproject/calendar/api/ExternalCalendarSubscriptionService.java
+END
+RecurrenceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-api/api/src/java/org/sakaiproject/calendar/api/RecurrenceRule.java
+END
+ExternalSubscription.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-api/api/src/java/org/sakaiproject/calendar/api/ExternalSubscription.java
+END
+Calendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-api/api/src/java/org/sakaiproject/calendar/api/Calendar.java
+END
+CalendarService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-api/api/src/java/org/sakaiproject/calendar/api/CalendarService.java
+END
+CalendarEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-api/api/src/java/org/sakaiproject/calendar/api/CalendarEvent.java
+END
+CalendarImporterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-api/api/src/java/org/sakaiproject/calendar/api/CalendarImporterService.java
+END
+OpaqueUrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-api/api/src/java/org/sakaiproject/calendar/api/OpaqueUrl.java
+END
+CalendarEventVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-api/api/src/java/org/sakaiproject/calendar/api/CalendarEventVector.java
+END

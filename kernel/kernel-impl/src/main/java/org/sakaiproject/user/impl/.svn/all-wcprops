@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl
+END
+UserAuthnComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/UserAuthnComponent.java
+END
+DirectDbAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/DirectDbAccess.java
+END
+AuthenticationCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/AuthenticationCache.java
+END
+UserNotificationPreferencesRegistrationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/UserNotificationPreferencesRegistrationServiceImpl.java
+END
+DbUserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/DbUserService.java
+END
+UserServiceSqlMySql.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/UserServiceSqlMySql.java
+END
+UserServiceSqlOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/UserServiceSqlOracle.java
+END
+UserServiceSqlHSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/UserServiceSqlHSql.java
+END
+BasePreferencesService.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/BasePreferencesService.java
+END
+UserServiceSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/UserServiceSql.java
+END
+BaseUserDirectoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/BaseUserDirectoryService.java
+END
+ReEncryptPasswords.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/ReEncryptPasswords.java
+END
+AuthnCacheWatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/AuthnCacheWatcher.java
+END
+PasswordService.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/PasswordService.java
+END
+UserServiceSqlDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/UserServiceSqlDefault.java
+END
+PasswordPolicyProviderDefaultImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/PasswordPolicyProviderDefaultImpl.java
+END
+OpenAuthnComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/OpenAuthnComponent.java
+END
+DbPreferencesService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/DbPreferencesService.java
+END
+PrecachingDbUserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/user/impl/PrecachingDbUserService.java
+END

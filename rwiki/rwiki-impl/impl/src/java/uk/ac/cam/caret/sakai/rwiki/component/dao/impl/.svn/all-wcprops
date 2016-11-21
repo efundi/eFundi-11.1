@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/dao/impl
+END
+RWikiHistoryObjectContentDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/dao/impl/RWikiHistoryObjectContentDaoImpl.java
+END
+RWikiCurrentObjectContentDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/dao/impl/RWikiCurrentObjectContentDaoImpl.java
+END
+RWikiPropertyDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/dao/impl/RWikiPropertyDaoImpl.java
+END
+RWikiHistoryObjectDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/dao/impl/RWikiHistoryObjectDaoImpl.java
+END
+RWikiCurrentObjectDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/dao/impl/RWikiCurrentObjectDaoImpl.java
+END
+ListIteratorProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/dao/impl/ListIteratorProxy.java
+END
+IteratorProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/dao/impl/IteratorProxy.java
+END
+ListProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/dao/impl/ListProxy.java
+END

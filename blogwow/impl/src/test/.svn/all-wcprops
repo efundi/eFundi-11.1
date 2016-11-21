@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/sakaicontrib/blogwow.git/!svn/ver/324/branches/master/impl/src/test
+END
+hibernate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sakaicontrib/blogwow.git/!svn/ver/151/branches/master/impl/src/test/hibernate.properties
+END
+hibernate-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sakaicontrib/blogwow.git/!svn/ver/324/branches/master/impl/src/test/hibernate-test.xml
+END

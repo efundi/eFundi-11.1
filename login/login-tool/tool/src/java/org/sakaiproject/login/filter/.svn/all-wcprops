@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/login/login-tool/tool/src/java/org/sakaiproject/login/filter
+END
+EppnSamlFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/login/login-tool/tool/src/java/org/sakaiproject/login/filter/EppnSamlFilter.java
+END
+SakaiCasAuthenticationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/login/login-tool/tool/src/java/org/sakaiproject/login/filter/SakaiCasAuthenticationFilter.java
+END

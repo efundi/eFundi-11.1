@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-tool/src/webapp/vm
+END
+lti_deploy_view.vm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-tool/src/webapp/vm/lti_deploy_view.vm
+END
+lti_error.vm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-tool/src/webapp/vm/lti_error.vm
+END
+lti_deploy_post_content.vm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-tool/src/webapp/vm/lti_deploy_post_content.vm
+END
+lti_content_redirect.vm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-tool/src/webapp/vm/lti_content_redirect.vm
+END
+lti_content_delete.vm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-tool/src/webapp/vm/lti_content_delete.vm
+END
+lti_content_insert.vm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-tool/src/webapp/vm/lti_content_insert.vm
+END
+lti_content_config.vm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-tool/src/webapp/vm/lti_content_config.vm
+END
+lti_tool_delete.vm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-tool/src/webapp/vm/lti_tool_delete.vm
+END
+lti_deploy_system.vm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-tool/src/webapp/vm/lti_deploy_system.vm
+END
+lti_deploy_register.vm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-tool/src/webapp/vm/lti_deploy_register.vm
+END
+lti_tool_insert.vm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-tool/src/webapp/vm/lti_tool_insert.vm
+END
+lti_tool_site.vm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-tool/src/webapp/vm/lti_tool_site.vm
+END
+lti_link_add.vm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-tool/src/webapp/vm/lti_link_add.vm
+END
+lti_deploy_post_register.vm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-tool/src/webapp/vm/lti_deploy_post_register.vm
+END
+lti_tool_view.vm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-tool/src/webapp/vm/lti_tool_view.vm
+END
+lti_link_remove.vm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-tool/src/webapp/vm/lti_link_remove.vm
+END
+lti_content.vm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-tool/src/webapp/vm/lti_content.vm
+END
+lti_deploy_activate.vm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-tool/src/webapp/vm/lti_deploy_activate.vm
+END
+lti_deploy_delete.vm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-tool/src/webapp/vm/lti_deploy_delete.vm
+END
+lti_test.vm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-tool/src/webapp/vm/lti_test.vm
+END
+lti_deploy_insert.vm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-tool/src/webapp/vm/lti_deploy_insert.vm
+END
+lti_top_refresh.vm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-tool/src/webapp/vm/lti_top_refresh.vm
+END
+lti_tool_system.vm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-tool/src/webapp/vm/lti_tool_system.vm
+END

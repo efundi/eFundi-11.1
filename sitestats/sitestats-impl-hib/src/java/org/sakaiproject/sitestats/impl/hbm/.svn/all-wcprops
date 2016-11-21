@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl-hib/src/java/org/sakaiproject/sitestats/impl/hbm
+END
+SitePresenceImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl-hib/src/java/org/sakaiproject/sitestats/impl/hbm/SitePresenceImpl.hbm.xml
+END
+EventStatImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl-hib/src/java/org/sakaiproject/sitestats/impl/hbm/EventStatImpl.hbm.xml
+END
+SitePresenceTotalImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl-hib/src/java/org/sakaiproject/sitestats/impl/hbm/SitePresenceTotalImpl.hbm.xml
+END
+JobRunImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl-hib/src/java/org/sakaiproject/sitestats/impl/hbm/JobRunImpl.hbm.xml
+END
+PrefsImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl-hib/src/java/org/sakaiproject/sitestats/impl/hbm/PrefsImpl.hbm.xml
+END
+ServerStat.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl-hib/src/java/org/sakaiproject/sitestats/impl/hbm/ServerStat.hbm.xml
+END
+SiteActivityImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl-hib/src/java/org/sakaiproject/sitestats/impl/hbm/SiteActivityImpl.hbm.xml
+END
+ResourceStatImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl-hib/src/java/org/sakaiproject/sitestats/impl/hbm/ResourceStatImpl.hbm.xml
+END
+LessonBuilderStatImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl-hib/src/java/org/sakaiproject/sitestats/impl/hbm/LessonBuilderStatImpl.hbm.xml
+END
+SiteVisitsImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl-hib/src/java/org/sakaiproject/sitestats/impl/hbm/SiteVisitsImpl.hbm.xml
+END
+ReportDef.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl-hib/src/java/org/sakaiproject/sitestats/impl/hbm/ReportDef.hbm.xml
+END
+UserStat.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl-hib/src/java/org/sakaiproject/sitestats/impl/hbm/UserStat.hbm.xml
+END

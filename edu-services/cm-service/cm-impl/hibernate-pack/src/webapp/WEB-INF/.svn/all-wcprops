@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-impl/hibernate-pack/src/webapp/WEB-INF
+END
+components.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-impl/hibernate-pack/src/webapp/WEB-INF/components.xml
+END
+components-demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-impl/hibernate-pack/src/webapp/WEB-INF/components-demo.xml
+END

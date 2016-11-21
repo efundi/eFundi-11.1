@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaicontrib/blogwow.git/!svn/ver/324/branches/master/tool/src/java/org/sakaiproject/blogwow/tool/inferrer
+END
+BlogInferrer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/sakaicontrib/blogwow.git/!svn/ver/324/branches/master/tool/src/java/org/sakaiproject/blogwow/tool/inferrer/BlogInferrer.java
+END
+BlogEntryInferrer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/sakaicontrib/blogwow.git/!svn/ver/324/branches/master/tool/src/java/org/sakaiproject/blogwow/tool/inferrer/BlogEntryInferrer.java
+END
+BlogGroupRSSInferrer.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaicontrib/blogwow.git/!svn/ver/324/branches/master/tool/src/java/org/sakaiproject/blogwow/tool/inferrer/BlogGroupRSSInferrer.java
+END
+BlogRSSInferrer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/sakaicontrib/blogwow.git/!svn/ver/324/branches/master/tool/src/java/org/sakaiproject/blogwow/tool/inferrer/BlogRSSInferrer.java
+END
+BlogGroupInferrer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/sakaicontrib/blogwow.git/!svn/ver/324/branches/master/tool/src/java/org/sakaiproject/blogwow/tool/inferrer/BlogGroupInferrer.java
+END

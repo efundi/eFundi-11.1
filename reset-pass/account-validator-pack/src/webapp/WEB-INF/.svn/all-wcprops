@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reset-pass/account-validator-pack/src/webapp/WEB-INF
+END
+spring-hibernate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reset-pass/account-validator-pack/src/webapp/WEB-INF/spring-hibernate.xml
+END
+components.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reset-pass/account-validator-pack/src/webapp/WEB-INF/components.xml
+END
+hibernate-hbms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reset-pass/account-validator-pack/src/webapp/WEB-INF/hibernate-hbms.xml
+END

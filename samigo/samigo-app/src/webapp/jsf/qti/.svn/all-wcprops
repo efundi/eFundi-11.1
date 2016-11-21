@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/qti
+END
+chooseExportType.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/qti/chooseExportType.jsp
+END
+importPool.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/qti/importPool.jsp
+END
+xmlDisplay.jsp.license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/qti/xmlDisplay.jsp.license.txt
+END
+xmlDisplay.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/qti/xmlDisplay.jsp
+END
+exportAssessment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/qti/exportAssessment.jsp
+END
+exportDenied.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/qti/exportDenied.jsp
+END
+exportItem.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/qti/exportItem.jsp
+END
+importAssessment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/qti/importAssessment.jsp
+END

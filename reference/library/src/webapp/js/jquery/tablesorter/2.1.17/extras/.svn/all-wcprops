@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/js/jquery/tablesorter/2.1.17/extras
+END
+semver-mod.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/js/jquery/tablesorter/2.1.17/extras/semver-mod.js
+END
+jquery.quicksearch.js
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/js/jquery/tablesorter/2.1.17/extras/jquery.quicksearch.js
+END
+jquery.dragtable.mod.js
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/js/jquery/tablesorter/2.1.17/extras/jquery.dragtable.mod.js
+END
+semver.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/js/jquery/tablesorter/2.1.17/extras/semver.js
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/polls/impl/src/java/org/sakaiproject/poll/logic/impl
+END
+ExternalLogicImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/polls/impl/src/java/org/sakaiproject/poll/logic/impl/ExternalLogicImpl.java
+END
+InvalidEmailTemplateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/polls/impl/src/java/org/sakaiproject/poll/logic/impl/InvalidEmailTemplateException.java
+END

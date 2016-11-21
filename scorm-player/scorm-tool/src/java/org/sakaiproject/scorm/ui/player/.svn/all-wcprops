@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player
+END
+SingleScormPackageApplication.properties
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/SingleScormPackageApplication.properties
+END
+ScormSecurityFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/ScormSecurityFilter.java
+END
+ScormTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/ScormTool.java
+END
+ScormSecurityAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/ScormSecurityAdvisor.java
+END
+SingleScormPackageApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/SingleScormPackageApplication.java
+END
+HibernateFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/HibernateFilter.java
+END
+ScormTool.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/ScormTool.properties
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/announcement/announcement-tool/tool/src/webapp/vm/announcement
+END
+chef_announcements-merge.vm
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/announcement/announcement-tool/tool/src/webapp/vm/announcement/chef_announcements-merge.vm
+END
+chef_announcements-metadata.vm
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/announcement/announcement-tool/tool/src/webapp/vm/announcement/chef_announcements-metadata.vm
+END
+chef_announcements-preview.vm
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/announcement/announcement-tool/tool/src/webapp/vm/announcement/chef_announcements-preview.vm
+END
+chef_announcements-customize.vm
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/announcement/announcement-tool/tool/src/webapp/vm/announcement/chef_announcements-customize.vm
+END
+chef_announcements-delete.vm
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/announcement/announcement-tool/tool/src/webapp/vm/announcement/chef_announcements-delete.vm
+END
+chef_announcements-reorder.vm
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/announcement/announcement-tool/tool/src/webapp/vm/announcement/chef_announcements-reorder.vm
+END
+chef_announcements.vm
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/announcement/announcement-tool/tool/src/webapp/vm/announcement/chef_announcements.vm
+END
+chef_announcements-revise.vm
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/announcement/announcement-tool/tool/src/webapp/vm/announcement/chef_announcements-revise.vm
+END

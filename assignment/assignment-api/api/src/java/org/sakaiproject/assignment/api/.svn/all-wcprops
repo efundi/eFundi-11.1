@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api
+END
+AssignmentContentNotEmptyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/AssignmentContentNotEmptyException.java
+END
+AssignmentContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/AssignmentContent.java
+END
+AssignmentSubmission.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/AssignmentSubmission.java
+END
+AssignmentConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/AssignmentConstants.java
+END
+AssignmentNotEmptyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/AssignmentNotEmptyException.java
+END
+Assignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/Assignment.java
+END
+AssignmentContentEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/AssignmentContentEdit.java
+END
+AssignmentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/AssignmentService.java
+END
+AssignmentSubmissionEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/AssignmentSubmissionEdit.java
+END
+AssignmentPeerAssessmentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/AssignmentPeerAssessmentService.java
+END
+ContentReviewResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/ContentReviewResult.java
+END
+AssignmentEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/AssignmentEdit.java
+END

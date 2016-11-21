@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/impl/src/java/org/sakaiproject/delegatedaccess/jobs
+END
+DelegatedAccessSiteHierarchyJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/impl/src/java/org/sakaiproject/delegatedaccess/jobs/DelegatedAccessSiteHierarchyJob.java
+END
+DelegatedAccessShoppingPeriodJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/impl/src/java/org/sakaiproject/delegatedaccess/jobs/DelegatedAccessShoppingPeriodJob.java
+END
+DelegatedAccessAddToolToMyWorkspacesJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/impl/src/java/org/sakaiproject/delegatedaccess/jobs/DelegatedAccessAddToolToMyWorkspacesJob.java
+END

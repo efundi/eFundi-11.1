@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment
+END
+upgradeschema_mysql.config
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/upgradeschema_mysql.config
+END
+upgradeschema_oracle.config
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/upgradeschema_oracle.config
+END
+runconversion.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/runconversion.sh
+END
+runconversion_readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/runconversion_readme.txt
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/pom.xml
+END

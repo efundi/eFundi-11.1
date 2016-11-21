@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/oauth/tool/src/java/org/sakaiproject/oauth/tool/admin
+END
+OauthAdminApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/oauth/tool/src/java/org/sakaiproject/oauth/tool/admin/OauthAdminApplication.java
+END
+AdminFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/oauth/tool/src/java/org/sakaiproject/oauth/tool/admin/AdminFilter.java
+END

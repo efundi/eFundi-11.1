@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/util/comparator
+END
+ForumBySortIndexAscAndCreatedDateDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/util/comparator/ForumBySortIndexAscAndCreatedDateDesc.java
+END
+MessageByCreatedDateDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/util/comparator/MessageByCreatedDateDesc.java
+END
+AttachmentByCreatedDateDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/util/comparator/AttachmentByCreatedDateDesc.java
+END
+TopicBySortIndexAscAndCreatedDateDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/util/comparator/TopicBySortIndexAscAndCreatedDateDesc.java
+END
+RankImageByCreatedDateDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-hbm/src/java/org/sakaiproject/component/app/messageforums/dao/hibernate/util/comparator/RankImageByCreatedDateDesc.java
+END

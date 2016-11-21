@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/authz
+END
+QualifierIteratorFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/authz/QualifierIteratorFacade.java
+END
+AuthorizationFacadeQueries.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/authz/AuthorizationFacadeQueries.java
+END
+FunctionIteratorFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/authz/FunctionIteratorFacade.java
+END
+AuthorizationFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/authz/AuthorizationFacade.java
+END
+QualifierFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/authz/QualifierFacade.java
+END
+FunctionFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/authz/FunctionFacade.java
+END
+AuthorizationFacadeQueriesAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/authz/AuthorizationFacadeQueriesAPI.java
+END
+AuthorizationIteratorFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/facade/authz/AuthorizationIteratorFacade.java
+END

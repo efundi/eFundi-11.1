@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-tool/tool/src/java/org/sakaiproject/calendar/entityproviders
+END
+CalendarEventDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-tool/tool/src/java/org/sakaiproject/calendar/entityproviders/CalendarEventDetails.java
+END
+CalendarEventEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-tool/tool/src/java/org/sakaiproject/calendar/entityproviders/CalendarEventEntityProvider.java
+END
+CalendarEventSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-tool/tool/src/java/org/sakaiproject/calendar/entityproviders/CalendarEventSummary.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/model
+END
+RWikiCurrentObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/model/RWikiCurrentObject.java
+END
+RWikiPermissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/model/RWikiPermissions.java
+END
+DataMigrationAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/model/DataMigrationAgent.java
+END
+RWikiEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/model/RWikiEntity.java
+END
+DataMigrationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/model/DataMigrationController.java
+END
+RWikiObjectContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/model/RWikiObjectContent.java
+END
+RWikiHistoryObjectContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/model/RWikiHistoryObjectContent.java
+END
+RWikiCurrentObjectContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/model/RWikiCurrentObjectContent.java
+END
+RWikiProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/model/RWikiProperty.java
+END
+RWikiObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/model/RWikiObject.java
+END
+RWikiHistoryObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/model/RWikiHistoryObject.java
+END

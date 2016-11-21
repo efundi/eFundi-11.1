@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/oauth/api/src/java/org/sakaiproject/oauth/dao
+END
+ConsumerDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/oauth/api/src/java/org/sakaiproject/oauth/dao/ConsumerDao.java
+END
+AccessorDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/oauth/api/src/java/org/sakaiproject/oauth/dao/AccessorDao.java
+END

@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author
+END
+AuthorPartListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/AuthorPartListener.java
+END
+SavePartAttachmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/SavePartAttachmentListener.java
+END
+DeleteTemplateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/DeleteTemplateListener.java
+END
+ExportItemListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/ExportItemListener.java
+END
+EditPublishedSettingsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/EditPublishedSettingsListener.java
+END
+ResetItemAttachmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/ResetItemAttachmentListener.java
+END
+TemplateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/TemplateListener.java
+END
+PublishAssessmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/PublishAssessmentListener.java
+END
+SaveAssessmentSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/SaveAssessmentSettings.java
+END
+SortInactivePublishedAssessmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/SortInactivePublishedAssessmentListener.java
+END
+ImportAssessmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/ImportAssessmentListener.java
+END
+ConfirmRemoveAssessmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/ConfirmRemoveAssessmentListener.java
+END
+ConfirmRepublishAssessmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/ConfirmRepublishAssessmentListener.java
+END
+ResetPartAttachmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/ResetPartAttachmentListener.java
+END
+AuthorSettingsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/AuthorSettingsListener.java
+END
+ChooseExportTypeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/ChooseExportTypeListener.java
+END
+UpdateAssessmentQuestionsOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/UpdateAssessmentQuestionsOrder.java
+END
+EditAssessmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/EditAssessmentListener.java
+END
+EditPublishedQuestionPoolPartListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/EditPublishedQuestionPoolPartListener.java
+END
+AuthorActionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/AuthorActionListener.java
+END
+RemovePublishedAssessmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/RemovePublishedAssessmentListener.java
+END
+RemoveAssessmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/RemoveAssessmentListener.java
+END
+SortCoreAssessmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/SortCoreAssessmentListener.java
+END
+ItemAddListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/ItemAddListener.java
+END
+ItemRemoveListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/ItemRemoveListener.java
+END
+SaveAssessmentAttachmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/SaveAssessmentAttachmentListener.java
+END
+TemplateUpdateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/TemplateUpdateListener.java
+END
+SectionActivityListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/SectionActivityListener.java
+END
+EventLogListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/EventLogListener.java
+END
+ConfirmRemoveAttachmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/ConfirmRemoveAttachmentListener.java
+END
+SavePartListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/SavePartListener.java
+END
+SaveAssessmentSettingsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/SaveAssessmentSettingsListener.java
+END
+RemoveQuestionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/RemoveQuestionListener.java
+END
+ExportAssessmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/ExportAssessmentListener.java
+END
+UpdateRandomPoolQuestionsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/UpdateRandomPoolQuestionsListener.java
+END
+ConfirmPublishAssessmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/ConfirmPublishAssessmentListener.java
+END
+AuthorQuestionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/AuthorQuestionListener.java
+END
+SetFromPageAsPublishAssessmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/SetFromPageAsPublishAssessmentListener.java
+END
+StartCreateItemListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/StartCreateItemListener.java
+END
+ResetAssessmentAttachmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/ResetAssessmentAttachmentListener.java
+END
+StartInsertItemListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/StartInsertItemListener.java
+END
+RemoveAttachmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/RemoveAttachmentListener.java
+END
+TemplateBaseListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/TemplateBaseListener.java
+END
+ConfirmEditPublishedAssessmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/ConfirmEditPublishedAssessmentListener.java
+END
+ReorderQuestionsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/ReorderQuestionsListener.java
+END
+EventLogPreviousPageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/EventLogPreviousPageListener.java
+END
+ConfirmRemovePublishedAssessmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/ConfirmRemovePublishedAssessmentListener.java
+END
+EditTemplateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/EditTemplateListener.java
+END
+PreviewPublishedAssessmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/PreviewPublishedAssessmentListener.java
+END
+UpdateAssessmentTotalPointsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/UpdateAssessmentTotalPointsListener.java
+END
+PublishRepublishNotificationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/PublishRepublishNotificationListener.java
+END
+SortPublishedAssessmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/SortPublishedAssessmentListener.java
+END
+ConfirmCopyAssessmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/ConfirmCopyAssessmentListener.java
+END
+ResetPublishedAssessmentAttachmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/ResetPublishedAssessmentAttachmentListener.java
+END
+ConfirmRemovePartListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/ConfirmRemovePartListener.java
+END
+RepublishAssessmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/RepublishAssessmentListener.java
+END
+SetFromPageAsAuthorSettingsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/SetFromPageAsAuthorSettingsListener.java
+END
+ItemModifyListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/ItemModifyListener.java
+END
+AuthorAssessmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/AuthorAssessmentListener.java
+END
+TemplateLoadListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/TemplateLoadListener.java
+END
+SetFromPageAsEditAssessmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/SetFromPageAsEditAssessmentListener.java
+END
+ReorderPartsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/ReorderPartsListener.java
+END
+ConfirmDeleteTemplateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/ConfirmDeleteTemplateListener.java
+END
+EditPartListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/EditPartListener.java
+END
+ActionSelectListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/ActionSelectListener.java
+END
+SavePublishedSettingsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/SavePublishedSettingsListener.java
+END
+EventLogNextPageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/EventLogNextPageListener.java
+END
+CopyAssessmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/CopyAssessmentListener.java
+END
+RemovePartListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/RemovePartListener.java
+END
+CalculatedQuestionExtractListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/CalculatedQuestionExtractListener.java
+END
+RemovePublishedAssessmentThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/RemovePublishedAssessmentThread.java
+END
+FavoriteColChoiceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/ui/listener/author/FavoriteColChoiceListener.java
+END

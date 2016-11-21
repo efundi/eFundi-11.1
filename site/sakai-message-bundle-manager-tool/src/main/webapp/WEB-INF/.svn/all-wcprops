@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/site/sakai-message-bundle-manager-tool/src/main/webapp/WEB-INF
+END
+spring-mvc-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/site/sakai-message-bundle-manager-tool/src/main/webapp/WEB-INF/spring-mvc-servlet.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/site/sakai-message-bundle-manager-tool/src/main/webapp/WEB-INF/applicationContext.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/site/sakai-message-bundle-manager-tool/src/main/webapp/WEB-INF/web.xml
+END

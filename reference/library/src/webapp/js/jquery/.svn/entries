@@ -1,0 +1,104 @@
+10
+
+dir
+46020
+https://github.com/sakaiproject/sakai.git/tags/11.1/reference/library/src/webapp/js/jquery
+https://github.com/sakaiproject/sakai.git
+
+
+
+2016-08-13T20:25:57.000000Z
+45526
+matthew.jones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b162ff4a-c4c1-f1d3-daf4-ce57b7db7bff
+
+tablesorter
+dir
+
+jquery-migrate-1.2.1.min.js
+file
+
+
+
+
+2016-10-27T12:49:05.093984Z
+eb05d8d73b5b13d8d84308a4751ece96
+2016-08-13T20:25:57.000000Z
+45526
+matthew.jones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7199
+
+select2
+dir
+
+form
+dir
+
+hoverIntent
+dir
+
+cluetip
+dir
+
+apTextCounter
+dir
+
+featherlight
+dir
+
+jquerymobile
+dir
+
+dimensions
+dir
+
+i18n-properties
+dir
+
+cookie
+dir
+
+sortable
+dir
+
+bgiframe
+dir
+
+qtip
+dir
+

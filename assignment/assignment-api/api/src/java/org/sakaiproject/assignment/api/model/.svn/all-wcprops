@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model
+END
+AssignmentAllPurposeItemAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model/AssignmentAllPurposeItemAccess.java
+END
+PeerAssessmentItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model/PeerAssessmentItem.java
+END
+AssignmentSupplementItemAttachment.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model/AssignmentSupplementItemAttachment.hbm.xml
+END
+AssignmentAllPurposeItemAccess.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model/AssignmentAllPurposeItemAccess.hbm.xml
+END
+PeerAssessmentItem.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model/PeerAssessmentItem.hbm.xml
+END
+AssignmentSupplementItemService.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model/AssignmentSupplementItemService.java
+END
+AssignmentModelAnswerItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model/AssignmentModelAnswerItem.java
+END
+AssignmentSupplementItem.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model/AssignmentSupplementItem.hbm.xml
+END
+AssignmentSupplementItemWithAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model/AssignmentSupplementItemWithAttachment.java
+END
+PeerAssessmentAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model/PeerAssessmentAttachment.java
+END
+AssignmentNoteItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model/AssignmentNoteItem.java
+END
+AssignmentSupplementItemAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model/AssignmentSupplementItemAttachment.java
+END
+AssignmentAllPurposeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model/AssignmentAllPurposeItem.java
+END
+PeerAssessmentAttachment.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-api/api/src/java/org/sakaiproject/assignment/api/model/PeerAssessmentAttachment.hbm.xml
+END

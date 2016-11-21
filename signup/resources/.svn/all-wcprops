@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources
+END
+hibernate.properties.mysql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/hibernate.properties.mysql
+END
+hibernate.properties.oracle
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/hibernate.properties.oracle
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/build.xml
+END
+sakai.signup.mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/sakai.signup.mysql.sql
+END
+sakai.signup.oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/sakai.signup.oracle.sql
+END

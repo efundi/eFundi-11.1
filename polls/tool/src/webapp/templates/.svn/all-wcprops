@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/polls/tool/src/webapp/templates
+END
+pollOption.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/polls/tool/src/webapp/templates/pollOption.html
+END
+voteResults.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/polls/tool/src/webapp/templates/voteResults.html
+END
+pollOptionDelete.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/polls/tool/src/webapp/templates/pollOptionDelete.html
+END
+voteQuestion.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/polls/tool/src/webapp/templates/voteQuestion.html
+END
+voteAdd.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/polls/tool/src/webapp/templates/voteAdd.html
+END
+voteThanks.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/polls/tool/src/webapp/templates/voteThanks.html
+END
+votePolls.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/polls/tool/src/webapp/templates/votePolls.html
+END
+votePermissions.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/polls/tool/src/webapp/templates/votePermissions.html
+END

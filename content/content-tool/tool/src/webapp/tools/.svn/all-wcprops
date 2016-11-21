@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-tool/tool/src/webapp/tools
+END
+sakai.resources.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-tool/tool/src/webapp/tools/sakai.resources.xml
+END
+sakai.dropbox.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-tool/tool/src/webapp/tools/sakai.dropbox.xml
+END
+sakai.filepicker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-tool/tool/src/webapp/tools/sakai.filepicker.xml
+END
+sakai.resource.type.helper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-tool/tool/src/webapp/tools/sakai.resource.type.helper.xml
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/jsf/renderer
+END
+StylesheetRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/jsf/renderer/StylesheetRenderer.java
+END
+PagerButtonRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/jsf/renderer/PagerButtonRenderer.java
+END
+PagerButtonControlRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/jsf/renderer/PagerButtonControlRenderer.java
+END
+ColorPickerRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/jsf/renderer/ColorPickerRenderer.java
+END
+AlphaIndexRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/jsf/renderer/AlphaIndexRenderer.java
+END
+NavigationMapRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/jsf/renderer/NavigationMapRenderer.java
+END
+HideDivisionRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/jsf/renderer/HideDivisionRenderer.java
+END
+PagerRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/jsf/renderer/PagerRenderer.java
+END
+ColorPickerPopupRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/jsf/renderer/ColorPickerPopupRenderer.java
+END
+DataLineRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/jsf/renderer/DataLineRenderer.java
+END
+ScriptRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/jsf/renderer/ScriptRenderer.java
+END
+TimerBarRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/jsf/renderer/TimerBarRenderer.java
+END

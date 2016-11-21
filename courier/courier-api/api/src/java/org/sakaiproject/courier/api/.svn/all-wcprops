@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/courier/courier-api/api/src/java/org/sakaiproject/courier/api
+END
+Delivery.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/courier/courier-api/api/src/java/org/sakaiproject/courier/api/Delivery.java
+END
+ObservingCourier.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/courier/courier-api/api/src/java/org/sakaiproject/courier/api/ObservingCourier.java
+END
+CourierService.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/courier/courier-api/api/src/java/org/sakaiproject/courier/api/CourierService.java
+END
+PresenceUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/courier/courier-api/api/src/java/org/sakaiproject/courier/api/PresenceUpdater.java
+END
+Expirable.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/courier/courier-api/api/src/java/org/sakaiproject/courier/api/Expirable.java
+END
+DeliveryProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/courier/courier-api/api/src/java/org/sakaiproject/courier/api/DeliveryProvider.java
+END

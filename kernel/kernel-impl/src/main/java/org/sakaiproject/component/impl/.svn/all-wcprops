@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/component/impl
+END
+ConfigDataImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/component/impl/ConfigDataImpl.java
+END
+ConfigItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/component/impl/ConfigItemImpl.java
+END
+ToolConfigurationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/component/impl/ToolConfigurationService.java
+END
+BasicConfigurationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/component/impl/BasicConfigurationService.java
+END

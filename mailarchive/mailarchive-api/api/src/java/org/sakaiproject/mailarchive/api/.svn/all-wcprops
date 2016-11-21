@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailarchive/mailarchive-api/api/src/java/org/sakaiproject/mailarchive/api
+END
+MailArchiveMessageEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailarchive/mailarchive-api/api/src/java/org/sakaiproject/mailarchive/api/MailArchiveMessageEdit.java
+END
+MailArchiveMessageHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailarchive/mailarchive-api/api/src/java/org/sakaiproject/mailarchive/api/MailArchiveMessageHeader.java
+END
+MailArchiveChannelEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailarchive/mailarchive-api/api/src/java/org/sakaiproject/mailarchive/api/MailArchiveChannelEdit.java
+END
+MailArchiveService.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailarchive/mailarchive-api/api/src/java/org/sakaiproject/mailarchive/api/MailArchiveService.java
+END
+MailArchiveMessageHeaderEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailarchive/mailarchive-api/api/src/java/org/sakaiproject/mailarchive/api/MailArchiveMessageHeaderEdit.java
+END
+MailArchiveMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailarchive/mailarchive-api/api/src/java/org/sakaiproject/mailarchive/api/MailArchiveMessage.java
+END
+MailArchiveChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailarchive/mailarchive-api/api/src/java/org/sakaiproject/mailarchive/api/MailArchiveChannel.java
+END

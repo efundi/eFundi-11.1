@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/velocity/tool/src/templates
+END
+chef_footer.vm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/velocity/tool/src/templates/chef_footer.vm
+END
+VM_chef_library.vm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/velocity/tool/src/templates/VM_chef_library.vm
+END
+chef_header.vm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/velocity/tool/src/templates/chef_header.vm
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailsender/tool/src/java/org/sakaiproject/mailsender/tool/producers
+END
+OptionsProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailsender/tool/src/java/org/sakaiproject/mailsender/tool/producers/OptionsProducer.java
+END
+PermissionsProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailsender/tool/src/java/org/sakaiproject/mailsender/tool/producers/PermissionsProducer.java
+END
+NavBarRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailsender/tool/src/java/org/sakaiproject/mailsender/tool/producers/NavBarRenderer.java
+END
+ResultsProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailsender/tool/src/java/org/sakaiproject/mailsender/tool/producers/ResultsProducer.java
+END
+ComposeProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailsender/tool/src/java/org/sakaiproject/mailsender/tool/producers/ComposeProducer.java
+END

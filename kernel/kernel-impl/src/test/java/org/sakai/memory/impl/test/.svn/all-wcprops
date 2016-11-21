@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakai/memory/impl/test
+END
+MockEventTrackingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakai/memory/impl/test/MockEventTrackingService.java
+END
+MockSecurityService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakai/memory/impl/test/MockSecurityService.java
+END
+MockAuthzGroupService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakai/memory/impl/test/MockAuthzGroupService.java
+END
+TestCacheInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakai/memory/impl/test/TestCacheInitializer.java
+END
+MockServerConfigurationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakai/memory/impl/test/MockServerConfigurationService.java
+END
+ehcache-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakai/memory/impl/test/ehcache-test.xml
+END

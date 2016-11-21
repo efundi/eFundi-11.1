@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels
+END
+DMDelimiter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/DMDelimiter.java
+END
+DMTimeUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/DMTimeUtility.java
+END
+IDataModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/IDataModel.java
+END
+DMTypeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/DMTypeValidator.java
+END
+DMRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/DMRequest.java
+END
+DMProcessingInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/DMProcessingInfo.java
+END
+DMElementDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/DMElementDescriptor.java
+END
+SCODataManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/SCODataManager.java
+END
+DMElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/DMElement.java
+END
+IDataManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/IDataManager.java
+END
+DataModel.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/DataModel.hbm.xml
+END
+DMInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/DMInterface.java
+END
+DMDelimiterDescriptor.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/DMDelimiterDescriptor.hbm.xml
+END
+DMDelimiter.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/DMDelimiter.hbm.xml
+END
+RequestDelimiter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/RequestDelimiter.java
+END
+DMFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/DMFactory.java
+END
+DMErrorCodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/DMErrorCodes.java
+END
+Count.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/Count.java
+END
+Children.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/Children.java
+END
+RequestToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/RequestToken.java
+END
+DataModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/DataModel.java
+END
+DMTypeValidator.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/DMTypeValidator.hbm.xml
+END
+DMProcessingInfo.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/DMProcessingInfo.hbm.xml
+END
+DMElementDescriptor.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/DMElementDescriptor.hbm.xml
+END
+SCODataManager.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/SCODataManager.hbm.xml
+END
+DMElement.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/DMElement.hbm.xml
+END
+DMDelimiterDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/datamodels/DMDelimiterDescriptor.java
+END

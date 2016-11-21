@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/textarea/elfinder-sakai/src/java/org/sakaiproject/elfinder/impl
+END
+SakaiFsServiceConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/textarea/elfinder-sakai/src/java/org/sakaiproject/elfinder/impl/SakaiFsServiceConfig.java
+END
+SakaiFsServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/textarea/elfinder-sakai/src/java/org/sakaiproject/elfinder/impl/SakaiFsServiceFactory.java
+END
+SakaiFsSecurityChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/textarea/elfinder-sakai/src/java/org/sakaiproject/elfinder/impl/SakaiFsSecurityChecker.java
+END

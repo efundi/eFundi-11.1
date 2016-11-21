@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-pack/src/sql/mysql
+END
+samigo_er_mysql.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-pack/src/sql/mysql/samigo_er_mysql.pdf
+END
+sakai_samigo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-pack/src/sql/mysql/sakai_samigo.sql
+END
+sakai_samigo_tables_v2_1_2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-pack/src/sql/mysql/sakai_samigo_tables_v2_1_2.sql
+END
+sakai_samigo_tables_v2_2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-pack/src/sql/mysql/sakai_samigo_tables_v2_2.sql
+END
+sakai_samigo_tables_v2_3.sql
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-pack/src/sql/mysql/sakai_samigo_tables_v2_3.sql
+END
+sakai_samigo_tables_v2_4.sql
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-pack/src/sql/mysql/sakai_samigo_tables_v2_4.sql
+END
+sakai_samigo_post_schema_update.sql
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-pack/src/sql/mysql/sakai_samigo_post_schema_update.sql
+END

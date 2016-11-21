@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test
+END
+MockSerializablePropertiesAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/MockSerializablePropertiesAccess.java
+END
+MockSerializableCollectionAcccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/MockSerializableCollectionAcccess.java
+END
+SaxSerializerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/SaxSerializerTest.java
+END
+MockTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/MockTime.java
+END
+GMTDateformatterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/GMTDateformatterTest.java
+END
+MockTimeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/MockTimeService.java
+END
+ProfileSerializerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/ProfileSerializerTest.java
+END
+Type1BaseContentResourceSerializerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/Type1BaseContentResourceSerializerTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/AllTests.java
+END
+ByteStorageConversionCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/ByteStorageConversionCheck.java
+END
+MockSerializableResourceAcccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/MockSerializableResourceAcccess.java
+END
+MySQLByteStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/MySQLByteStorage.java
+END
+Type1BaseContentCollectionSerializerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/java/org/sakaiproject/content/impl/serialize/impl/test/Type1BaseContentCollectionSerializerTest.java
+END

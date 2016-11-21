@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/updateSqlScripts
+END
+Signup_60OracleScript.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/updateSqlScripts/Signup_60OracleScript.sql
+END
+Signup_60MySqlScript.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/updateSqlScripts/Signup_60MySqlScript.sql
+END
+updatingMySqlScript.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/updateSqlScripts/updatingMySqlScript.sql
+END
+updatingOracleScript.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/updateSqlScripts/updatingOracleScript.sql
+END
+signup-conversion-1.0-mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/updateSqlScripts/signup-conversion-1.0-mysql.sql
+END
+Signup_80OracleScript.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/updateSqlScripts/Signup_80OracleScript.sql
+END
+Signup_80MySqlScript.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/updateSqlScripts/Signup_80MySqlScript.sql
+END
+Signup_179-181OracleScript.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/updateSqlScripts/Signup_179-181OracleScript.sql
+END
+Signup_179-181MySqlScript.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/updateSqlScripts/Signup_179-181MySqlScript.sql
+END
+signup-conversion-1.0-oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/updateSqlScripts/signup-conversion-1.0-oracle.sql
+END
+Signup72OracleScript.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/updateSqlScripts/Signup72OracleScript.sql
+END
+Signup72MySqlScript.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/updateSqlScripts/Signup72MySqlScript.sql
+END
+Signup82OracleScript.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/updateSqlScripts/Signup82OracleScript.sql
+END
+Signup82MySqlScript.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/updateSqlScripts/Signup82MySqlScript.sql
+END
+updatingMySqlScript_July_2010.sql
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/updateSqlScripts/updatingMySqlScript_July_2010.sql
+END
+updatingOracleScript_July_2010.sql
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/updateSqlScripts/updatingOracleScript_July_2010.sql
+END
+signup-conversion-1.0-Jan-4-2012-release-oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/updateSqlScripts/signup-conversion-1.0-Jan-4-2012-release-oracle.sql
+END
+Signup103OracleScript.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/updateSqlScripts/Signup103OracleScript.sql
+END
+Signup103MySqlScript.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/updateSqlScripts/Signup103MySqlScript.sql
+END
+Signup_202_mySql_Oracle_SqlScript.sql
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/updateSqlScripts/Signup_202_mySql_Oracle_SqlScript.sql
+END
+signup-conversion-1.0-Jan-04-2012-release-mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/updateSqlScripts/signup-conversion-1.0-Jan-04-2012-release-mysql.sql
+END

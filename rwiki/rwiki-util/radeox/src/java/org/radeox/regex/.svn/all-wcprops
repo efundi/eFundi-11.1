@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-util/radeox/src/java/org/radeox/regex
+END
+JdkCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-util/radeox/src/java/org/radeox/regex/JdkCompiler.java
+END
+Matcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-util/radeox/src/java/org/radeox/regex/Matcher.java
+END
+JdkMatchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-util/radeox/src/java/org/radeox/regex/JdkMatchResult.java
+END
+JdkPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-util/radeox/src/java/org/radeox/regex/JdkPattern.java
+END
+Compiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-util/radeox/src/java/org/radeox/regex/Compiler.java
+END
+MatchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-util/radeox/src/java/org/radeox/regex/MatchResult.java
+END
+JdkMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-util/radeox/src/java/org/radeox/regex/JdkMatcher.java
+END
+Substitution.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-util/radeox/src/java/org/radeox/regex/Substitution.java
+END
+Pattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-util/radeox/src/java/org/radeox/regex/Pattern.java
+END

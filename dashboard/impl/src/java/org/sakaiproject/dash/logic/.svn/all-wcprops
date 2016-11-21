@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/impl/src/java/org/sakaiproject/dash/logic
+END
+DashboardConfigImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/impl/src/java/org/sakaiproject/dash/logic/DashboardConfigImpl.java
+END
+DashboardCommonLogicImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/impl/src/java/org/sakaiproject/dash/logic/DashboardCommonLogicImpl.java
+END
+DashboardUserLogicImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/impl/src/java/org/sakaiproject/dash/logic/DashboardUserLogicImpl.java
+END
+DashboardLogicImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/impl/src/java/org/sakaiproject/dash/logic/DashboardLogicImpl.java
+END
+TaskLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/impl/src/java/org/sakaiproject/dash/logic/TaskLock.java
+END
+EventCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/impl/src/java/org/sakaiproject/dash/logic/EventCopy.java
+END
+SakaiProxyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/impl/src/java/org/sakaiproject/dash/logic/SakaiProxyImpl.java
+END

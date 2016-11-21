@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/OpenCollabZA/sakai.git/!svn/ver/45915/branches/11.1_lesson_import_export_changes/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/tool/beans
+END
+GradingBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/OpenCollabZA/sakai.git/!svn/ver/45914/branches/11.1_lesson_import_export_changes/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/tool/beans/GradingBean.java
+END
+ReportHandlerHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/OpenCollabZA/sakai.git/!svn/ver/45915/branches/11.1_lesson_import_export_changes/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/tool/beans/ReportHandlerHook.java
+END
+SimplePageBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/OpenCollabZA/sakai.git/!svn/ver/45915/branches/11.1_lesson_import_export_changes/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/tool/beans/SimplePageBean.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-events-model/src/java/org/sakaiproject/scheduler/events/hibernate
+END
+TriggerEventHibernateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-events-model/src/java/org/sakaiproject/scheduler/events/hibernate/TriggerEventHibernateImpl.java
+END
+TriggerEventEnumUserType.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-events-model/src/java/org/sakaiproject/scheduler/events/hibernate/TriggerEventEnumUserType.java
+END

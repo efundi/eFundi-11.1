@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/shared/impl/assessment
+END
+ItemServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/shared/impl/assessment/ItemServiceImpl.java
+END
+SectionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/shared/impl/assessment/SectionServiceImpl.java
+END
+AssessmentServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/shared/impl/assessment/AssessmentServiceImpl.java
+END
+PublishedAssessmentServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/shared/impl/assessment/PublishedAssessmentServiceImpl.java
+END
+SecureDeliveryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/shared/impl/assessment/SecureDeliveryServiceImpl.java
+END

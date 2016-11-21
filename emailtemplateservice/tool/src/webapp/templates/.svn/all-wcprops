@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/emailtemplateservice/tool/src/webapp/templates
+END
+modify_email.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/emailtemplateservice/tool/src/webapp/templates/modify_email.html
+END
+main.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/emailtemplateservice/tool/src/webapp/templates/main.html
+END
+preview_email.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/emailtemplateservice/tool/src/webapp/templates/preview_email.html
+END

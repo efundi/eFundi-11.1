@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/sakaiproject/scorm/navigation
+END
+INavigable.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/sakaiproject/scorm/navigation/INavigable.java
+END
+INavigationEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/sakaiproject/scorm/navigation/INavigationEvent.java
+END

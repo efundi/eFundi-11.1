@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-api/src/java/org/sakaiproject/sitestats/api/parser
+END
+EventParserTipFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-api/src/java/org/sakaiproject/sitestats/api/parser/EventParserTipFactory.java
+END
+ToolFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-api/src/java/org/sakaiproject/sitestats/api/parser/ToolFactory.java
+END
+EventFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-api/src/java/org/sakaiproject/sitestats/api/parser/EventFactory.java
+END
+EventParserTip.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-api/src/java/org/sakaiproject/sitestats/api/parser/EventParserTip.java
+END

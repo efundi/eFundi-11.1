@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/HTMLArea
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/HTMLArea/license.txt
+END
+popupdiv.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/HTMLArea/popupdiv.js
+END
+reference.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/HTMLArea/reference.html
+END
+sakai_header.vm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/HTMLArea/sakai_header.vm
+END
+htmlarea.css
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/HTMLArea/htmlarea.css
+END
+sakai_body.vm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/HTMLArea/sakai_body.vm
+END
+htmlarea.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/HTMLArea/htmlarea.js
+END
+setup_htmlarea.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/HTMLArea/setup_htmlarea.js
+END
+sakai_editor.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/HTMLArea/sakai_editor.js
+END
+dialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/HTMLArea/dialog.js
+END
+popupwin.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/HTMLArea/popupwin.js
+END
+sakai_editor_twinpeaks.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/webapp/editor/HTMLArea/sakai_editor_twinpeaks.js
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-metadata/impl/src/java/org/sakaiproject/content/metadata/model
+END
+GroupMetadataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-metadata/impl/src/java/org/sakaiproject/content/metadata/model/GroupMetadataType.java
+END
+DateMetadataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-metadata/impl/src/java/org/sakaiproject/content/metadata/model/DateMetadataType.java
+END
+UserMetadataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-metadata/impl/src/java/org/sakaiproject/content/metadata/model/UserMetadataType.java
+END
+BooleanMetadataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-metadata/impl/src/java/org/sakaiproject/content/metadata/model/BooleanMetadataType.java
+END
+Duration.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-metadata/impl/src/java/org/sakaiproject/content/metadata/model/Duration.java
+END
+EnumMetadataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-metadata/impl/src/java/org/sakaiproject/content/metadata/model/EnumMetadataType.java
+END
+DurationMetadataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-metadata/impl/src/java/org/sakaiproject/content/metadata/model/DurationMetadataType.java
+END
+StringMetadataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-metadata/impl/src/java/org/sakaiproject/content/metadata/model/StringMetadataType.java
+END
+NumberMetadataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-metadata/impl/src/java/org/sakaiproject/content/metadata/model/NumberMetadataType.java
+END
+ListMetadataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-metadata/impl/src/java/org/sakaiproject/content/metadata/model/ListMetadataType.java
+END

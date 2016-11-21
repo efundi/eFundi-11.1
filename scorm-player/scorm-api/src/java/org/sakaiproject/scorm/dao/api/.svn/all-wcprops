@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/sakaiproject/scorm/dao/api
+END
+ContentPackageManifestDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/sakaiproject/scorm/dao/api/ContentPackageManifestDao.java
+END
+AttemptDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/sakaiproject/scorm/dao/api/AttemptDao.java
+END
+DataManagerDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/sakaiproject/scorm/dao/api/DataManagerDao.java
+END
+SeqActivityDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/sakaiproject/scorm/dao/api/SeqActivityDao.java
+END
+SeqActivityTreeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/sakaiproject/scorm/dao/api/SeqActivityTreeDao.java
+END
+ContentPackageDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/sakaiproject/scorm/dao/api/ContentPackageDao.java
+END
+ActivityTreeHolderDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/sakaiproject/scorm/dao/api/ActivityTreeHolderDao.java
+END

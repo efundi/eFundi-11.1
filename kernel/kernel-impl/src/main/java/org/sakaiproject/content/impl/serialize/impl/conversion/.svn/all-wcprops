@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/serialize/impl/conversion
+END
+ConvertTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/serialize/impl/conversion/ConvertTime.java
+END
+SAXSerializableCollectionAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/serialize/impl/conversion/SAXSerializableCollectionAccess.java
+END
+Type1BlobResourcesConversionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/serialize/impl/conversion/Type1BlobResourcesConversionHandler.java
+END
+SAXSerializablePropertiesAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/serialize/impl/conversion/SAXSerializablePropertiesAccess.java
+END
+Type1BlobCollectionConversionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/serialize/impl/conversion/Type1BlobCollectionConversionHandler.java
+END
+ConversionTimeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/serialize/impl/conversion/ConversionTimeService.java
+END
+FileSizeResourcesConversionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/serialize/impl/conversion/FileSizeResourcesConversionHandler.java
+END
+SAXSerializableResourceAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/serialize/impl/conversion/SAXSerializableResourceAccess.java
+END
+upgradeschema.config
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/content/impl/serialize/impl/conversion/upgradeschema.config
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sakaicontrib/blogwow.git/!svn/ver/277/branches/master/api/src/java/org/sakaiproject/blogwow/dao/hbm
+END
+BlogWowEntry.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaicontrib/blogwow.git/!svn/ver/277/branches/master/api/src/java/org/sakaiproject/blogwow/dao/hbm/BlogWowEntry.hbm.xml
+END
+BlogWowComment.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/sakaicontrib/blogwow.git/!svn/ver/172/branches/master/api/src/java/org/sakaiproject/blogwow/dao/hbm/BlogWowComment.hbm.xml
+END
+BlogWowBlog.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaicontrib/blogwow.git/!svn/ver/172/branches/master/api/src/java/org/sakaiproject/blogwow/dao/hbm/BlogWowBlog.hbm.xml
+END

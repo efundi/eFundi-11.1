@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/resources
+END
+bundle2_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/resources/bundle2_eu.properties
+END
+bundle1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/resources/bundle1.properties
+END
+bundle2.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/resources/bundle2.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/resources/log4j.properties
+END
+test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/resources/test.properties
+END
+bundle1_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/test/resources/bundle1_eu.properties
+END

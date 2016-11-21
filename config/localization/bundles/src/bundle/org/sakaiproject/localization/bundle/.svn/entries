@@ -1,0 +1,52 @@
+10
+
+dir
+46020
+https://github.com/sakaiproject/sakai.git/tags/11.1/config/localization/bundles/src/bundle/org/sakaiproject/localization/bundle
+https://github.com/sakaiproject/sakai.git
+
+
+
+2016-08-13T20:25:57.000000Z
+45526
+matthew.jones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b162ff4a-c4c1-f1d3-daf4-ce57b7db7bff
+
+type
+dir
+
+siteimpl
+dir
+
+siteemacon
+dir
+
+emailimpl
+dir
+
+content
+dir
+
+content_type
+dir
+
+authzimpl
+dir
+
+tool
+dir
+

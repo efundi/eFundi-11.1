@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/util
+END
+Iso8601DateFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/util/Iso8601DateFormat.java
+END
+URIResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/util/URIResolver.java
+END
+XmlStringBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/util/XmlStringBuffer.java
+END
+XmlMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/util/XmlMapper.java
+END
+Iso8601TimeInterval.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/util/Iso8601TimeInterval.java
+END
+XmlUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/util/XmlUtil.java
+END

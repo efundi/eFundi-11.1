@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/login/login-render-engine-impl/impl/src/java/org/sakaiproject/login/impl/velocity
+END
+LoginRenderEngineContextListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/login/login-render-engine-impl/impl/src/java/org/sakaiproject/login/impl/velocity/LoginRenderEngineContextListener.java
+END
+VelocityLoginRenderContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/login/login-render-engine-impl/impl/src/java/org/sakaiproject/login/impl/velocity/VelocityLoginRenderContext.java
+END
+VelocityLoginRenderEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/login/login-render-engine-impl/impl/src/java/org/sakaiproject/login/impl/velocity/VelocityLoginRenderEngine.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/api/src/main/java/org/sakaiproject/site/api
+END
+SitePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/api/src/main/java/org/sakaiproject/site/api/SitePage.java
+END
+SiteRemovalAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/api/src/main/java/org/sakaiproject/site/api/SiteRemovalAdvisor.java
+END
+Site.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/api/src/main/java/org/sakaiproject/site/api/Site.java
+END
+SiteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/api/src/main/java/org/sakaiproject/site/api/SiteService.java
+END
+ToolConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/api/src/main/java/org/sakaiproject/site/api/ToolConfiguration.java
+END
+AllowedJoinableAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/api/src/main/java/org/sakaiproject/site/api/AllowedJoinableAccount.java
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/api/src/main/java/org/sakaiproject/site/api/Group.java
+END
+SiteAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/api/src/main/java/org/sakaiproject/site/api/SiteAdvisor.java
+END
+SiteTitleAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/api/src/main/java/org/sakaiproject/site/api/SiteTitleAdvisor.java
+END

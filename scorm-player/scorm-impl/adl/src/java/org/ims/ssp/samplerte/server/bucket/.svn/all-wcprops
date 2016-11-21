@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/adl/src/java/org/ims/ssp/samplerte/server/bucket
+END
+StatusInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/adl/src/java/org/ims/ssp/samplerte/server/bucket/StatusInfo.java
+END
+BucketAllocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/adl/src/java/org/ims/ssp/samplerte/server/bucket/BucketAllocation.java
+END
+Persistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/adl/src/java/org/ims/ssp/samplerte/server/bucket/Persistence.java
+END
+BucketCollectionManagerInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/adl/src/java/org/ims/ssp/samplerte/server/bucket/BucketCollectionManagerInterface.java
+END
+BucketManagerInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/adl/src/java/org/ims/ssp/samplerte/server/bucket/BucketManagerInterface.java
+END
+ManagedBucket.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/adl/src/java/org/ims/ssp/samplerte/server/bucket/ManagedBucket.java
+END
+SuccessStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/adl/src/java/org/ims/ssp/samplerte/server/bucket/SuccessStatus.java
+END
+Bucket.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/adl/src/java/org/ims/ssp/samplerte/server/bucket/Bucket.java
+END
+BucketState.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/adl/src/java/org/ims/ssp/samplerte/server/bucket/BucketState.java
+END

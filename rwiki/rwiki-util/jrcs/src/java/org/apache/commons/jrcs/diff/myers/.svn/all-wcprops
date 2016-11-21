@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-util/jrcs/src/java/org/apache/commons/jrcs/diff/myers
+END
+Snake.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-util/jrcs/src/java/org/apache/commons/jrcs/diff/myers/Snake.java
+END
+PathNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-util/jrcs/src/java/org/apache/commons/jrcs/diff/myers/PathNode.java
+END
+MyersDiff.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-util/jrcs/src/java/org/apache/commons/jrcs/diff/myers/MyersDiff.java
+END
+DiffNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-util/jrcs/src/java/org/apache/commons/jrcs/diff/myers/DiffNode.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-util/jrcs/src/java/org/apache/commons/jrcs/diff/myers/package.html
+END

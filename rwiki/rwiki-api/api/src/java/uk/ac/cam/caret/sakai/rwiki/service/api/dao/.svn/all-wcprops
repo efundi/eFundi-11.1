@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/dao
+END
+RWikiObjectDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/dao/RWikiObjectDao.java
+END
+RWikiHistoryObjectDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/dao/RWikiHistoryObjectDao.java
+END
+RWikiCurrentObjectDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/dao/RWikiCurrentObjectDao.java
+END
+ObjectProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/dao/ObjectProxy.java
+END
+RWikiObjectContentDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/dao/RWikiObjectContentDao.java
+END
+RWikiPropertyDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/api/dao/RWikiPropertyDao.java
+END

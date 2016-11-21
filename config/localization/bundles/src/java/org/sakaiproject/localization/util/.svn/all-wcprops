@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/config/localization/bundles/src/java/org/sakaiproject/localization/util
+END
+SiteImplProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/config/localization/bundles/src/java/org/sakaiproject/localization/util/SiteImplProperties.java
+END
+SiteemaconProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/config/localization/bundles/src/java/org/sakaiproject/localization/util/SiteemaconProperties.java
+END
+EmailImplProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/config/localization/bundles/src/java/org/sakaiproject/localization/util/EmailImplProperties.java
+END
+ContentProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/config/localization/bundles/src/java/org/sakaiproject/localization/util/ContentProperties.java
+END
+ContentTypeProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/config/localization/bundles/src/java/org/sakaiproject/localization/util/ContentTypeProperties.java
+END
+AuthzImplProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/config/localization/bundles/src/java/org/sakaiproject/localization/util/AuthzImplProperties.java
+END
+ToolProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/config/localization/bundles/src/java/org/sakaiproject/localization/util/ToolProperties.java
+END
+TypeProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/config/localization/bundles/src/java/org/sakaiproject/localization/util/TypeProperties.java
+END

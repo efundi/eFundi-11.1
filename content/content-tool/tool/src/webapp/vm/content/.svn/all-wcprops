@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-tool/tool/src/webapp/vm/content
+END
+sakai_resources_properties.vm
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-tool/tool/src/webapp/vm/content/sakai_resources_properties.vm
+END
+chef_resources_deleteConfirm.vm
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-tool/tool/src/webapp/vm/content/chef_resources_deleteConfirm.vm
+END
+sakai_dropbox_options.vm
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-tool/tool/src/webapp/vm/content/sakai_dropbox_options.vm
+END
+sakai_resources_deleteFinish.vm
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-tool/tool/src/webapp/vm/content/sakai_resources_deleteFinish.vm
+END
+sakai_make_site_page.vm
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-tool/tool/src/webapp/vm/content/sakai_make_site_page.vm
+END
+sakai_filepicker_attach.vm
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-tool/tool/src/webapp/vm/content/sakai_filepicker_attach.vm
+END
+sakai_resources_hideFinish.vm
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-tool/tool/src/webapp/vm/content/sakai_resources_hideFinish.vm
+END
+sakai_resources_list.vm
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-tool/tool/src/webapp/vm/content/sakai_resources_list.vm
+END
+sakai_resources_cwiz_finish.vm
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-tool/tool/src/webapp/vm/content/sakai_resources_cwiz_finish.vm
+END
+chef_resources_reorder.vm
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-tool/tool/src/webapp/vm/content/chef_resources_reorder.vm
+END
+chef_resources_more.vm
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-tool/tool/src/webapp/vm/content/chef_resources_more.vm
+END
+sakai_resources_columns.vm
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-tool/tool/src/webapp/vm/content/sakai_resources_columns.vm
+END
+sakai_resources_showFinish.vm
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-tool/tool/src/webapp/vm/content/sakai_resources_showFinish.vm
+END
+sakai_filepicker_select.vm
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-tool/tool/src/webapp/vm/content/sakai_filepicker_select.vm
+END
+sakai_resources_restore.vm
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-tool/tool/src/webapp/vm/content/sakai_resources_restore.vm
+END
+chef_resources_webdav.vm
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-tool/tool/src/webapp/vm/content/chef_resources_webdav.vm
+END
+sakai_resources_options.vm
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-tool/tool/src/webapp/vm/content/sakai_resources_options.vm
+END

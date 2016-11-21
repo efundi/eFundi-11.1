@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/org/tsugi/lti2
+END
+LTI2Servlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/org/tsugi/lti2/LTI2Servlet.java
+END
+ToolProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/org/tsugi/lti2/ToolProxy.java
+END
+LTI2Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/org/tsugi/lti2/LTI2Config.java
+END
+LTI2Caps.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/org/tsugi/lti2/LTI2Caps.java
+END
+LTI2ConfigSample.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/org/tsugi/lti2/LTI2ConfigSample.java
+END
+LTI2Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/org/tsugi/lti2/LTI2Messages.java
+END
+LTI2SampleData.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/org/tsugi/lti2/LTI2SampleData.java
+END
+LTI2Vars.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/org/tsugi/lti2/LTI2Vars.java
+END
+LTI2Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/org/tsugi/lti2/LTI2Constants.java
+END
+LTI2Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/org/tsugi/lti2/LTI2Util.java
+END
+ContentItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/org/tsugi/lti2/ContentItem.java
+END
+ToolProxyBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/tsugi-util/src/java/org/tsugi/lti2/ToolProxyBinding.java
+END

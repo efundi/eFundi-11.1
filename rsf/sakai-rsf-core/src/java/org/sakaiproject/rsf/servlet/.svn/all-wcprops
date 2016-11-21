@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rsf/sakai-rsf-core/src/java/org/sakaiproject/rsf/servlet
+END
+SakaiHttpServletFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rsf/sakai-rsf-core/src/java/org/sakaiproject/rsf/servlet/SakaiHttpServletFactory.java
+END
+ReasonableSakaiServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rsf/sakai-rsf-core/src/java/org/sakaiproject/rsf/servlet/ReasonableSakaiServlet.java
+END
+SakaiBaseURLProviderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rsf/sakai-rsf-core/src/java/org/sakaiproject/rsf/servlet/SakaiBaseURLProviderFactory.java
+END
+SakaiServletContextLocatorLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rsf/sakai-rsf-core/src/java/org/sakaiproject/rsf/servlet/SakaiServletContextLocatorLocator.java
+END
+SakaiServletContextLocatorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rsf/sakai-rsf-core/src/java/org/sakaiproject/rsf/servlet/SakaiServletContextLocatorListener.java
+END
+SakaiRequestParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rsf/sakai-rsf-core/src/java/org/sakaiproject/rsf/servlet/SakaiRequestParser.java
+END

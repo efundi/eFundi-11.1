@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/api/src/java/org/sakaiproject/signup/logic/messages
+END
+SignupTimeslotChanges.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/api/src/java/org/sakaiproject/signup/logic/messages/SignupTimeslotChanges.java
+END
+SignupEmailNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/api/src/java/org/sakaiproject/signup/logic/messages/SignupEmailNotification.java
+END
+SignupEventTrackingInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/api/src/java/org/sakaiproject/signup/logic/messages/SignupEventTrackingInfo.java
+END
+SignupEventTrackingInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/api/src/java/org/sakaiproject/signup/logic/messages/SignupEventTrackingInfoImpl.java
+END
+AttendeeComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/api/src/java/org/sakaiproject/signup/logic/messages/AttendeeComment.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/area
+END
+dfConfirmRemoveRanks.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/area/dfConfirmRemoveRanks.jsp
+END
+dfTemplateOrganize.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/area/dfTemplateOrganize.jsp
+END
+dfTemplateSettings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/area/dfTemplateSettings.jsp
+END
+sendToPicker.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/area/sendToPicker.jsp
+END
+dfEditRank.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/area/dfEditRank.jsp
+END
+dfViewAllRanks.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/area/dfViewAllRanks.jsp
+END
+dfAddRank.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/area/dfAddRank.jsp
+END
+dfWatchSettings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/area/dfWatchSettings.jsp
+END
+dfArea.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/area/dfArea.jsp
+END
+peoplePicker.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-app/src/webapp/jsp/discussionForum/area/peoplePicker.jsp
+END

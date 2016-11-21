@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/textarea/elfinder-sakai/src/webapp/WEB-INF
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/textarea/elfinder-sakai/src/webapp/WEB-INF/applicationContext.xml
+END
+elfinder-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/textarea/elfinder-sakai/src/webapp/WEB-INF/elfinder-servlet.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/textarea/elfinder-sakai/src/webapp/WEB-INF/web.xml
+END

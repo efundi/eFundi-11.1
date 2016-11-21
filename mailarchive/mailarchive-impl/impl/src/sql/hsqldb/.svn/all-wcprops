@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailarchive/mailarchive-impl/impl/src/sql/hsqldb
+END
+sakai_mailarchive_2_6_0.sql
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailarchive/mailarchive-impl/impl/src/sql/hsqldb/sakai_mailarchive_2_6_0.sql
+END
+sakai_mailarchive.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailarchive/mailarchive-impl/impl/src/sql/hsqldb/sakai_mailarchive.sql
+END

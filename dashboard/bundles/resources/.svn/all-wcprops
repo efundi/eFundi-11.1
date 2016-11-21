@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/bundles/resources
+END
+dash_entity_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/bundles/resources/dash_entity_ja.properties
+END
+dash_entity_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/bundles/resources/dash_entity_tr_TR.properties
+END
+dash_entity.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/bundles/resources/dash_entity.properties
+END
+dash_entity_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/bundles/resources/dash_entity_zh_CN.properties
+END
+dash_entity_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/bundles/resources/dash_entity_ca.properties
+END
+dash_entity_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/bundles/resources/dash_entity_es.properties
+END

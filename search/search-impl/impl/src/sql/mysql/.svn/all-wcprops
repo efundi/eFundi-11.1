@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/search/search-impl/impl/src/sql/mysql
+END
+SAK-9865.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/search/search-impl/impl/src/sql/mysql/SAK-9865.sql
+END
+sakai_search_parallel.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/search/search-impl/impl/src/sql/mysql/sakai_search_parallel.sql
+END
+sakai_search.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/search/search-impl/impl/src/sql/mysql/sakai_search.sql
+END

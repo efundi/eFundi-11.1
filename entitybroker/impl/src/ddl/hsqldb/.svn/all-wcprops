@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/impl/src/ddl/hsqldb
+END
+entityProperty.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/impl/src/ddl/hsqldb/entityProperty.sql
+END
+entityTagApplication.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/impl/src/ddl/hsqldb/entityTagApplication.sql
+END

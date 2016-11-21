@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/sections-service/sections-api/src/java/org/sakaiproject/section/api/facade/manager
+END
+Authn.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/sections-service/sections-api/src/java/org/sakaiproject/section/api/facade/manager/Authn.java
+END
+Context.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/sections-service/sections-api/src/java/org/sakaiproject/section/api/facade/manager/Context.java
+END
+Authz.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/sections-service/sections-api/src/java/org/sakaiproject/section/api/facade/manager/Authz.java
+END

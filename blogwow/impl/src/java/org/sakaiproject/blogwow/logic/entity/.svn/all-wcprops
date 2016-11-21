@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaicontrib/blogwow.git/!svn/ver/295/branches/master/impl/src/java/org/sakaiproject/blogwow/logic/entity
+END
+BlogEntryEntityProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaicontrib/blogwow.git/!svn/ver/256/branches/master/impl/src/java/org/sakaiproject/blogwow/logic/entity/BlogEntryEntityProviderImpl.java
+END
+BlogGroupRssEntityProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaicontrib/blogwow.git/!svn/ver/290/branches/master/impl/src/java/org/sakaiproject/blogwow/logic/entity/BlogGroupRssEntityProviderImpl.java
+END
+BlogRssEntityProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaicontrib/blogwow.git/!svn/ver/153/branches/master/impl/src/java/org/sakaiproject/blogwow/logic/entity/BlogRssEntityProviderImpl.java
+END
+BlogGroupEntityProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaicontrib/blogwow.git/!svn/ver/295/branches/master/impl/src/java/org/sakaiproject/blogwow/logic/entity/BlogGroupEntityProviderImpl.java
+END
+BlogEntityProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaicontrib/blogwow.git/!svn/ver/207/branches/master/impl/src/java/org/sakaiproject/blogwow/logic/entity/BlogEntityProviderImpl.java
+END

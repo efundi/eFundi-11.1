@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/alias/impl
+END
+DbAliasService.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/alias/impl/DbAliasService.java
+END
+BaseAliasService.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/alias/impl/BaseAliasService.java
+END
+AliasServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/kernel-impl/src/main/java/org/sakaiproject/alias/impl/AliasServiceTest.java
+END

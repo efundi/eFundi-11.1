@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/adl/src/java/org/adl/validator
+END
+RulesValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/adl/src/java/org/adl/validator/RulesValidator.java
+END
+ADLValidatorOutcome.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/adl/src/java/org/adl/validator/ADLValidatorOutcome.java
+END
+ADLSCORMValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/adl/src/java/org/adl/validator/ADLSCORMValidator.java
+END
+DOMRulesCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/adl/src/java/org/adl/validator/DOMRulesCreator.java
+END

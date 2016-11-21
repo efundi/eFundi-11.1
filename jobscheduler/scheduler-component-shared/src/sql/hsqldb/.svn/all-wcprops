@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/sql/hsqldb
+END
+indexes2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/sql/hsqldb/indexes2.sql
+END
+quartz.sql
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/sql/hsqldb/quartz.sql
+END
+delayed.sql
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/sql/hsqldb/delayed.sql
+END
+checkTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/sql/hsqldb/checkTables.sql
+END
+quartz2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/sql/hsqldb/quartz2.sql
+END
+upgrade-1.8.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/sql/hsqldb/upgrade-1.8.sql
+END
+init_locks.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/sql/hsqldb/init_locks.sql
+END
+indexes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/sql/hsqldb/indexes.sql
+END
+init_locks2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/sql/hsqldb/init_locks2.sql
+END

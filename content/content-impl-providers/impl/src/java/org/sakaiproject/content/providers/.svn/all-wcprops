@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-impl-providers/impl/src/java/org/sakaiproject/content/providers
+END
+BaseEventDelayHandlerSqlMySql.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-impl-providers/impl/src/java/org/sakaiproject/content/providers/BaseEventDelayHandlerSqlMySql.java
+END
+BaseEventDelayHandlerSqlOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-impl-providers/impl/src/java/org/sakaiproject/content/providers/BaseEventDelayHandlerSqlOracle.java
+END
+BaseEventDelayHandlerSqlHSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-impl-providers/impl/src/java/org/sakaiproject/content/providers/BaseEventDelayHandlerSqlHSql.java
+END
+BaseEventDelayHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-impl-providers/impl/src/java/org/sakaiproject/content/providers/BaseEventDelayHandler.java
+END
+BaseEventDelayHandlerSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-impl-providers/impl/src/java/org/sakaiproject/content/providers/BaseEventDelayHandlerSql.java
+END
+BaseEventDelayHandlerSqlMsSql.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-impl-providers/impl/src/java/org/sakaiproject/content/providers/BaseEventDelayHandlerSqlMsSql.java
+END
+SimpleSiteContentAdvisorProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-impl-providers/impl/src/java/org/sakaiproject/content/providers/SimpleSiteContentAdvisorProvider.java
+END
+BaseEventDelayHandlerSqlDefault.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-impl-providers/impl/src/java/org/sakaiproject/content/providers/BaseEventDelayHandlerSqlDefault.java
+END

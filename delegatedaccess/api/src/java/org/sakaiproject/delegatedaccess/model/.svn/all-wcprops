@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/api/src/java/org/sakaiproject/delegatedaccess/model
+END
+HierarchyNodeSerialized.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/api/src/java/org/sakaiproject/delegatedaccess/model/HierarchyNodeSerialized.java
+END
+ListOptionSerialized.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/api/src/java/org/sakaiproject/delegatedaccess/model/ListOptionSerialized.java
+END
+SiteSerialized.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/api/src/java/org/sakaiproject/delegatedaccess/model/SiteSerialized.java
+END
+SearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/api/src/java/org/sakaiproject/delegatedaccess/model/SearchResult.java
+END
+AccessSearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/api/src/java/org/sakaiproject/delegatedaccess/model/AccessSearchResult.java
+END
+NodeModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/api/src/java/org/sakaiproject/delegatedaccess/model/NodeModel.java
+END
+AccessNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/api/src/java/org/sakaiproject/delegatedaccess/model/AccessNode.java
+END
+SelectOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/api/src/java/org/sakaiproject/delegatedaccess/model/SelectOption.java
+END
+SiteSearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/api/src/java/org/sakaiproject/delegatedaccess/model/SiteSearchResult.java
+END

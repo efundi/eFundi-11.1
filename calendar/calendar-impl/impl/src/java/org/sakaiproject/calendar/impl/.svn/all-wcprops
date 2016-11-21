@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl
+END
+MWFRecurrenceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/MWFRecurrenceRule.java
+END
+SMTWRecurrenceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/SMTWRecurrenceRule.java
+END
+MonthlyRecurrenceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/MonthlyRecurrenceRule.java
+END
+DbCalendarService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/DbCalendarService.java
+END
+TThRecurrenceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/TThRecurrenceRule.java
+END
+WeeklyRecurrenceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/WeeklyRecurrenceRule.java
+END
+DailyRecurrenceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/DailyRecurrenceRule.java
+END
+SubscriptionCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/SubscriptionCache.java
+END
+YearlyRecurrenceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/YearlyRecurrenceRule.java
+END
+SMWRecurrenceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/SMWRecurrenceRule.java
+END
+SAK11204Fix.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/SAK11204Fix.java
+END
+ExclusionRecurrenceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/ExclusionRecurrenceRule.java
+END
+RecurrenceRuleBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/RecurrenceRuleBase.java
+END
+STTRecurrenceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/STTRecurrenceRule.java
+END
+RecurrenceInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/RecurrenceInstance.java
+END
+BaseExternalSubscription.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/BaseExternalSubscription.java
+END
+BaseCalendarService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/BaseCalendarService.java
+END
+OpaqueUrlDaoHbm.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/OpaqueUrlDaoHbm.java
+END
+GenericCalendarImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/GenericCalendarImporter.java
+END
+ExclusionSeqRecurrenceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/ExclusionSeqRecurrenceRule.java
+END
+MWRecurrenceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/MWRecurrenceRule.java
+END
+BaseExternalCalendarSubscriptionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-impl/impl/src/java/org/sakaiproject/calendar/impl/BaseExternalCalendarSubscriptionService.java
+END

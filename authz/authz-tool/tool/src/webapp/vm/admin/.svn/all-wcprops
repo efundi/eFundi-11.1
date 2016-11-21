@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/authz/authz-tool/tool/src/webapp/vm/admin
+END
+chef_realms_edit_role.vm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/authz/authz-tool/tool/src/webapp/vm/admin/chef_realms_edit_role.vm
+END
+chef_realms_confirm_remove.vm
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/authz/authz-tool/tool/src/webapp/vm/admin/chef_realms_confirm_remove.vm
+END
+chef_realms_list.vm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/authz/authz-tool/tool/src/webapp/vm/admin/chef_realms_list.vm
+END
+chef_realms_noaccess.vm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/authz/authz-tool/tool/src/webapp/vm/admin/chef_realms_noaccess.vm
+END
+chef_realms_saveas.vm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/authz/authz-tool/tool/src/webapp/vm/admin/chef_realms_saveas.vm
+END
+chef_realms_edit_user.vm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/authz/authz-tool/tool/src/webapp/vm/admin/chef_realms_edit_user.vm
+END
+chef_realms_saveas_role.vm
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/authz/authz-tool/tool/src/webapp/vm/admin/chef_realms_saveas_role.vm
+END
+chef_realms_edit.vm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/authz/authz-tool/tool/src/webapp/vm/admin/chef_realms_edit.vm
+END

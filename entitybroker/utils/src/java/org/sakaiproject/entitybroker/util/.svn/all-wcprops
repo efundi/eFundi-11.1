@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util
+END
+ReloadableComponentProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/ReloadableComponentProxy.java
+END
+VersionConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/VersionConstants.java
+END
+EntityDataUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/EntityDataUtils.java
+END
+AbstractEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/AbstractEntityProvider.java
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/329/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/console/pages
+END
+PackageListPage.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/console/pages/PackageListPage.properties
+END
+PackageConfigurationPage.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/console/pages/PackageConfigurationPage.html
+END
+NotConfiguredPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/console/pages/NotConfiguredPage.java
+END
+MaydayWebMarkupContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/console/pages/MaydayWebMarkupContainer.java
+END
+ConsoleBasePage.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/console/pages/ConsoleBasePage.properties
+END
+PackageRemovePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/console/pages/PackageRemovePage.java
+END
+PackageListPage.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/console/pages/PackageListPage.html
+END
+DisplayDesignatedPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/console/pages/DisplayDesignatedPackage.java
+END
+DisplayDesignatedPackage_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/console/pages/DisplayDesignatedPackage_nl.properties
+END
+ConsoleBasePage.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/329/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/console/pages/ConsoleBasePage.html
+END
+NotConfiguredPage.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/console/pages/NotConfiguredPage.properties
+END
+PackageConfigurationPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/console/pages/PackageConfigurationPage.java
+END
+DisplayDesignatedPackage.css
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/console/pages/DisplayDesignatedPackage.css
+END
+PackageRemovePage.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/console/pages/PackageRemovePage.properties
+END
+DisplayDesignatedPackage.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/console/pages/DisplayDesignatedPackage.properties
+END
+PackageListPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/console/pages/PackageListPage.java
+END
+NotConfiguredPage.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/console/pages/NotConfiguredPage.html
+END
+PackageListPage_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/console/pages/PackageListPage_nl.properties
+END
+PackageRemovePage.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/console/pages/PackageRemovePage.html
+END
+ConsoleBasePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/329/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/console/pages/ConsoleBasePage.java
+END
+PackageConfigurationPage.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/console/pages/PackageConfigurationPage.properties
+END
+DisplayDesignatedPackage.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/console/pages/DisplayDesignatedPackage.html
+END
+ConsoleBasePage_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/console/pages/ConsoleBasePage_nl.properties
+END

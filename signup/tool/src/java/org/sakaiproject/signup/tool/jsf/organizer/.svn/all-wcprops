@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/tool/src/java/org/sakaiproject/signup/tool/jsf/organizer
+END
+UserDefineTimeslotBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/tool/src/java/org/sakaiproject/signup/tool/jsf/organizer/UserDefineTimeslotBean.java
+END
+AttendanceSignupBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/tool/src/java/org/sakaiproject/signup/tool/jsf/organizer/AttendanceSignupBean.java
+END
+EditMeetingSignupMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/tool/src/java/org/sakaiproject/signup/tool/jsf/organizer/EditMeetingSignupMBean.java
+END
+OrganizerSignupMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/tool/src/java/org/sakaiproject/signup/tool/jsf/organizer/OrganizerSignupMBean.java
+END
+CopyMeetingSignupMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/tool/src/java/org/sakaiproject/signup/tool/jsf/organizer/CopyMeetingSignupMBean.java
+END

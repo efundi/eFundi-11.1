@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/sections-service/sections-impl/integration-support/src/java/org/sakaiproject/component/section/support
+END
+IntegrationSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/sections-service/sections-impl/integration-support/src/java/org/sakaiproject/component/section/support/IntegrationSupport.java
+END
+IntegrationSupportImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/sections-service/sections-impl/integration-support/src/java/org/sakaiproject/component/section/support/IntegrationSupportImpl.java
+END
+UserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/sections-service/sections-impl/integration-support/src/java/org/sakaiproject/component/section/support/UserManager.java
+END
+UserManagerHibernateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/sections-service/sections-impl/integration-support/src/java/org/sakaiproject/component/section/support/UserManagerHibernateImpl.java
+END

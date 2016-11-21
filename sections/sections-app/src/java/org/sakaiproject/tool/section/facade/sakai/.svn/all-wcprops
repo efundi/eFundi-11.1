@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sections/sections-app/src/java/org/sakaiproject/tool/section/facade/sakai
+END
+ContextSakaiImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sections/sections-app/src/java/org/sakaiproject/tool/section/facade/sakai/ContextSakaiImpl.java
+END
+AuthzSakaiImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sections/sections-app/src/java/org/sakaiproject/tool/section/facade/sakai/AuthzSakaiImpl.java
+END
+AuthnSakaiImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sections/sections-app/src/java/org/sakaiproject/tool/section/facade/sakai/AuthnSakaiImpl.java
+END

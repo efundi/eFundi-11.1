@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/help/util
+END
+helputil.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/help/util/helputil.pl
+END
+update-help.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/help/util/update-help.pl
+END
+svnstatus.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/help/util/svnstatus.sh
+END
+getdeps.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/help/util/getdeps.sh
+END
+transform.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/help/util/transform.sh
+END
+kb-to-help.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/help/util/kb-to-help.xsl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/help/util/README
+END

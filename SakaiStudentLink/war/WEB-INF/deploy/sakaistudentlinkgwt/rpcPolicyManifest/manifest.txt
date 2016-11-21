@@ -1,0 +1,3 @@
+# Module sakaistudentlinkgwt
+# RPC service class, partial path of RPC policy file
+edu.nwu.sakai.studentlink.client.SakaiStudentLinkService, AA8994DD833ABF88FE7B39E2D3A704FA.gwt.rpc

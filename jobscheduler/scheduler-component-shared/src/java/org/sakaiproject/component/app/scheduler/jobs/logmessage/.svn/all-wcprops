@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/logmessage
+END
+LogMessageJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/logmessage/LogMessageJob.java
+END
+Messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/logmessage/Messages.properties
+END
+Messages_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/logmessage/Messages_zh_CN.properties
+END
+Messages_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/logmessage/Messages_ca.properties
+END
+Messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/logmessage/Messages_es.properties
+END
+Messages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/logmessage/Messages_ja.properties
+END
+Messages_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/logmessage/Messages_tr_TR.properties
+END

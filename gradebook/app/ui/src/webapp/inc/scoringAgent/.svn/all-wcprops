@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebook/app/ui/src/webapp/inc/scoringAgent
+END
+assignmentDetails.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebook/app/ui/src/webapp/inc/scoringAgent/assignmentDetails.jspf
+END
+editAssignment.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebook/app/ui/src/webapp/inc/scoringAgent/editAssignment.jspf
+END
+studentView.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebook/app/ui/src/webapp/inc/scoringAgent/studentView.jspf
+END
+instructorView.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebook/app/ui/src/webapp/inc/scoringAgent/instructorView.jspf
+END

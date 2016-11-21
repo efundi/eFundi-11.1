@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/polls/impl/src/test/org/sakaiproject/poll/logic/test
+END
+PollListManagerImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/polls/impl/src/test/org/sakaiproject/poll/logic/test/PollListManagerImplTest.java
+END
+TestDataPreload.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/polls/impl/src/test/org/sakaiproject/poll/logic/test/TestDataPreload.java
+END
+PollListManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/polls/impl/src/test/org/sakaiproject/poll/logic/test/PollListManagerTest.java
+END

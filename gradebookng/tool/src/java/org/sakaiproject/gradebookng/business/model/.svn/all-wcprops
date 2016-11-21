@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/business/model
+END
+GbStudentNameSortOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/business/model/GbStudentNameSortOrder.java
+END
+ImportedGradeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/business/model/ImportedGradeItem.java
+END
+GbGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/business/model/GbGroup.java
+END
+GbGradeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/business/model/GbGradeInfo.java
+END
+ProcessedGradeItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/business/model/ProcessedGradeItem.java
+END
+GbCourseGrade.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/business/model/GbCourseGrade.java
+END
+ProcessedGradeItemStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/business/model/ProcessedGradeItemStatus.java
+END
+GbStudentGradeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/business/model/GbStudentGradeInfo.java
+END
+GbCategoryAverageSortOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/business/model/GbCategoryAverageSortOrder.java
+END
+ImportedGrade.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/business/model/ImportedGrade.java
+END
+ImportedGradeWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/business/model/ImportedGradeWrapper.java
+END
+GbUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/business/model/GbUser.java
+END
+ImportColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/business/model/ImportColumn.java
+END
+GbAssignmentGradeSortOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/business/model/GbAssignmentGradeSortOrder.java
+END
+GbGradeCell.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/business/model/GbGradeCell.java
+END
+ProcessedGradeItemDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/business/model/ProcessedGradeItemDetail.java
+END
+GbGradeLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/business/model/GbGradeLog.java
+END

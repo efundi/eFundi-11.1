@@ -1,0 +1,83 @@
+10
+
+dir
+46020
+https://github.com/sakaiproject/sakai.git/tags/11.1/jsf/jsf-resource/src/webapp
+https://github.com/sakaiproject/sakai.git
+
+
+
+2016-08-13T20:25:57.000000Z
+45526
+matthew.jones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b162ff4a-c4c1-f1d3-daf4-ce57b7db7bff
+
+timerBar
+dir
+
+WEB-INF
+dir
+
+css
+dir
+
+inputRichText
+dir
+
+README.txt
+file
+
+
+
+
+2016-10-27T12:48:40.956126Z
+d188ad08ca1b6abaa14df2261401c586
+2016-08-13T20:25:57.000000Z
+45526
+matthew.jones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+177
+
+inputDate
+dir
+
+hideDivision
+dir
+
+inputColor
+dir
+

@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages
+END
+EditablePanelAdvancedUserOptionsText.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/EditablePanelAdvancedUserOptionsText.java
+END
+EditablePanelCheckbox.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/EditablePanelCheckbox.java
+END
+UserEditPage.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/UserEditPage.html
+END
+BasePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/BasePage.java
+END
+EditablePanelEmpty.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/EditablePanelEmpty.java
+END
+UserPageSiteSearch.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/UserPageSiteSearch.html
+END
+UserPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/UserPage.java
+END
+ShoppingEditPage.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/ShoppingEditPage.html
+END
+EditablePanelAdvancedOptions.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/EditablePanelAdvancedOptions.html
+END
+UserEditPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/UserEditPage.java
+END
+EditablePanelAdvancedOptionsText.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/EditablePanelAdvancedOptionsText.html
+END
+UserPageSiteSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/UserPageSiteSearch.java
+END
+EditablePanelDropdown.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/EditablePanelDropdown.html
+END
+ShoppingEditPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/ShoppingEditPage.java
+END
+EditablePanelAdvancedOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/EditablePanelAdvancedOptions.java
+END
+ShoppingEditBulkPage.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/ShoppingEditBulkPage.html
+END
+EditablePanelDropdownText.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/EditablePanelDropdownText.html
+END
+EditablePanelAdvancedOptionsText.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/EditablePanelAdvancedOptionsText.java
+END
+EditablePanelListInherited.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/EditablePanelListInherited.html
+END
+AdministratePage.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/AdministratePage.html
+END
+EditablePanelDropdown.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/EditablePanelDropdown.java
+END
+SearchUsersPage.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/SearchUsersPage.html
+END
+SearchAccessPage.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/SearchAccessPage.html
+END
+EditablePanelList.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/EditablePanelList.html
+END
+ShoppingEditBulkPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/ShoppingEditBulkPage.java
+END
+EditablePanelDate.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/EditablePanelDate.html
+END
+EditablePanelDropdownText.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/EditablePanelDropdownText.java
+END
+EditablePanelAdvancedUserOptions.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/EditablePanelAdvancedUserOptions.html
+END
+EditablePanelDateText.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/EditablePanelDateText.html
+END
+EditablePanelListInherited.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/EditablePanelListInherited.java
+END
+AdministratePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/AdministratePage.java
+END
+EditablePanelAdvancedUserOptionsText.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/EditablePanelAdvancedUserOptionsText.html
+END
+EditablePanelCheckbox.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/EditablePanelCheckbox.html
+END
+SearchAccessPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/SearchAccessPage.java
+END
+SearchUsersPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/SearchUsersPage.java
+END
+EditablePanelList.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/EditablePanelList.java
+END
+EditablePanelDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/EditablePanelDate.java
+END
+BaseTreePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/BaseTreePage.java
+END
+BasePage.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/BasePage.html
+END
+EditablePanelAdvancedUserOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/EditablePanelAdvancedUserOptions.java
+END
+EditablePanelEmpty.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/EditablePanelEmpty.html
+END
+EditablePanelDateText.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/EditablePanelDateText.java
+END
+ShoppingEditBulkPage$LinkPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/ShoppingEditBulkPage$LinkPanel.html
+END
+UserPage.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/delegatedaccess/tool/src/java/org/sakaiproject/delegatedaccess/tool/pages/UserPage.html
+END

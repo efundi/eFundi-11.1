@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-api/src/java/org/sakaiproject/api/app/scheduler
+END
+ConfigurableJobProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-api/src/java/org/sakaiproject/api/app/scheduler/ConfigurableJobProperty.java
+END
+DelayedInvocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-api/src/java/org/sakaiproject/api/app/scheduler/DelayedInvocation.java
+END
+JobBeanWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-api/src/java/org/sakaiproject/api/app/scheduler/JobBeanWrapper.java
+END
+ConfigurableJobBeanWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-api/src/java/org/sakaiproject/api/app/scheduler/ConfigurableJobBeanWrapper.java
+END
+TriggerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-api/src/java/org/sakaiproject/api/app/scheduler/TriggerWrapper.java
+END
+ScheduledInvocationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-api/src/java/org/sakaiproject/api/app/scheduler/ScheduledInvocationManager.java
+END
+ConfigurableJobPropertyValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-api/src/java/org/sakaiproject/api/app/scheduler/ConfigurableJobPropertyValidator.java
+END
+ScheduledInvocationCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-api/src/java/org/sakaiproject/api/app/scheduler/ScheduledInvocationCommand.java
+END
+SchedulerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-api/src/java/org/sakaiproject/api/app/scheduler/SchedulerManager.java
+END
+ConfigurableJobPropertyValidationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-api/src/java/org/sakaiproject/api/app/scheduler/ConfigurableJobPropertyValidationException.java
+END
+DefaultJobPropertyValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-api/src/java/org/sakaiproject/api/app/scheduler/DefaultJobPropertyValidator.java
+END
+JobDetailWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-api/src/java/org/sakaiproject/api/app/scheduler/JobDetailWrapper.java
+END

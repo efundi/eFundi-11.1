@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/questionpool
+END
+QuestionPoolData.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/questionpool/QuestionPoolData.hbm.xml
+END
+QuestionPoolItemData.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/questionpool/QuestionPoolItemData.java
+END
+QuestionPoolData.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/questionpool/QuestionPoolData.java
+END
+QuestionPoolAccessData.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-hibernate/src/java/org/sakaiproject/tool/assessment/data/dao/questionpool/QuestionPoolAccessData.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/api/src/main/java/org/sakaiproject/antivirus/api
+END
+VirusScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/api/src/main/java/org/sakaiproject/antivirus/api/VirusScanner.java
+END
+VirusFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/api/src/main/java/org/sakaiproject/antivirus/api/VirusFoundException.java
+END
+VirusScanIncompleteException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/kernel/api/src/main/java/org/sakaiproject/antivirus/api/VirusScanIncompleteException.java
+END

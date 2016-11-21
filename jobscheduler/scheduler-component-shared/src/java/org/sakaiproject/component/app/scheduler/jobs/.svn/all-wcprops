@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs
+END
+ContentCheckJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/ContentCheckJob.java
+END
+SpringConfigurableJobBeanWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/SpringConfigurableJobBeanWrapper.java
+END
+Messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/Messages_es.properties
+END
+Messages_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/Messages_eu.properties
+END
+SoftSiteDeletionJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/SoftSiteDeletionJob.java
+END
+AbstractConfigurableJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/AbstractConfigurableJob.java
+END
+AuthzGroupProviderSync.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/AuthzGroupProviderSync.java
+END
+Messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/Messages.properties
+END
+SpringConfigurableJobProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/SpringConfigurableJobProperty.java
+END
+SpringInitialJobSchedule.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/SpringInitialJobSchedule.java
+END
+ScheduledInvocationRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/ScheduledInvocationRunner.java
+END
+SpringJobBeanWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/SpringJobBeanWrapper.java
+END
+Messages_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/Messages_ca.properties
+END
+SakaiEventArchiveJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/SakaiEventArchiveJob.java
+END
+Messages_hi_IN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/Messages_hi_IN.properties
+END
+Messages_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/Messages_tr_TR.properties
+END
+Messages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/Messages_ja.properties
+END
+SpringStatefulJobBeanWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/java/org/sakaiproject/component/app/scheduler/jobs/SpringStatefulJobBeanWrapper.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/api/src/java/org/sakaiproject/dash/entity
+END
+DashboardEntityInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/api/src/java/org/sakaiproject/dash/entity/DashboardEntityInfo.java
+END
+RepeatingEventGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/api/src/java/org/sakaiproject/dash/entity/RepeatingEventGenerator.java
+END

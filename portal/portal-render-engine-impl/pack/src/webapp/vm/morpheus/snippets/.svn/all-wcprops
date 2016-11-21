@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-render-engine-impl/pack/src/webapp/vm/morpheus/snippets
+END
+portalChat-snippet.vm
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-render-engine-impl/pack/src/webapp/vm/morpheus/snippets/portalChat-snippet.vm
+END
+title-snippet.vm
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-render-engine-impl/pack/src/webapp/vm/morpheus/snippets/title-snippet.vm
+END
+roleSwitch-snippet.vm
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-render-engine-impl/pack/src/webapp/vm/morpheus/snippets/roleSwitch-snippet.vm
+END
+styleable-snippet.vm
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-render-engine-impl/pack/src/webapp/vm/morpheus/snippets/styleable-snippet.vm
+END
+worksite-snippet.vm
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-render-engine-impl/pack/src/webapp/vm/morpheus/snippets/worksite-snippet.vm
+END
+header-snippet.vm
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-render-engine-impl/pack/src/webapp/vm/morpheus/snippets/header-snippet.vm
+END
+siteStatus-snippet.vm
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-render-engine-impl/pack/src/webapp/vm/morpheus/snippets/siteStatus-snippet.vm
+END
+portalCSS-snippet.vm
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-render-engine-impl/pack/src/webapp/vm/morpheus/snippets/portalCSS-snippet.vm
+END
+loginImage-snippet.vm
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-render-engine-impl/pack/src/webapp/vm/morpheus/snippets/loginImage-snippet.vm
+END
+skipNav-snippet.vm
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-render-engine-impl/pack/src/webapp/vm/morpheus/snippets/skipNav-snippet.vm
+END
+toolBody-snippet.vm
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-render-engine-impl/pack/src/webapp/vm/morpheus/snippets/toolBody-snippet.vm
+END
+loginForm-snippet.vm
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-render-engine-impl/pack/src/webapp/vm/morpheus/snippets/loginForm-snippet.vm
+END

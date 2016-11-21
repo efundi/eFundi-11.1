@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-tool/tool/src/webapp/tools
+END
+sakai.assignment.grades.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-tool/tool/src/webapp/tools/sakai.assignment.grades.xml
+END
+sakai.assignment.propertiesMessages.config
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-tool/tool/src/webapp/tools/sakai.assignment.propertiesMessages.config
+END
+sakai.assignment.properties.config
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-tool/tool/src/webapp/tools/sakai.assignment.properties.config
+END

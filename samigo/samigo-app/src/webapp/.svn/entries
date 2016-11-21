@@ -1,0 +1,126 @@
+10
+
+dir
+46020
+https://github.com/sakaiproject/sakai.git/tags/11.1/samigo/samigo-app/src/webapp
+https://github.com/sakaiproject/sakai.git
+
+
+
+2016-08-13T20:25:57.000000Z
+45526
+matthew.jones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b162ff4a-c4c1-f1d3-daf4-ce57b7db7bff
+
+META-INF
+dir
+
+tools
+dir
+
+crossdomain.xml
+file
+
+
+
+
+2016-10-27T12:49:10.028955Z
+12a538331d62e155c23a7ff23d2973eb
+2016-08-13T20:25:57.000000Z
+45526
+matthew.jones
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+203
+
+jsf
+dir
+
+include
+dir
+
+html
+dir
+
+images
+dir
+
+WEB-INF
+dir
+
+css
+dir
+
+js
+dir
+
+title.jsp
+file
+
+
+
+
+2016-10-27T12:49:10.028955Z
+bd0e710ae391d86f73af0e6e1a43549d
+2016-08-13T20:25:57.000000Z
+45526
+matthew.jones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+586
+
+templates
+dir
+

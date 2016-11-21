@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl
+END
+CourseSitePublishServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/CourseSitePublishServiceImpl.java
+END
+DataLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/DataLoader.java
+END
+SiteTitleAdvisorCMS.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/SiteTitleAdvisorCMS.java
+END
+CourseManagementServiceHibernateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/CourseManagementServiceHibernateImpl.java
+END
+SampleDataLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/SampleDataLoader.java
+END
+CourseManagementServiceFederatedImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/CourseManagementServiceFederatedImpl.java
+END
+CourseManagementServiceSampleChainImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/CourseManagementServiceSampleChainImpl.java
+END
+CourseManagementAdministrationHibernateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/CourseManagementAdministrationHibernateImpl.java
+END
+CourseSiteRemovalServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/CourseSiteRemovalServiceImpl.java
+END
+IndexGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-impl/hibernate-impl/impl/src/java/org/sakaiproject/coursemanagement/impl/IndexGenerator.java
+END

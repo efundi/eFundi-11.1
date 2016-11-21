@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/loadtesting/jmeter
+END
+delet_groupMeeting.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/loadtesting/jmeter/delet_groupMeeting.jmx
+END
+creat_groupMeeting.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/loadtesting/jmeter/creat_groupMeeting.jmx
+END
+signup_to_join_groupMeeting.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/loadtesting/jmeter/signup_to_join_groupMeeting.jmx
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/resources/loadtesting/jmeter/readme.txt
+END

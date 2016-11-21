@@ -1,0 +1,132 @@
+10
+
+dir
+46020
+https://github.com/sakaiproject/sakai.git/tags/11.1/portal
+https://github.com/sakaiproject/sakai.git
+
+
+
+2016-08-13T20:25:57.000000Z
+45526
+matthew.jones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b162ff4a-c4c1-f1d3-daf4-ce57b7db7bff
+
+portal-shared-deploy
+dir
+
+portal-impl
+dir
+
+portal-render-engine-impl
+dir
+
+editor-tool
+dir
+
+portal-render-api
+dir
+
+portal-api
+dir
+
+portal-charon
+dir
+
+pom.xml
+file
+
+
+
+
+2016-10-27T12:48:47.573087Z
+a67b155f97ad01fcc1580b6591aa43d7
+2016-08-13T20:25:57.000000Z
+45526
+matthew.jones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3569
+
+portal-tool
+dir
+
+portal-util
+dir
+
+README.md
+file
+
+
+
+
+2016-10-27T12:48:47.572087Z
+3168472a12d15369629af77765274fb3
+2016-08-13T20:25:57.000000Z
+45526
+matthew.jones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1436
+
+portal-render-impl
+dir
+
+portal-chat
+dir
+
+portal-service-impl
+dir
+

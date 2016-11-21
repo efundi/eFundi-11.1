@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/impl/src/java/org/sakaiproject/entitybroker/impl
+END
+EntityMetaPropertiesService.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/impl/src/java/org/sakaiproject/entitybroker/impl/EntityMetaPropertiesService.java
+END
+EntityBrokerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/impl/src/java/org/sakaiproject/entitybroker/impl/EntityBrokerImpl.java
+END
+EntityBrokerCoreServiceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/impl/src/java/org/sakaiproject/entitybroker/impl/EntityBrokerCoreServiceManager.java
+END
+EntityBrokerManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/impl/src/java/org/sakaiproject/entitybroker/impl/EntityBrokerManagerImpl.java
+END
+EntityTaggingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/impl/src/java/org/sakaiproject/entitybroker/impl/EntityTaggingService.java
+END

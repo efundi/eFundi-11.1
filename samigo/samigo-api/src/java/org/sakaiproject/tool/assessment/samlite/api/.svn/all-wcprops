@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/samlite/api
+END
+Answer.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/samlite/api/Answer.java
+END
+SamLiteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/samlite/api/SamLiteService.java
+END
+QuestionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/samlite/api/QuestionGroup.java
+END
+Question.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-api/src/java/org/sakaiproject/tool/assessment/samlite/api/Question.java
+END

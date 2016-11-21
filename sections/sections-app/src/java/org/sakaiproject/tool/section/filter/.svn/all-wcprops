@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sections/sections-app/src/java/org/sakaiproject/tool/section/filter
+END
+AuthorizationFilterConfigurationBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sections/sections-app/src/java/org/sakaiproject/tool/section/filter/AuthorizationFilterConfigurationBean.java
+END
+AuthnFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sections/sections-app/src/java/org/sakaiproject/tool/section/filter/AuthnFilter.java
+END
+RoleFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sections/sections-app/src/java/org/sakaiproject/tool/section/filter/RoleFilter.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/shared/impl/grading
+END
+GradebookServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/shared/impl/grading/GradebookServiceImpl.java
+END
+GradingSectionAwareServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/shared/impl/grading/GradingSectionAwareServiceImpl.java
+END
+GradingServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/shared/impl/grading/GradingServiceImpl.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/sakaicontrib/blogwow.git/!svn/ver/295/branches/master/pack/src/webapp/WEB-INF
+END
+spring-hibernate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sakaicontrib/blogwow.git/!svn/ver/174/branches/master/pack/src/webapp/WEB-INF/spring-hibernate.xml
+END
+components.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sakaicontrib/blogwow.git/!svn/ver/295/branches/master/pack/src/webapp/WEB-INF/components.xml
+END
+sakai-hibernate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sakaicontrib/blogwow.git/!svn/ver/174/branches/master/pack/src/webapp/WEB-INF/sakai-hibernate.xml
+END

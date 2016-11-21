@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailsender/impl/src/test/org/sakaiproject/mailsender/logic/impl
+END
+ExternalLogicImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailsender/impl/src/test/org/sakaiproject/mailsender/logic/impl/ExternalLogicImplTest.java
+END
+ComposeLogicImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailsender/impl/src/test/org/sakaiproject/mailsender/logic/impl/ComposeLogicImplTest.java
+END
+ConfigLogicImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailsender/impl/src/test/org/sakaiproject/mailsender/logic/impl/ConfigLogicImplTest.java
+END

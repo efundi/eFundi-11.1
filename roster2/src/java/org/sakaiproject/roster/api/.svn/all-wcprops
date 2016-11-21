@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/roster2/src/java/org/sakaiproject/roster/api
+END
+RosterSite.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/roster2/src/java/org/sakaiproject/roster/api/RosterSite.java
+END
+RosterMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/roster2/src/java/org/sakaiproject/roster/api/RosterMember.java
+END
+RosterFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/roster2/src/java/org/sakaiproject/roster/api/RosterFunctions.java
+END
+RosterData.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/roster2/src/java/org/sakaiproject/roster/api/RosterData.java
+END
+SakaiProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/roster2/src/java/org/sakaiproject/roster/api/SakaiProxy.java
+END
+RosterGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/roster2/src/java/org/sakaiproject/roster/api/RosterGroup.java
+END
+RosterEnrollment.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/roster2/src/java/org/sakaiproject/roster/api/RosterEnrollment.java
+END
+RosterMemberComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/roster2/src/java/org/sakaiproject/roster/api/RosterMemberComparator.java
+END

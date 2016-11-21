@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/impl/src/resources
+END
+mysql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/impl/src/resources/mysql.properties
+END
+oracle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/impl/src/resources/oracle.properties
+END
+mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/impl/src/resources/mysql.sql
+END
+oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/impl/src/resources/oracle.sql
+END
+hsqldb.properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/impl/src/resources/hsqldb.properties
+END
+hsqldb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/impl/src/resources/hsqldb.sql
+END

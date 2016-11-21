@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/test/data/zip
+END
+firstfile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/test/data/zip/firstfile.txt
+END
+thirdfile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/test/data/zip/thirdfile.txt
+END
+secondfile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/test/data/zip/secondfile.txt
+END

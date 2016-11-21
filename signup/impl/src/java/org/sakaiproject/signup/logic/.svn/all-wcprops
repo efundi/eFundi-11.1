@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/impl/src/java/org/sakaiproject/signup/logic
+END
+SignupCalendarHelperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/impl/src/java/org/sakaiproject/signup/logic/SignupCalendarHelperImpl.java
+END
+SignupMeetingServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/impl/src/java/org/sakaiproject/signup/logic/SignupMeetingServiceImpl.java
+END
+SignupEmailFacadeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/impl/src/java/org/sakaiproject/signup/logic/SignupEmailFacadeImpl.java
+END
+SignupNotifyJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/impl/src/java/org/sakaiproject/signup/logic/SignupNotifyJob.java
+END
+SignupCacheServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/impl/src/java/org/sakaiproject/signup/logic/SignupCacheServiceImpl.java
+END
+SakaiFacadeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/impl/src/java/org/sakaiproject/signup/logic/SakaiFacadeImpl.java
+END

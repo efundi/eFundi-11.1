@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery
+END
+timeout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/timeout.jsp
+END
+beginTakingAssessment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/beginTakingAssessment.jsp
+END
+assessmentHasBeenSubmitted.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/assessmentHasBeenSubmitted.jsp
+END
+isRemoved.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/isRemoved.jsp
+END
+assessment_attachment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/assessment_attachment.jsp
+END
+passwordAccessError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/passwordAccessError.jsp
+END
+anonymousQuitMessage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/anonymousQuitMessage.jsp
+END
+deliverAssessment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/deliverAssessment.jsp
+END
+submitted.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/submitted.jsp
+END
+ipAccessError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/ipAccessError.jsp
+END
+assessmentNotAvailable.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/assessmentNotAvailable.jsp
+END
+isRetracted.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/isRetracted.jsp
+END
+accessDenied.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/accessDenied.jsp
+END
+accessError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/accessError.jsp
+END
+stub.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/stub.jsp
+END
+part_attachment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/part_attachment.jsp
+END
+timeExpired.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/timeExpired.jsp
+END
+anonymousThankyouMessage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/anonymousThankyouMessage.jsp
+END
+reviewAssessmentError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/reviewAssessmentError.jsp
+END
+confirmSubmit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/confirmSubmit.jsp
+END
+deliveryjQuery.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/deliveryjQuery.jsp
+END
+discrepancyInData.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/discrepancyInData.jsp
+END
+isRetractedForEdit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/isRetractedForEdit.jsp
+END
+assessmentDeliveryTimer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/assessmentDeliveryTimer.jsp
+END
+tableOfContents.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/tableOfContents.jsp
+END
+welcome.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/welcome.jsp
+END
+invalidAssessment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/invalidAssessment.jsp
+END
+noLateSubmission.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/noLateSubmission.jsp
+END
+questionProgress.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/questionProgress.jspf
+END
+noSubmissionLeft.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/noSubmissionLeft.jsp
+END
+secureDeliveryError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/secureDeliveryError.jsp
+END
+reviewAssessment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/reviewAssessment.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/login.jsp
+END
+isRetractedForEdit2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/isRetractedForEdit2.jsp
+END
+assessmentDeliveryHeading.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/assessmentDeliveryHeading.jsp
+END
+mediaAccessDenied.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/mediaAccessDenied.jsp
+END
+beginTakingAssessment_viaurl.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/beginTakingAssessment_viaurl.jsp
+END
+notSubmitted.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/notSubmitted.jsp
+END
+saveForLaterWarning.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/delivery/saveForLaterWarning.jsp
+END

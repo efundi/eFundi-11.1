@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared
+END
+PermissionDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/PermissionDefinition.java
+END
+Assignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/Assignment.java
+END
+ConflictingAssignmentNameException.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/ConflictingAssignmentNameException.java
+END
+AssignmentHasIllegalPointsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/AssignmentHasIllegalPointsException.java
+END
+MultipleAssignmentSavingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/MultipleAssignmentSavingException.java
+END
+CommentDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/CommentDefinition.java
+END
+GradebookExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/GradebookExistsException.java
+END
+GradebookException.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/GradebookException.java
+END
+GraderPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/GraderPermission.java
+END
+UnknownUserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/UnknownUserException.java
+END
+AssessmentNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/AssessmentNotFoundException.java
+END
+CategoryDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/CategoryDefinition.java
+END
+GradebookExternalAssessmentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/GradebookExternalAssessmentService.java
+END
+GradebookNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/GradebookNotFoundException.java
+END
+GradeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/GradeDefinition.java
+END
+GradingScaleDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/GradingScaleDefinition.java
+END
+GradebookFrameworkService.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/GradebookFrameworkService.java
+END
+ConflictingExternalIdException.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/ConflictingExternalIdException.java
+END
+InvalidCategoryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/InvalidCategoryException.java
+END
+GradebookInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/GradebookInformation.java
+END
+CourseGrade.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/CourseGrade.java
+END
+StaleObjectModificationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/StaleObjectModificationException.java
+END
+ConflictingSpreadsheetNameException.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/ConflictingSpreadsheetNameException.java
+END
+GradeMappingDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/GradeMappingDefinition.java
+END
+InvalidGradeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/InvalidGradeException.java
+END
+ConflictingCategoryNameException.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/ConflictingCategoryNameException.java
+END
+GradebookService.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/GradebookService.java
+END
+GradebookArchiveService.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/GradebookArchiveService.java
+END
+GradebookConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/GradebookConfiguration.java
+END
+ExternalAssignmentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/ExternalAssignmentProvider.java
+END
+GradebookPermissionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/GradebookPermissionService.java
+END
+SortType.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/SortType.java
+END
+ExternalAssignmentProviderCompat.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/api/src/java/org/sakaiproject/service/gradebook/shared/ExternalAssignmentProviderCompat.java
+END

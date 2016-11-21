@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebook/app/ui/src/webapp/WEB-INF
+END
+faces-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebook/app/ui/src/webapp/WEB-INF/faces-beans.xml
+END
+faces-gb-jsf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebook/app/ui/src/webapp/WEB-INF/faces-gb-jsf.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebook/app/ui/src/webapp/WEB-INF/applicationContext.xml
+END
+spring-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebook/app/ui/src/webapp/WEB-INF/spring-beans.xml
+END
+requestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebook/app/ui/src/webapp/WEB-INF/requestContext.xml
+END
+faces-navigation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebook/app/ui/src/webapp/WEB-INF/faces-navigation.xml
+END
+faces-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebook/app/ui/src/webapp/WEB-INF/faces-test.xml
+END

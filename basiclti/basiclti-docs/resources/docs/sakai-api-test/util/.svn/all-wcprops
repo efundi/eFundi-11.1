@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-docs/resources/docs/sakai-api-test/util
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-docs/resources/docs/sakai-api-test/util/LICENSE.txt
+END
+json_indent.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-docs/resources/docs/sakai-api-test/util/json_indent.php
+END
+OAuth.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-docs/resources/docs/sakai-api-test/util/OAuth.php
+END
+mimeparse.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-docs/resources/docs/sakai-api-test/util/mimeparse.php
+END
+lti_util.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-docs/resources/docs/sakai-api-test/util/lti_util.php
+END
+mime_unit.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-docs/resources/docs/sakai-api-test/util/mime_unit.php
+END

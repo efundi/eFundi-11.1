@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/333/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui
+END
+AbsoluteUrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/AbsoluteUrl.java
+END
+ResourceNavigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/ResourceNavigator.java
+END
+ContentPackageResourceMountStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/ContentPackageResourceMountStrategy.java
+END
+headscripts.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/headscripts.js
+END
+Icon.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/Icon.java
+END
+NameValuePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/NameValuePair.java
+END
+UISynchronizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/UISynchronizer.java
+END
+UISynchronizerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/UISynchronizerPanel.java
+END
+ContentPackageResourceRequestTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/ContentPackageResourceRequestTarget.java
+END

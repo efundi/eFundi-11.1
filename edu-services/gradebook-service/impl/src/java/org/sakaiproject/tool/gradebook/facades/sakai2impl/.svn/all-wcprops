@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sakai2impl
+END
+XmlImportable.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sakai2impl/XmlImportable.java
+END
+UserDirectoryServiceSakai2Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sakai2impl/UserDirectoryServiceSakai2Impl.java
+END
+EventTrackingServiceSakai2Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sakai2impl/EventTrackingServiceSakai2Impl.java
+END
+GradebookConditionsProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sakai2impl/GradebookConditionsProvider.java
+END
+AuthzSakai2Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sakai2impl/AuthzSakai2Impl.java
+END
+BaseEntityProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sakai2impl/BaseEntityProducer.java
+END
+AuthnSakai2Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sakai2impl/AuthnSakai2Impl.java
+END
+ContextManagementSakai2Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sakai2impl/ContextManagementSakai2Impl.java
+END
+GradebookConfigurationSakai.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sakai2impl/GradebookConfigurationSakai.java
+END
+GradebookEntityProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/gradebook-service/impl/src/java/org/sakaiproject/tool/gradebook/facades/sakai2impl/GradebookEntityProducer.java
+END

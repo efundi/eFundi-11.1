@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-metadata/impl/src/test/org/sakaiproject/content/metadata/logic
+END
+BooleanMetadataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-metadata/impl/src/test/org/sakaiproject/content/metadata/logic/BooleanMetadataTest.java
+END
+JsonMetadataParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-metadata/impl/src/test/org/sakaiproject/content/metadata/logic/JsonMetadataParserTest.java
+END
+ListMetadataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/content/content-metadata/impl/src/test/org/sakaiproject/content/metadata/logic/ListMetadataTest.java
+END

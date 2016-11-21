@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/morpheus-master/sass/base
+END
+_defaults.scss
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/morpheus-master/sass/base/_defaults.scss
+END
+_icons.scss
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/morpheus-master/sass/base/_icons.scss
+END
+_responsive.scss
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/morpheus-master/sass/base/_responsive.scss
+END
+_extendables.scss
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/morpheus-master/sass/base/_extendables.scss
+END
+_rtl.scss
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/morpheus-master/sass/base/_rtl.scss
+END
+_bootstrap-defaults.scss
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/morpheus-master/sass/base/_bootstrap-defaults.scss
+END
+_compass.scss
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/library/src/morpheus-master/sass/base/_compass.scss
+END

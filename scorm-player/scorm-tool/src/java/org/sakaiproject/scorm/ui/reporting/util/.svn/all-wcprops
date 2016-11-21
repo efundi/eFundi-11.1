@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/util
+END
+ObjectiveProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/util/ObjectiveProvider.java
+END
+SummaryProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/util/SummaryProvider.java
+END
+InteractionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/util/InteractionProvider.java
+END

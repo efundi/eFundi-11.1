@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sakaicontrib/blogwow.git/!svn/ver/324/branches/master/impl/src/test/org/sakaiproject/blogwow/logic/stubs
+END
+TUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaicontrib/blogwow.git/!svn/ver/274/branches/master/impl/src/test/org/sakaiproject/blogwow/logic/stubs/TUser.java
+END
+TSite.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaicontrib/blogwow.git/!svn/ver/324/branches/master/impl/src/test/org/sakaiproject/blogwow/logic/stubs/TSite.java
+END
+TPlacement.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaicontrib/blogwow.git/!svn/ver/153/branches/master/impl/src/test/org/sakaiproject/blogwow/logic/stubs/TPlacement.java
+END
+ExternalLogicStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/sakaicontrib/blogwow.git/!svn/ver/295/branches/master/impl/src/test/org/sakaiproject/blogwow/logic/stubs/ExternalLogicStub.java
+END

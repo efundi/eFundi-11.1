@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/impl/src/java/org/sakaiproject/dash/entity
+END
+ResourceSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/impl/src/java/org/sakaiproject/dash/entity/ResourceSupport.java
+END
+AssignmentSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/impl/src/java/org/sakaiproject/dash/entity/AssignmentSupport.java
+END
+AnnouncementSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/impl/src/java/org/sakaiproject/dash/entity/AnnouncementSupport.java
+END
+EntitySupportUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/impl/src/java/org/sakaiproject/dash/entity/EntitySupportUtil.java
+END
+ScheduleSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/impl/src/java/org/sakaiproject/dash/entity/ScheduleSupport.java
+END
+SamigoSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/dashboard/impl/src/java/org/sakaiproject/dash/entity/SamigoSupport.java
+END

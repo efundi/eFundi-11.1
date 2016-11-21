@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle
+END
+chat-channel.properties
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-channel.properties
+END
+chat_hi_IN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat_hi_IN.properties
+END
+chat_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat_ru.properties
+END
+chat-message_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-message_es.properties
+END
+chat-message_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-message_eu.properties
+END
+chat-channel_hi_IN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-channel_hi_IN.properties
+END
+chat_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat_fr_FR.properties
+END
+chat_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat_zh_CN.properties
+END
+chat-message.properties
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-message.properties
+END
+chat-channel_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-channel_fr_FR.properties
+END
+chat_pl_PL.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat_pl_PL.properties
+END
+chat_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat_pt_BR.properties
+END
+chat-sql_mn.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-sql_mn.properties
+END
+chat-channel_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-channel_zh_CN.properties
+END
+chat-message_hi_IN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-message_hi_IN.properties
+END
+chat_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat_nl.properties
+END
+chat_en_GB.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat_en_GB.properties
+END
+chat_fr_CA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat_fr_CA.properties
+END
+chat_mn.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat_mn.properties
+END
+chat-channel_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-channel_pt_BR.properties
+END
+chat_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat_it.properties
+END
+chat-sql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-sql.properties
+END
+chat-message_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-message_fr_FR.properties
+END
+chat-channel_en_GB.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-channel_en_GB.properties
+END
+chat-channel_mn.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-channel_mn.properties
+END
+chat-channel_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-channel_it.properties
+END
+chat_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat_ca.properties
+END
+chat-message_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-message_zh_CN.properties
+END
+chat_pt_PT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat_pt_PT.properties
+END
+chat_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat_de.properties
+END
+chat-message_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-message_pt_BR.properties
+END
+chat_sv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat_sv.properties
+END
+chat-channel_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-channel_ca.properties
+END
+chat_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat_ja.properties
+END
+chat_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat_tr_TR.properties
+END
+chat-message_mn.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-message_mn.properties
+END
+chat-channel_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-channel_de.properties
+END
+chat-channel_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-channel_ja.properties
+END
+chat-channel_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-channel_tr_TR.properties
+END
+permissions_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/permissions_pt_BR.properties
+END
+chat-message_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-message_ca.properties
+END
+chat_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat_es.properties
+END
+chat_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat_eu.properties
+END
+chat_ko.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat_ko.properties
+END
+chat-message_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-message_tr_TR.properties
+END
+chat-message_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-message_ja.properties
+END
+chat-channel_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-channel_es.properties
+END
+chat_vi.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat_vi.properties
+END
+chat-channel_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-channel_eu.properties
+END
+chat-channel_ko.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat-channel_ko.properties
+END
+chat.properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/chat/chat-impl/impl/src/bundle/chat.properties
+END

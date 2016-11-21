@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/textarea/elfinder-sakai/src/java/org/sakaiproject/elfinder/sakai
+END
+SakaiFsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/textarea/elfinder-sakai/src/java/org/sakaiproject/elfinder/sakai/SakaiFsService.java
+END
+SiteVolumeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/textarea/elfinder-sakai/src/java/org/sakaiproject/elfinder/sakai/SiteVolumeFactory.java
+END
+SiteVolume.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/textarea/elfinder-sakai/src/java/org/sakaiproject/elfinder/sakai/SiteVolume.java
+END
+ReadOnlyFsVolume.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/textarea/elfinder-sakai/src/java/org/sakaiproject/elfinder/sakai/ReadOnlyFsVolume.java
+END

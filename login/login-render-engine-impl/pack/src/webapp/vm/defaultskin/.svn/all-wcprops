@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/login/login-render-engine-impl/pack/src/webapp/vm/defaultskin
+END
+xlogin.vm
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/login/login-render-engine-impl/pack/src/webapp/vm/defaultskin/xlogin.vm
+END
+macros.vm
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/login/login-render-engine-impl/pack/src/webapp/vm/defaultskin/macros.vm
+END
+choice.vm
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/login/login-render-engine-impl/pack/src/webapp/vm/defaultskin/choice.vm
+END

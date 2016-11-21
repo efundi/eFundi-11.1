@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/archive/archive-tool/tool/src/webapp/vm/archive
+END
+chef_archive-batch-archive-confirm.vm
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/archive/archive-tool/tool/src/webapp/vm/archive/chef_archive-batch-archive-confirm.vm
+END
+chef_archive_noaccess.vm
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/archive/archive-tool/tool/src/webapp/vm/archive/chef_archive_noaccess.vm
+END
+chef_archive-batch.vm
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/archive/archive-tool/tool/src/webapp/vm/archive/chef_archive-batch.vm
+END
+chef_archive.vm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/archive/archive-tool/tool/src/webapp/vm/archive/chef_archive.vm
+END
+chef_archive-download.vm
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/archive/archive-tool/tool/src/webapp/vm/archive/chef_archive-download.vm
+END

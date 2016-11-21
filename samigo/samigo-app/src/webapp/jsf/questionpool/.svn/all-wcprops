@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/questionpool
+END
+copyPoolTree.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/questionpool/copyPoolTree.jsp
+END
+removeQuestion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/questionpool/removeQuestion.jsp
+END
+removePool.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/questionpool/removePool.jsp
+END
+sharePool.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/questionpool/sharePool.jsp
+END
+transferPoolConfirm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/questionpool/transferPoolConfirm.jsp
+END
+transferPoolInputUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/questionpool/transferPoolInputUser.jsp
+END
+subpoolsTreeTable.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/questionpool/subpoolsTreeTable.jsp
+END
+transferPoolTree.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/questionpool/transferPoolTree.jsp
+END
+questionTreeTable.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/questionpool/questionTreeTable.jsp
+END
+unsharePool.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/questionpool/unsharePool.jsp
+END
+movePool.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/questionpool/movePool.jsp
+END
+poolTreeTable.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/questionpool/poolTreeTable.jsp
+END
+copyQuestion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/questionpool/copyQuestion.jsp
+END
+questionpoolHeadings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/questionpool/questionpoolHeadings.jsp
+END
+copyPool.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/questionpool/copyPool.jsp
+END
+poolList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/questionpool/poolList.jsp
+END
+selectQuestionType.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/questionpool/selectQuestionType.jsp
+END
+transferPool.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/questionpool/transferPool.jsp
+END
+editPool.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/questionpool/editPool.jsp
+END
+movePoolTree.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/questionpool/movePoolTree.jsp
+END
+index_error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/questionpool/index_error.jsp
+END
+addPool.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/webapp/jsf/questionpool/addPool.jsp
+END

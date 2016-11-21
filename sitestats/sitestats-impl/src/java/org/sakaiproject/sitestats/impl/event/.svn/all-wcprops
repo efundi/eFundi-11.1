@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/event
+END
+EventUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/event/EventUtil.java
+END
+FileEventRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/event/FileEventRegistry.java
+END
+EntityBrokerEventRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/event/EntityBrokerEventRegistry.java
+END
+EventRegistryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/event/EventRegistryServiceImpl.java
+END

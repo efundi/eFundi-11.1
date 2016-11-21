@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/services/state
+END
+EnhancedPortletStateEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/services/state/EnhancedPortletStateEncoder.java
+END
+WebRecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/services/state/WebRecoder.java
+END
+BasicWebRecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/services/state/BasicWebRecoder.java
+END
+SimplePortletStateEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/services/state/SimplePortletStateEncoder.java
+END
+Base64Recoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/services/state/Base64Recoder.java
+END
+PortletState.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/services/state/PortletState.java
+END
+PortletStateEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/services/state/PortletStateEncoder.java
+END
+PortletStateAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-render-impl/impl/src/java/org/sakaiproject/portal/render/portlet/services/state/PortletStateAccess.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/helper/section
+END
+SectionHelperBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/helper/section/SectionHelperBase.java
+END
+SectionHelperIfc.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/helper/section/SectionHelperIfc.java
+END
+SectionHelper20Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/helper/section/SectionHelper20Impl.java
+END
+SectionHelper12Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-qti/src/java/org/sakaiproject/tool/assessment/qti/helper/section/SectionHelper12Impl.java
+END

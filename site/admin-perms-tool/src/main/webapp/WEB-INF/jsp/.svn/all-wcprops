@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/site/admin-perms-tool/src/main/webapp/WEB-INF/jsp
+END
+header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/site/admin-perms-tool/src/main/webapp/WEB-INF/jsp/header.jsp
+END
+sitePerms.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/site/admin-perms-tool/src/main/webapp/WEB-INF/jsp/sitePerms.jsp
+END
+footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/site/admin-perms-tool/src/main/webapp/WEB-INF/jsp/footer.jsp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailsender/api/src/java/org/sakaiproject/mailsender/model
+END
+ConfigEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailsender/api/src/java/org/sakaiproject/mailsender/model/ConfigEntry.java
+END
+EmailEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailsender/api/src/java/org/sakaiproject/mailsender/model/EmailEntry.java
+END
+EmailRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailsender/api/src/java/org/sakaiproject/mailsender/model/EmailRole.java
+END

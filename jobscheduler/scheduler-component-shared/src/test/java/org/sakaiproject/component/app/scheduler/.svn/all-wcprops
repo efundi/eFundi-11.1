@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/test/java/org/sakaiproject/component/app/scheduler
+END
+ScheduledInvocationTestJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/test/java/org/sakaiproject/component/app/scheduler/ScheduledInvocationTestJob.java
+END
+ScheduledInvocationTestCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/jobscheduler/scheduler-component-shared/src/test/java/org/sakaiproject/component/app/scheduler/ScheduledInvocationTestCommand.java
+END

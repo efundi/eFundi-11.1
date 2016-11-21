@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-api/src/java/xml/author/v2p0
+END
+essayTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-api/src/java/xml/author/v2p0/essayTemplate.xml
+END
+fileUploadTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-api/src/java/xml/author/v2p0/fileUploadTemplate.xml
+END
+sectionTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-api/src/java/xml/author/v2p0/sectionTemplate.xml
+END
+assessmentTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-api/src/java/xml/author/v2p0/assessmentTemplate.xml
+END
+mcSCTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-api/src/java/xml/author/v2p0/mcSCTemplate.xml
+END
+calculatedQuestionTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-api/src/java/xml/author/v2p0/calculatedQuestionTemplate.xml
+END
+emiTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-api/src/java/xml/author/v2p0/emiTemplate.xml
+END
+trueFalseTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-api/src/java/xml/author/v2p0/trueFalseTemplate.xml
+END
+finTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-api/src/java/xml/author/v2p0/finTemplate.xml
+END
+matchTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-api/src/java/xml/author/v2p0/matchTemplate.xml
+END
+audioRecordingTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-api/src/java/xml/author/v2p0/audioRecordingTemplate.xml
+END
+mcMCTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-api/src/java/xml/author/v2p0/mcMCTemplate.xml
+END
+fibTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-api/src/java/xml/author/v2p0/fibTemplate.xml
+END
+mxSurveyTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-api/src/java/xml/author/v2p0/mxSurveyTemplate.xml
+END

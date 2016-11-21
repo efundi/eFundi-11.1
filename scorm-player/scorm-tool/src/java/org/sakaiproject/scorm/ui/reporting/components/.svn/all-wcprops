@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components
+END
+InteractionPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/InteractionPanel.java
+END
+CMIDataGraph.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/CMIDataGraph.properties
+END
+ProgressPanel.properties
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/ProgressPanel.properties
+END
+ObjectivesPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/ObjectivesPanel.html
+END
+LearnerDetailsPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/LearnerDetailsPanel.html
+END
+ScorePanel.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/ScorePanel.properties
+END
+CMIDataGraph.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/CMIDataGraph.html
+END
+ProgressPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/ProgressPanel.html
+END
+ActivityReportPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/ActivityReportPanel.java
+END
+CMIFieldGroupPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/CMIFieldGroupPanel.java
+END
+InteractionPanel.properties
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/InteractionPanel.properties
+END
+ObjectivesPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/ObjectivesPanel.java
+END
+SummaryPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/SummaryPanel.java
+END
+LearnerDetailsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/LearnerDetailsPanel.java
+END
+ScorePanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/ScorePanel.html
+END
+CMIFieldPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/CMIFieldPanel.html
+END
+InteractionPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/InteractionPanel.html
+END
+ActivityReportPanel.properties
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/ActivityReportPanel.properties
+END
+CMIDataGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/CMIDataGraph.java
+END
+ProgressPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/ProgressPanel.java
+END
+ObjectivesPanel.properties
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/ObjectivesPanel.properties
+END
+LearnerDetailsPanel.properties
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/LearnerDetailsPanel.properties
+END
+ActivityReportPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/ActivityReportPanel.html
+END
+ScorePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/ScorePanel.java
+END
+CMIFieldPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/CMIFieldPanel.java
+END
+CMIFieldGroupPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/reporting/components/CMIFieldGroupPanel.html
+END

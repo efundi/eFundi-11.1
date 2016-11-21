@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/cloud-content
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/cloud-content/.gitignore
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/cloud-content/pom.xml
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/cloud-content/README.md
+END

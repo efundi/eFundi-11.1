@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/rsf/params
+END
+BeginAssessmentViewParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/rsf/params/BeginAssessmentViewParameters.java
+END
+TakeAssessmentViewParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-app/src/java/org/sakaiproject/tool/assessment/rsf/params/TakeAssessmentViewParameters.java
+END

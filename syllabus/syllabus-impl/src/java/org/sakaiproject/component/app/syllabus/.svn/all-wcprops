@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/syllabus/syllabus-impl/src/java/org/sakaiproject/component/app/syllabus
+END
+SyllabusServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/syllabus/syllabus-impl/src/java/org/sakaiproject/component/app/syllabus/SyllabusServiceImpl.java
+END
+GatewaySyllabusImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/syllabus/syllabus-impl/src/java/org/sakaiproject/component/app/syllabus/GatewaySyllabusImpl.java
+END
+SiteEmailNotificationSyllabus.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/syllabus/syllabus-impl/src/java/org/sakaiproject/component/app/syllabus/SiteEmailNotificationSyllabus.java
+END
+FixPublicSyllabusAttachmentsJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/syllabus/syllabus-impl/src/java/org/sakaiproject/component/app/syllabus/FixPublicSyllabusAttachmentsJob.java
+END
+SyllabusManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/syllabus/syllabus-impl/src/java/org/sakaiproject/component/app/syllabus/SyllabusManagerImpl.java
+END

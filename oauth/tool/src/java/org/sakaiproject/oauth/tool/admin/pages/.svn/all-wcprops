@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/oauth/tool/src/java/org/sakaiproject/oauth/tool/admin/pages
+END
+ConsumerAdministration.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/oauth/tool/src/java/org/sakaiproject/oauth/tool/admin/pages/ConsumerAdministration.java
+END
+ListConsumers.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/oauth/tool/src/java/org/sakaiproject/oauth/tool/admin/pages/ListConsumers.java
+END

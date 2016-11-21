@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/sections-service/sections-impl/standalone/src/hibernate/org/sakaiproject/component/section
+END
+UserImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/sections-service/sections-impl/standalone/src/hibernate/org/sakaiproject/component/section/UserImpl.hbm.xml
+END
+LearningContextImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/sections-service/sections-impl/standalone/src/hibernate/org/sakaiproject/component/section/LearningContextImpl.hbm.xml
+END
+ParticipationRecordImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/sections-service/sections-impl/standalone/src/hibernate/org/sakaiproject/component/section/ParticipationRecordImpl.hbm.xml
+END

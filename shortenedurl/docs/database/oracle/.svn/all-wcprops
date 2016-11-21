@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/shortenedurl/docs/database/oracle
+END
+shortenedurl-ddl-1.0.0-oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/shortenedurl/docs/database/oracle/shortenedurl-ddl-1.0.0-oracle.sql
+END
+shortenedurl-indexes-only-oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/shortenedurl/docs/database/oracle/shortenedurl-indexes-only-oracle.sql
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/validator
+END
+IValidatorOutcome.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/validator/IValidatorOutcome.java
+END
+IValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/validator/IValidator.java
+END

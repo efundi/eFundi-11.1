@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl/src/bundle
+END
+db-related.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl/src/bundle/db-related.xml
+END
+site-stats-components.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl/src/bundle/site-stats-components.xml
+END
+external-db.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl/src/bundle/external-db.xml
+END
+hbm-db.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl/src/bundle/hbm-db.xml
+END
+internal-db.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl/src/bundle/internal-db.xml
+END

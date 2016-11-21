@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-api/api/src/java/org/sakaiproject/coursemanagement/api
+END
+Enrollment.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-api/api/src/java/org/sakaiproject/coursemanagement/api/Enrollment.java
+END
+CourseOffering.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-api/api/src/java/org/sakaiproject/coursemanagement/api/CourseOffering.java
+END
+SectionCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-api/api/src/java/org/sakaiproject/coursemanagement/api/SectionCategory.java
+END
+CourseManagementAdministration.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-api/api/src/java/org/sakaiproject/coursemanagement/api/CourseManagementAdministration.java
+END
+Section.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-api/api/src/java/org/sakaiproject/coursemanagement/api/Section.java
+END
+CanonicalCourse.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-api/api/src/java/org/sakaiproject/coursemanagement/api/CanonicalCourse.java
+END
+Meeting.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-api/api/src/java/org/sakaiproject/coursemanagement/api/Meeting.java
+END
+AcademicSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-api/api/src/java/org/sakaiproject/coursemanagement/api/AcademicSession.java
+END
+EnrollmentSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-api/api/src/java/org/sakaiproject/coursemanagement/api/EnrollmentSet.java
+END
+Membership.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-api/api/src/java/org/sakaiproject/coursemanagement/api/Membership.java
+END
+CourseSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-api/api/src/java/org/sakaiproject/coursemanagement/api/CourseSet.java
+END
+CourseSiteRemovalService.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-api/api/src/java/org/sakaiproject/coursemanagement/api/CourseSiteRemovalService.java
+END
+CourseSitePublishService.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-api/api/src/java/org/sakaiproject/coursemanagement/api/CourseSitePublishService.java
+END
+CourseManagementService.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/cm-api/api/src/java/org/sakaiproject/coursemanagement/api/CourseManagementService.java
+END

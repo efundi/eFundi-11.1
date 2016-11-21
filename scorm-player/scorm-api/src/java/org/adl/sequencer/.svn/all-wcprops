@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer
+END
+ADLObjStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/ADLObjStatus.java
+END
+ADLValidRequests.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/ADLValidRequests.hbm.xml
+END
+ISequencer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/ISequencer.java
+END
+SeqActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/SeqActivity.java
+END
+ISeqRuleset.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/ISeqRuleset.java
+END
+SeqObjectiveTracking.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/SeqObjectiveTracking.java
+END
+SeqActivityTrackingAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/SeqActivityTrackingAccess.java
+END
+ISeqActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/ISeqActivity.java
+END
+SeqRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/SeqRule.java
+END
+ADLTracking.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/ADLTracking.java
+END
+SeqActivityStateAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/SeqActivityStateAccess.java
+END
+SeqNavRequests.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/SeqNavRequests.java
+END
+ISeqRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/ISeqRule.java
+END
+SeqRuleset.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/SeqRuleset.java
+END
+IDuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/IDuration.java
+END
+SeqCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/SeqCondition.java
+END
+ADLAuxiliaryResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/ADLAuxiliaryResource.java
+END
+ActivityNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/ActivityNode.java
+END
+ISeqRollupRuleset.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/ISeqRollupRuleset.java
+END
+IValidRequests.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/IValidRequests.java
+END
+ADLSeqUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/ADLSeqUtilities.java
+END
+ADLDuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/ADLDuration.java
+END
+ADLTOC.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/ADLTOC.java
+END
+SeqConditionSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/SeqConditionSet.java
+END
+ADLValidRequests.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/ADLValidRequests.java
+END
+SequencerMappings.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/SequencerMappings.hbm.xml
+END
+SeqRollupRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/SeqRollupRule.java
+END
+SeqObjectiveMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/SeqObjectiveMap.java
+END
+SeqObjective.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/SeqObjective.java
+END
+ILaunch.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/ILaunch.java
+END
+SeqActivityTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/SeqActivityTree.java
+END
+IActivityTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/IActivityTree.java
+END
+SeqRollupRuleset.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/SeqRollupRuleset.java
+END
+SeqActivityComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/SeqActivityComparator.java
+END
+ISeqActivityTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-api/src/java/org/adl/sequencer/ISeqActivityTree.java
+END

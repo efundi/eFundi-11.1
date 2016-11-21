@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/taggable/taggable-impl/impl/src/java/org/sakaiproject/taggable/impl
+END
+TagListImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/taggable/taggable-impl/impl/src/java/org/sakaiproject/taggable/impl/TagListImpl.java
+END
+LinkManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/taggable/taggable-impl/impl/src/java/org/sakaiproject/taggable/impl/LinkManagerImpl.java
+END
+TagColumnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/taggable/taggable-impl/impl/src/java/org/sakaiproject/taggable/impl/TagColumnImpl.java
+END
+TagImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/taggable/taggable-impl/impl/src/java/org/sakaiproject/taggable/impl/TagImpl.java
+END
+TaggingManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/taggable/taggable-impl/impl/src/java/org/sakaiproject/taggable/impl/TaggingManagerImpl.java
+END
+TaggingHelperInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/taggable/taggable-impl/impl/src/java/org/sakaiproject/taggable/impl/TaggingHelperInfoImpl.java
+END

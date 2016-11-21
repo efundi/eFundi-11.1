@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/perf/mock
+END
+MockEventTrackingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/perf/mock/MockEventTrackingService.java
+END
+MockSiteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/perf/mock/MockSiteService.java
+END
+MockStatsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/perf/mock/MockStatsManager.java
+END
+MockUsageSessionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/perf/mock/MockUsageSessionService.java
+END
+MockEventRegistryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/perf/mock/MockEventRegistryService.java
+END
+NoOpInvokationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/perf/mock/NoOpInvokationHandler.java
+END
+MockSite.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl/src/test/org/sakaiproject/sitestats/test/perf/mock/MockSite.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/announcement/announcement-api/api/src/java/org/sakaiproject/announcement/api
+END
+AnnouncementMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/announcement/announcement-api/api/src/java/org/sakaiproject/announcement/api/AnnouncementMessage.java
+END
+AnnouncementChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/announcement/announcement-api/api/src/java/org/sakaiproject/announcement/api/AnnouncementChannel.java
+END
+AnnouncementMessageEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/announcement/announcement-api/api/src/java/org/sakaiproject/announcement/api/AnnouncementMessageEdit.java
+END
+AnnouncementMessageHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/announcement/announcement-api/api/src/java/org/sakaiproject/announcement/api/AnnouncementMessageHeader.java
+END
+AnnouncementChannelEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/announcement/announcement-api/api/src/java/org/sakaiproject/announcement/api/AnnouncementChannelEdit.java
+END
+AnnouncementService.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/announcement/announcement-api/api/src/java/org/sakaiproject/announcement/api/AnnouncementService.java
+END
+AnnouncementMessageHeaderEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/announcement/announcement-api/api/src/java/org/sakaiproject/announcement/api/AnnouncementMessageHeaderEdit.java
+END

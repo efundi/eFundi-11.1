@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/model/src/java/org/sakaiproject/scorm/dao/sakai
+END
+SakaiLearnerDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/model/src/java/org/sakaiproject/scorm/dao/sakai/SakaiLearnerDaoImpl.java
+END
+MockLearnerDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/model/src/java/org/sakaiproject/scorm/dao/sakai/MockLearnerDaoImpl.java
+END
+SakaiActivityTreeDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/model/src/java/org/sakaiproject/scorm/dao/sakai/SakaiActivityTreeDaoImpl.java
+END
+spring-sakai-daos.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/model/src/java/org/sakaiproject/scorm/dao/sakai/spring-sakai-daos.xml
+END
+spring-mock-daos.xml
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/model/src/java/org/sakaiproject/scorm/dao/sakai/spring-mock-daos.xml
+END
+spring-sakai-hbms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/model/src/java/org/sakaiproject/scorm/dao/sakai/spring-sakai-hbms.xml
+END

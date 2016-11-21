@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailarchive/mailarchive-james/james/src/webapp/conf
+END
+kernel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailarchive/mailarchive-james/james/src/webapp/conf/kernel.xml
+END
+wrapper.conf
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/mailarchive/mailarchive-james/james/src/webapp/conf/wrapper.conf
+END

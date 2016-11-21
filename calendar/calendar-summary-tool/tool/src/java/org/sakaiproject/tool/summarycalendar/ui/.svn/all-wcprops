@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-summary-tool/tool/src/java/org/sakaiproject/tool/summarycalendar/ui
+END
+CalendarBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-summary-tool/tool/src/java/org/sakaiproject/tool/summarycalendar/ui/CalendarBean.java
+END
+EventSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-summary-tool/tool/src/java/org/sakaiproject/tool/summarycalendar/ui/EventSummary.java
+END
+MonthWeek.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-summary-tool/tool/src/java/org/sakaiproject/tool/summarycalendar/ui/MonthWeek.java
+END
+PrefsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-summary-tool/tool/src/java/org/sakaiproject/tool/summarycalendar/ui/PrefsBean.java
+END
+EventTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-summary-tool/tool/src/java/org/sakaiproject/tool/summarycalendar/ui/EventTypes.java
+END
+SubscribeBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-summary-tool/tool/src/java/org/sakaiproject/tool/summarycalendar/ui/SubscribeBean.java
+END
+AttachmentWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-summary-tool/tool/src/java/org/sakaiproject/tool/summarycalendar/ui/AttachmentWrapper.java
+END
+MenuBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-summary-tool/tool/src/java/org/sakaiproject/tool/summarycalendar/ui/MenuBean.java
+END
+Day.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/calendar/calendar-summary-tool/tool/src/java/org/sakaiproject/tool/summarycalendar/ui/Day.java
+END

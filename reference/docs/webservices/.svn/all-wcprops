@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/docs/webservices
+END
+docbookToConfluence.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/docs/webservices/docbookToConfluence.xsl
+END
+sakaiscript-2.1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/docs/webservices/sakaiscript-2.1.xml
+END
+doc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/reference/docs/webservices/doc.sh
+END

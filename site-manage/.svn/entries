@@ -1,0 +1,141 @@
+10
+
+dir
+46020
+https://github.com/sakaiproject/sakai.git/tags/11.1/site-manage
+https://github.com/sakaiproject/sakai.git
+
+
+
+2016-08-13T20:25:57.000000Z
+45526
+matthew.jones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b162ff4a-c4c1-f1d3-daf4-ce57b7db7bff
+
+site-association-hbm
+dir
+
+site-manage-participant-helper
+dir
+
+site-association-api
+dir
+
+site-manage-impl
+dir
+
+site-association-util
+dir
+
+site-association-tool
+dir
+
+pom.xml
+file
+
+
+
+
+2016-10-27T12:49:13.832933Z
+c339db9901d3a7a93835391303b0229f
+2016-08-13T20:25:57.000000Z
+45526
+matthew.jones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5681
+
+site-manage-hbm
+dir
+
+site-manage-group-helper
+dir
+
+site-manage-api
+dir
+
+site-manage-link-helper
+dir
+
+site-manage-group-section-role-helper
+dir
+
+site-manage-util
+dir
+
+site-manage-tool
+dir
+
+readme_sitesetup_question.txt
+file
+
+
+
+
+2016-10-27T12:49:13.832933Z
+2c5cf7d1470fbaf88708a780a7e54e45
+2016-08-13T20:25:57.000000Z
+45526
+matthew.jones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3196
+
+pageorder
+dir
+
+site-association-impl
+dir
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/core
+END
+EntityPropertiesServiceSimple.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/core/EntityPropertiesServiceSimple.java
+END
+EntityProviderMethodStoreImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/core/EntityProviderMethodStoreImpl.java
+END
+AbstractEntityPropertiesService.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/utils/src/java/org/sakaiproject/entitybroker/util/core/AbstractEntityPropertiesService.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/message/api/model
+END
+PagePresence.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/message/api/model/PagePresence.java
+END
+Trigger.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/message/api/model/Trigger.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/message/api/model/Message.java
+END
+Preference.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/message/api/model/Preference.java
+END

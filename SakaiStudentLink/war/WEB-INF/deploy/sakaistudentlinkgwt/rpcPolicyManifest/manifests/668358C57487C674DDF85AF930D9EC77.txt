@@ -1,0 +1,2 @@
+serviceClass: edu.nwu.sakai.studentlink.client.SakaiStudentLinkService
+path: AA8994DD833ABF88FE7B39E2D3A704FA.gwt.rpc

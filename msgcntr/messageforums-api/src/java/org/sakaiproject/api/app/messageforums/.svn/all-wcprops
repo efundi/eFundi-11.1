@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums
+END
+OpenTopic.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/OpenTopic.java
+END
+ForumControlPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/ForumControlPermission.java
+END
+AreaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/AreaManager.java
+END
+AnonymousMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/AnonymousMapping.java
+END
+HiddenGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/HiddenGroup.java
+END
+PrivateTopic.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/PrivateTopic.java
+END
+OpenForum.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/OpenForum.java
+END
+DefaultPermissionsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/DefaultPermissionsManager.java
+END
+ControlPermissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/ControlPermissions.java
+END
+MessagePermissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/MessagePermissions.java
+END
+MessageForumsMessageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/MessageForumsMessageManager.java
+END
+PermissionLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/PermissionLevel.java
+END
+DiscussionTopic.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/DiscussionTopic.java
+END
+PrivateMessageRecipient.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/PrivateMessageRecipient.java
+END
+AnonymousManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/AnonymousManager.java
+END
+BaseForum.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/BaseForum.java
+END
+PermissionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/PermissionManager.java
+END
+PrivateForum.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/PrivateForum.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/Message.java
+END
+MutableEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/MutableEntity.java
+END
+DateRestrictions.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/DateRestrictions.java
+END
+RankManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/RankManager.java
+END
+Attachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/Attachment.java
+END
+EmailNotificationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/EmailNotificationManager.java
+END
+UserStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/UserStatistics.java
+END
+Rank.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/Rank.java
+END
+UserPreferencesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/UserPreferencesManager.java
+END
+DiscussionForum.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/DiscussionForum.java
+END
+RankImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/RankImage.java
+END
+SynopticMsgcntrManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/SynopticMsgcntrManager.java
+END
+UniqueArrayList.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/UniqueArrayList.java
+END
+ActorPermissions.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/ActorPermissions.java
+END
+Area.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/Area.java
+END
+MessageForumsUserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/MessageForumsUserManager.java
+END
+PermissionLevelManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/PermissionLevelManager.java
+END
+ForumScheduleNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/ForumScheduleNotification.java
+END
+MessageForumsTypeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/MessageForumsTypeManager.java
+END
+DiscussionForumService.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/DiscussionForumService.java
+END
+Topic.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/Topic.java
+END
+MessageForumsUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/MessageForumsUser.java
+END
+Label.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/Label.java
+END
+DummyDataHelperApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/DummyDataHelperApi.java
+END
+PrivateMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/PrivateMessage.java
+END
+DBMembershipItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/DBMembershipItem.java
+END
+AreaControlPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/AreaControlPermission.java
+END
+UnreadStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/UnreadStatus.java
+END
+MessageForumsForumManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/MessageForumsForumManager.java
+END
+SynopticMsgcntrItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/SynopticMsgcntrItem.java
+END
+MembershipManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/MembershipManager.java
+END
+PermissionsMask.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/PermissionsMask.java
+END
+TopicControlPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/TopicControlPermission.java
+END
+MessageMoveHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/MessageMoveHistory.java
+END
+EmailNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/EmailNotification.java
+END

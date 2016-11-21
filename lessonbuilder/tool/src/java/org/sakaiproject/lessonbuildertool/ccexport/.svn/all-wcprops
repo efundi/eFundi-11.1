@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/OpenCollabZA/sakai.git/!svn/ver/45914/branches/11.1_lesson_import_export_changes/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/ccexport
+END
+SamigoExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/OpenCollabZA/sakai.git/!svn/ver/45914/branches/11.1_lesson_import_export_changes/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/ccexport/SamigoExport.java
+END
+JForumExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/OpenCollabZA/sakai.git/!svn/ver/45914/branches/11.1_lesson_import_export_changes/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/ccexport/JForumExport.java
+END
+CCExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/OpenCollabZA/sakai.git/!svn/ver/45914/branches/11.1_lesson_import_export_changes/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/ccexport/CCExport.java
+END
+AssignmentExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/OpenCollabZA/sakai.git/!svn/ver/45914/branches/11.1_lesson_import_export_changes/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/ccexport/AssignmentExport.java
+END
+ZipPrintStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/OpenCollabZA/sakai.git/!svn/ver/45914/branches/11.1_lesson_import_export_changes/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/ccexport/ZipPrintStream.java
+END
+BltiExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/OpenCollabZA/sakai.git/!svn/ver/45914/branches/11.1_lesson_import_export_changes/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/ccexport/BltiExport.java
+END
+ForumsExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/OpenCollabZA/sakai.git/!svn/ver/45914/branches/11.1_lesson_import_export_changes/lessonbuilder/tool/src/java/org/sakaiproject/lessonbuildertool/ccexport/ForumsExport.java
+END

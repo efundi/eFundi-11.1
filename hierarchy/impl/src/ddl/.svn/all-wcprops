@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/hierarchy/impl/src/ddl
+END
+hibernate-mysql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/hierarchy/impl/src/ddl/hibernate-mysql.properties
+END
+hibernate-oracle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/hierarchy/impl/src/ddl/hibernate-oracle.properties
+END
+hibernate-hsqldb.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/hierarchy/impl/src/ddl/hibernate-hsqldb.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/hierarchy/impl/src/ddl/pom.xml
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/hierarchy/impl/src/ddl/hibernate.cfg.xml
+END

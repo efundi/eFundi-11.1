@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-parsers/blackboard_6/impl/src/java/org/sakaiproject/importer/impl/translators
+END
+Bb6DiscussionBoardTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-parsers/blackboard_6/impl/src/java/org/sakaiproject/importer/impl/translators/Bb6DiscussionBoardTranslator.java
+END
+Bb6SurveyTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-parsers/blackboard_6/impl/src/java/org/sakaiproject/importer/impl/translators/Bb6SurveyTranslator.java
+END
+Bb6QtiTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-parsers/blackboard_6/impl/src/java/org/sakaiproject/importer/impl/translators/Bb6QtiTranslator.java
+END
+Bb6ExternalLinkTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-parsers/blackboard_6/impl/src/java/org/sakaiproject/importer/impl/translators/Bb6ExternalLinkTranslator.java
+END
+Bb6CollabSessionTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-parsers/blackboard_6/impl/src/java/org/sakaiproject/importer/impl/translators/Bb6CollabSessionTranslator.java
+END
+Bb6QuestionPoolTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-parsers/blackboard_6/impl/src/java/org/sakaiproject/importer/impl/translators/Bb6QuestionPoolTranslator.java
+END
+Bb6HTMLDocumentTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-parsers/blackboard_6/impl/src/java/org/sakaiproject/importer/impl/translators/Bb6HTMLDocumentTranslator.java
+END
+Bb6AssessmentAttemptFilesTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-parsers/blackboard_6/impl/src/java/org/sakaiproject/importer/impl/translators/Bb6AssessmentAttemptFilesTranslator.java
+END
+Bb6CourseMembershipTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-parsers/blackboard_6/impl/src/java/org/sakaiproject/importer/impl/translators/Bb6CourseMembershipTranslator.java
+END
+Bb6StaffInfoTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-parsers/blackboard_6/impl/src/java/org/sakaiproject/importer/impl/translators/Bb6StaffInfoTranslator.java
+END
+Bb6TextDocumentTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-parsers/blackboard_6/impl/src/java/org/sakaiproject/importer/impl/translators/Bb6TextDocumentTranslator.java
+END
+Bb6GroupUploadsTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-parsers/blackboard_6/impl/src/java/org/sakaiproject/importer/impl/translators/Bb6GroupUploadsTranslator.java
+END
+Bb6AssessmentAttemptTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-parsers/blackboard_6/impl/src/java/org/sakaiproject/importer/impl/translators/Bb6AssessmentAttemptTranslator.java
+END
+Bb6AssessmentTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-parsers/blackboard_6/impl/src/java/org/sakaiproject/importer/impl/translators/Bb6AssessmentTranslator.java
+END
+Bb6CourseUploadsTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-parsers/blackboard_6/impl/src/java/org/sakaiproject/importer/impl/translators/Bb6CourseUploadsTranslator.java
+END
+Bb6SmartTextDocumentTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-parsers/blackboard_6/impl/src/java/org/sakaiproject/importer/impl/translators/Bb6SmartTextDocumentTranslator.java
+END
+Bb6AnnouncementTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/import-parsers/blackboard_6/impl/src/java/org/sakaiproject/importer/impl/translators/Bb6AnnouncementTranslator.java
+END

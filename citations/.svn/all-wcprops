@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/citations
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/citations/.gitignore
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/citations/pom.xml
+END

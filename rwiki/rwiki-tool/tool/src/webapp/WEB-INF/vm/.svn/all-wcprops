@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm
+END
+fragmentview.vm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/fragmentview.vm
+END
+preferences.vm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/preferences.vm
+END
+history.vm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/history.vm
+END
+review.vm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/review.vm
+END
+fragmentpreview.vm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/fragmentpreview.vm
+END
+search.vm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/search.vm
+END
+editRealm.vm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/editRealm.vm
+END
+editRealm-many.vm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/editRealm-many.vm
+END
+diff.vm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/diff.vm
+END
+publicview.vm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/publicview.vm
+END
+view.vm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/view.vm
+END
+editRealm-manyv2.vm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/editRealm-manyv2.vm
+END
+preview.vm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/preview.vm
+END
+title.vm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/title.vm
+END
+macros.vm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/macros.vm
+END
+edit.vm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/edit.vm
+END
+printview.vm
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/printview.vm
+END
+full_search.vm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/full_search.vm
+END
+permission.vm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/permission.vm
+END
+info.vm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-tool/tool/src/webapp/WEB-INF/vm/info.vm
+END

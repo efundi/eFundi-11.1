@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/components
+END
+LazyLoadPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/components/LazyLoadPanel.java
+END
+ButtonForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/components/ButtonForm.java
+END
+TreePanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/components/TreePanel.html
+END
+DeniedPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/components/DeniedPanel.java
+END
+CommunicationPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/components/CommunicationPanel.html
+END
+AdminPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/components/AdminPanel.java
+END
+SjaxContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/components/SjaxContainer.java
+END
+ChoicePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/components/ChoicePanel.java
+END
+ActivityTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/components/ActivityTree.java
+END
+LaunchPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/components/LaunchPanel.html
+END
+TreePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/components/TreePanel.java
+END
+LazyLoadPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/components/LazyLoadPanel.html
+END
+CommunicationPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/components/CommunicationPanel.java
+END
+LazyLaunchPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/components/LazyLaunchPanel.java
+END
+LaunchPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/components/LaunchPanel.java
+END
+DeniedPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/components/DeniedPanel.html
+END
+AdminPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/components/AdminPanel.html
+END
+ActivityAjaxButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/components/ActivityAjaxButton.java
+END
+ChoicePanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-tool/src/java/org/sakaiproject/scorm/ui/player/components/ChoicePanel.html
+END

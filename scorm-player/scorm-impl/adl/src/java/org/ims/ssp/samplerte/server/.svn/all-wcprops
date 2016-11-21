@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/adl/src/java/org/ims/ssp/samplerte/server
+END
+SSP_ServletRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/adl/src/java/org/ims/ssp/samplerte/server/SSP_ServletRequest.java
+END
+SSP_Operation.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/adl/src/java/org/ims/ssp/samplerte/server/SSP_Operation.java
+END
+SSP_ServletResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/adl/src/java/org/ims/ssp/samplerte/server/SSP_ServletResponse.java
+END
+SSP_Servlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/sakaicontrib/SCORM.2004.3ED.RTE.git/!svn/ver/327/branches/master/scorm-impl/adl/src/java/org/ims/ssp/samplerte/server/SSP_Servlet.java
+END

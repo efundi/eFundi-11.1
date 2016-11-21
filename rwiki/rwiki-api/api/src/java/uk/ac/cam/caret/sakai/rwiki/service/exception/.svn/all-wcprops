@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/exception
+END
+ReadPermissionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/exception/ReadPermissionException.java
+END
+VersionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/exception/VersionException.java
+END
+PermissionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/exception/PermissionException.java
+END
+UpdatePermissionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/exception/UpdatePermissionException.java
+END
+CreatePermissionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-api/api/src/java/uk/ac/cam/caret/sakai/rwiki/service/exception/CreatePermissionException.java
+END

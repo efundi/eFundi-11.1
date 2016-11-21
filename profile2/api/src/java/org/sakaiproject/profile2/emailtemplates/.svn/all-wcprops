@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates
+END
+template-connectionRequest_sv_SE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-connectionRequest_sv_SE.xml
+END
+template-connectionRequest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-connectionRequest.xml
+END
+template-wallEventNew.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-wallEventNew.xml
+END
+template-messageNew_es_ES.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-messageNew_es_ES.xml
+END
+template-connectionConfirm_sv_SE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-connectionConfirm_sv_SE.xml
+END
+template-connectionConfirm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-connectionConfirm.xml
+END
+template-profileChangeNotification.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-profileChangeNotification.xml
+END
+template-wallStatusNew.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-wallStatusNew.xml
+END
+template-messageReply_es_ES.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-messageReply_es_ES.xml
+END
+template-messageNew_zh_CN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-messageNew_zh_CN.xml
+END
+template-wallPostConnectionWallNew.xml
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-wallPostConnectionWallNew.xml
+END
+template-messageReply_zh_CN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-messageReply_zh_CN.xml
+END
+template-worksiteNew.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-worksiteNew.xml
+END
+template-wallPostMyWallNew_es_ES.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-wallPostMyWallNew_es_ES.xml
+END
+template-connectionRequest_es_ES.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-connectionRequest_es_ES.xml
+END
+template-connectionRequest_zh_CN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-connectionRequest_zh_CN.xml
+END
+template-wallEventNew_es_ES.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-wallEventNew_es_ES.xml
+END
+template-connectionConfirm_es_ES.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-connectionConfirm_es_ES.xml
+END
+template-profileChangeNotification_es_ES.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-profileChangeNotification_es_ES.xml
+END
+template-wallStatusNew_es_ES.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-wallStatusNew_es_ES.xml
+END
+template-messageNew_sv_SE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-messageNew_sv_SE.xml
+END
+template-wallPostConnectionWallNew_es_ES.xml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-wallPostConnectionWallNew_es_ES.xml
+END
+template-messageNew.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-messageNew.xml
+END
+template-connectionConfirm_zh_CN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-connectionConfirm_zh_CN.xml
+END
+template-messageReply_sv_SE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-messageReply_sv_SE.xml
+END
+template-worksiteNew_es_ES.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-worksiteNew_es_ES.xml
+END
+template-messageReply.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-messageReply.xml
+END
+template-wallPostMyWallNew.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/profile2/api/src/java/org/sakaiproject/profile2/emailtemplates/template-wallPostMyWallNew.xml
+END

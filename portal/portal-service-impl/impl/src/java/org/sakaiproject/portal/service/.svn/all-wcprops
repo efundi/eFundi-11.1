@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-service-impl/impl/src/java/org/sakaiproject/portal/service
+END
+EditorRegistryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-service-impl/impl/src/java/org/sakaiproject/portal/service/EditorRegistryImpl.java
+END
+PortalChatPermittedHelperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-service-impl/impl/src/java/org/sakaiproject/portal/service/PortalChatPermittedHelperImpl.java
+END
+SakaiPortletRegistryListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-service-impl/impl/src/java/org/sakaiproject/portal/service/SakaiPortletRegistryListener.java
+END
+StoredStateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-service-impl/impl/src/java/org/sakaiproject/portal/service/StoredStateImpl.java
+END
+AliasingSiteAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-service-impl/impl/src/java/org/sakaiproject/portal/service/AliasingSiteAdvisor.java
+END
+PortalServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-service-impl/impl/src/java/org/sakaiproject/portal/service/PortalServiceImpl.java
+END
+SiteNeighbourhoodServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-service-impl/impl/src/java/org/sakaiproject/portal/service/SiteNeighbourhoodServiceImpl.java
+END
+PortalStringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-service-impl/impl/src/java/org/sakaiproject/portal/service/PortalStringUtil.java
+END
+PortletTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-service-impl/impl/src/java/org/sakaiproject/portal/service/PortletTool.java
+END
+SessionRequestHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-service-impl/impl/src/java/org/sakaiproject/portal/service/SessionRequestHolder.java
+END
+RecoveredServletRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/portal/portal-service-impl/impl/src/java/org/sakaiproject/portal/service/RecoveredServletRequest.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/report/fop
+END
+ReportXMLReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/report/fop/ReportXMLReader.java
+END
+LibraryURIResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/report/fop/LibraryURIResolver.java
+END
+EasyGenerationContentHandlerProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/report/fop/EasyGenerationContentHandlerProxy.java
+END
+ReportInputSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/report/fop/ReportInputSource.java
+END
+AbstractObjectReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-impl/src/java/org/sakaiproject/sitestats/impl/report/fop/AbstractObjectReader.java
+END

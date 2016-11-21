@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/userauditservice/tool/src/bundle
+END
+UserAuditMessages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/userauditservice/tool/src/bundle/UserAuditMessages_es.properties
+END
+UserAuditMessages_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/userauditservice/tool/src/bundle/UserAuditMessages_eu.properties
+END
+UserAuditMessages_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/userauditservice/tool/src/bundle/UserAuditMessages_ja.properties
+END
+UserAuditMessages_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/userauditservice/tool/src/bundle/UserAuditMessages_tr_TR.properties
+END
+UserAuditMessages_fr_FR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/userauditservice/tool/src/bundle/UserAuditMessages_fr_FR.properties
+END
+UserAuditMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/userauditservice/tool/src/bundle/UserAuditMessages.properties
+END
+UserAuditMessages_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/userauditservice/tool/src/bundle/UserAuditMessages_zh_CN.properties
+END
+UserAuditMessages_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/userauditservice/tool/src/bundle/UserAuditMessages_ca.properties
+END
+UserAuditMessages_hi_IN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/userauditservice/tool/src/bundle/UserAuditMessages_hi_IN.properties
+END
+UserAuditMessages_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/userauditservice/tool/src/bundle/UserAuditMessages_pt_BR.properties
+END

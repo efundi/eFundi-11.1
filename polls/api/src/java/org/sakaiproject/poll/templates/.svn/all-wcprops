@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/polls/api/src/java/org/sakaiproject/poll/templates
+END
+notifyDeletedOption-zh_CN.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/polls/api/src/java/org/sakaiproject/poll/templates/notifyDeletedOption-zh_CN.xml
+END
+notifyDeletedOption.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/polls/api/src/java/org/sakaiproject/poll/templates/notifyDeletedOption.xml
+END

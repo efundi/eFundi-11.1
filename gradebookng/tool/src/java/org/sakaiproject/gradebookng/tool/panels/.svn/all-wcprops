@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels
+END
+GradeStatisticsPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/GradeStatisticsPanel.html
+END
+HeaderFlagPopoverPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/HeaderFlagPopoverPanel.html
+END
+StudentGradeSummaryGradesPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/StudentGradeSummaryGradesPanel.html
+END
+AssignmentColumnHeaderPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/AssignmentColumnHeaderPanel.html
+END
+CourseGradeItemCellPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/CourseGradeItemCellPanel.java
+END
+GradeLogPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/GradeLogPanel.java
+END
+GradeItemCellPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/GradeItemCellPanel.html
+END
+SettingsGradeEntryPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/SettingsGradeEntryPanel.java
+END
+CourseGradeOverridePanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/CourseGradeOverridePanel.html
+END
+SettingsGradeReleasePanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/SettingsGradeReleasePanel.html
+END
+CourseGradeOverrideLogPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/CourseGradeOverrideLogPanel.html
+END
+CourseGradeColumnHeaderPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/CourseGradeColumnHeaderPanel.java
+END
+StudentGradeSummaryPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/StudentGradeSummaryPanel.html
+END
+CategoryColumnCellPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/CategoryColumnCellPanel.java
+END
+GradeSummaryTablePanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/GradeSummaryTablePanel.html
+END
+ToggleGradeItemsToolbarPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/ToggleGradeItemsToolbarPanel.html
+END
+GradeStatisticsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/GradeStatisticsPanel.java
+END
+HeaderFlagPopoverPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/HeaderFlagPopoverPanel.java
+END
+StudentGradeSummaryGradesPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/StudentGradeSummaryGradesPanel.java
+END
+EditGradeCommentPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/EditGradeCommentPanel.html
+END
+GradeItemCellPopoverPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/GradeItemCellPopoverPanel.html
+END
+AssignmentColumnHeaderPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/AssignmentColumnHeaderPanel.java
+END
+SettingsGradingSchemaPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/SettingsGradingSchemaPanel.html
+END
+GradeItemCellPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/GradeItemCellPanel.java
+END
+CourseGradeOverridePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/CourseGradeOverridePanel.java
+END
+DeleteItemPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/DeleteItemPanel.html
+END
+AddOrEditGradeItemPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/AddOrEditGradeItemPanel.html
+END
+SettingsGradeReleasePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/SettingsGradeReleasePanel.java
+END
+CourseGradeOverrideLogPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/CourseGradeOverrideLogPanel.java
+END
+AjaxBootstrapTabbedPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/AjaxBootstrapTabbedPanel.html
+END
+InstructorGradeSummaryGradesPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/InstructorGradeSummaryGradesPanel.html
+END
+StudentGradeSummaryPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/StudentGradeSummaryPanel.java
+END
+GradeSummaryTablePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/GradeSummaryTablePanel.java
+END
+ToggleGradeItemsToolbarPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/ToggleGradeItemsToolbarPanel.java
+END
+StudentNameCellPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/StudentNameCellPanel.html
+END
+EditGradeCommentPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/EditGradeCommentPanel.java
+END
+GradeItemCellPopoverPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/GradeItemCellPopoverPanel.java
+END
+SettingsGradingSchemaPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/SettingsGradingSchemaPanel.java
+END
+ZeroUngradedItemsPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/ZeroUngradedItemsPanel.html
+END
+DeleteItemPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/DeleteItemPanel.java
+END
+AddOrEditGradeItemPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/AddOrEditGradeItemPanel.java
+END
+SettingsCategoryPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/SettingsCategoryPanel.html
+END
+UpdateUngradedItemsPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/UpdateUngradedItemsPanel.html
+END
+AjaxBootstrapTabbedPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/AjaxBootstrapTabbedPanel.java
+END
+InstructorGradeSummaryGradesPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/InstructorGradeSummaryGradesPanel.java
+END
+CategoryColumnHeaderPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/CategoryColumnHeaderPanel.html
+END
+StudentNameCellPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/StudentNameCellPanel.java
+END
+ZeroUngradedItemsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/ZeroUngradedItemsPanel.java
+END
+SettingsCategoryPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/SettingsCategoryPanel.java
+END
+UpdateUngradedItemsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/UpdateUngradedItemsPanel.java
+END
+AddOrEditGradeItemPanelContent.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/AddOrEditGradeItemPanelContent.html
+END
+StudentNameColumnHeaderPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/StudentNameColumnHeaderPanel.html
+END
+CategoryColumnHeaderPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/CategoryColumnHeaderPanel.java
+END
+CourseGradeItemCellPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/CourseGradeItemCellPanel.html
+END
+GradeLogPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/GradeLogPanel.html
+END
+SettingsGradeEntryPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/SettingsGradeEntryPanel.html
+END
+AddOrEditGradeItemPanelContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/AddOrEditGradeItemPanelContent.java
+END
+CourseGradeColumnHeaderPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/CourseGradeColumnHeaderPanel.html
+END
+CategoryColumnCellPanel.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/CategoryColumnCellPanel.html
+END
+StudentNameColumnHeaderPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/gradebookng/tool/src/java/org/sakaiproject/gradebookng/tool/panels/StudentNameColumnHeaderPanel.java
+END

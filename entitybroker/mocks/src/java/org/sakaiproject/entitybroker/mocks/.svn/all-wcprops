@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks
+END
+ReferenceParseableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/ReferenceParseableEntityProviderMock.java
+END
+CRUDableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/CRUDableEntityProviderMock.java
+END
+RESTfulEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/RESTfulEntityProviderMock.java
+END
+EntityViewAccessProviderManagerMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/EntityViewAccessProviderManagerMock.java
+END
+RequestStoreableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/RequestStoreableEntityProviderMock.java
+END
+testPrefixCustom_tr_TR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/testPrefixCustom_tr_TR.properties
+END
+ResolvableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/ResolvableEntityProviderMock.java
+END
+RedirectDefineableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/RedirectDefineableEntityProviderMock.java
+END
+ActionsEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/ActionsEntityProviderMock.java
+END
+TaggableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/TaggableEntityProviderMock.java
+END
+PropertyableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/PropertyableEntityProviderMock.java
+END
+testPrefixCustom_mn.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/testPrefixCustom_mn.properties
+END
+TagEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/TagEntityProviderMock.java
+END
+EntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/EntityProviderMock.java
+END
+BrowsableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/BrowsableEntityProviderMock.java
+END
+testPrefixCustom.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/testPrefixCustom.properties
+END
+DescribePropertiesableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/DescribePropertiesableEntityProviderMock.java
+END
+testPrefixCustom_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/testPrefixCustom_ca.properties
+END
+ActionsExecutionEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/ActionsExecutionEntityProviderMock.java
+END
+RedirectableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/RedirectableEntityProviderMock.java
+END
+testPrefixCustom_hi_IN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/testPrefixCustom_hi_IN.properties
+END
+CoreEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/CoreEntityProviderMock.java
+END
+testPrefixCustom_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/testPrefixCustom_ja.properties
+END
+EntityViewAccessProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/EntityViewAccessProviderMock.java
+END
+ActionsDefineableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/ActionsDefineableEntityProviderMock.java
+END
+RedirectControllableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/RedirectControllableEntityProviderMock.java
+END
+DescribeableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/DescribeableEntityProviderMock.java
+END
+HttpServletAccessProviderManagerMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/HttpServletAccessProviderManagerMock.java
+END
+testPrefixCustom_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/testPrefixCustom_es.properties
+END
+HttpServletAccessProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/HttpServletAccessProviderMock.java
+END
+testPrefixCustom_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/testPrefixCustom_eu.properties
+END
+SerializeableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/SerializeableEntityProviderMock.java
+END
+BrowseSearchableEntityProviderMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/mocks/src/java/org/sakaiproject/entitybroker/mocks/BrowseSearchableEntityProviderMock.java
+END

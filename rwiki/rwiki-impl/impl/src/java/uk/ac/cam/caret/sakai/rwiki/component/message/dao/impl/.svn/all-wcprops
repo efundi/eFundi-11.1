@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/message/dao/impl
+END
+PreferenceDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/message/dao/impl/PreferenceDaoImpl.java
+END
+PagePresenceDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/message/dao/impl/PagePresenceDaoImpl.java
+END
+TriggerDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/message/dao/impl/TriggerDaoImpl.java
+END
+MessageDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-impl/impl/src/java/uk/ac/cam/caret/sakai/rwiki/component/message/dao/impl/MessageDaoImpl.java
+END

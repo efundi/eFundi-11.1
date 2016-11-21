@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-util/radeox/src/bundle/META-INF/services
+END
+org.radeox.macro.code.SourceCodeFormatter
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-util/radeox/src/bundle/META-INF/services/org.radeox.macro.code.SourceCodeFormatter
+END
+org.radeox.filter.Filter
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-util/radeox/src/bundle/META-INF/services/org.radeox.filter.Filter
+END
+org.radeox.macro.list.ListFormatter
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-util/radeox/src/bundle/META-INF/services/org.radeox.macro.list.ListFormatter
+END
+org.radeox.macro.table.Function
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-util/radeox/src/bundle/META-INF/services/org.radeox.macro.table.Function
+END
+org.radeox.macro.Macro
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-util/radeox/src/bundle/META-INF/services/org.radeox.macro.Macro
+END

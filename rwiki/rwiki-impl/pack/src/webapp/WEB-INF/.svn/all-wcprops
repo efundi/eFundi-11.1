@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-impl/pack/src/webapp/WEB-INF
+END
+coreDaoComponents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-impl/pack/src/webapp/WEB-INF/coreDaoComponents.xml
+END
+messagingComponents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-impl/pack/src/webapp/WEB-INF/messagingComponents.xml
+END
+components.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-impl/pack/src/webapp/WEB-INF/components.xml
+END
+datamigrationComponents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-impl/pack/src/webapp/WEB-INF/datamigrationComponents.xml
+END
+rwikiAdapterComponents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-impl/pack/src/webapp/WEB-INF/rwikiAdapterComponents.xml
+END
+coreServiceComponents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/rwiki/rwiki-impl/pack/src/webapp/WEB-INF/coreServiceComponents.xml
+END

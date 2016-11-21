@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/entity
+END
+DecoratedForumInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/entity/DecoratedForumInfo.java
+END
+ForumTopicEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/entity/ForumTopicEntityProvider.java
+END
+ForumEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/entity/ForumEntityProvider.java
+END
+DecoratedAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/entity/DecoratedAttachment.java
+END
+DecoratedTopicInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/entity/DecoratedTopicInfo.java
+END
+ForumMessageEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/entity/ForumMessageEntityProvider.java
+END
+TopicEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/entity/TopicEntityProvider.java
+END
+SynopticMsgcntrItemEntityProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/entity/SynopticMsgcntrItemEntityProvider.java
+END

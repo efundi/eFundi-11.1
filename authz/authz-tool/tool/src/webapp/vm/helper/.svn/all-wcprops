@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/authz/authz-tool/tool/src/webapp/vm/helper
+END
+chef_permissions.vm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/authz/authz-tool/tool/src/webapp/vm/helper/chef_permissions.vm
+END
+chef_permissions-Main.vm
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/authz/authz-tool/tool/src/webapp/vm/helper/chef_permissions-Main.vm
+END

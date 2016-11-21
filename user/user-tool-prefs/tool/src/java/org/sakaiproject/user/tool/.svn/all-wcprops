@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/user/user-tool-prefs/tool/src/java/org/sakaiproject/user/tool
+END
+PreferenceServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/user/user-tool-prefs/tool/src/java/org/sakaiproject/user/tool/PreferenceServlet.java
+END
+PrivacyBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/user/user-tool-prefs/tool/src/java/org/sakaiproject/user/tool/PrivacyBean.java
+END
+UserPrefsTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/user/user-tool-prefs/tool/src/java/org/sakaiproject/user/tool/UserPrefsTool.java
+END

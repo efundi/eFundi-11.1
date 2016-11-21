@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/ui
+END
+UIPermissionsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/ui/UIPermissionsManager.java
+END
+DiscussionForumManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/ui/DiscussionForumManager.java
+END
+PrivateMessageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/msgcntr/messageforums-api/src/java/org/sakaiproject/api/app/messageforums/ui/PrivateMessageManager.java
+END

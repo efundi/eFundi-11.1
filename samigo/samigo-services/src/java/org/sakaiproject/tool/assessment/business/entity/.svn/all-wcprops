@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/business/entity
+END
+FileNamer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/business/entity/FileNamer.java
+END
+RecordingData.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/business/entity/RecordingData.java
+END
+SortableDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/business/entity/SortableDate.java
+END

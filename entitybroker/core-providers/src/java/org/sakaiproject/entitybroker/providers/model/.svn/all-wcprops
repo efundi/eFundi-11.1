@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/core-providers/src/java/org/sakaiproject/entitybroker/providers/model
+END
+EntitySession.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/core-providers/src/java/org/sakaiproject/entitybroker/providers/model/EntitySession.java
+END
+EntitySite.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/core-providers/src/java/org/sakaiproject/entitybroker/providers/model/EntitySite.java
+END
+EntityMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/core-providers/src/java/org/sakaiproject/entitybroker/providers/model/EntityMember.java
+END
+EntityGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/core-providers/src/java/org/sakaiproject/entitybroker/providers/model/EntityGroup.java
+END
+EntityServerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/core-providers/src/java/org/sakaiproject/entitybroker/providers/model/EntityServerConfig.java
+END
+EntityTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/core-providers/src/java/org/sakaiproject/entitybroker/providers/model/EntityTool.java
+END
+Owner.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/core-providers/src/java/org/sakaiproject/entitybroker/providers/model/Owner.java
+END
+EntityUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/core-providers/src/java/org/sakaiproject/entitybroker/providers/model/EntityUser.java
+END
+EntitySitePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/entitybroker/core-providers/src/java/org/sakaiproject/entitybroker/providers/model/EntitySitePage.java
+END

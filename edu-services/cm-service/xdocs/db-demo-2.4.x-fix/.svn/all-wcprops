@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/xdocs/db-demo-2.4.x-fix
+END
+SAK-12572-move-2007-to-2008-hsqldb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/xdocs/db-demo-2.4.x-fix/SAK-12572-move-2007-to-2008-hsqldb.sql
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/xdocs/db-demo-2.4.x-fix/readme.txt
+END
+SAK-12572-move-2007-to-2008-mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/xdocs/db-demo-2.4.x-fix/SAK-12572-move-2007-to-2008-mysql.sql
+END
+SAK-12572-move-2007-to-2008-oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/edu-services/cm-service/xdocs/db-demo-2.4.x-fix/SAK-12572-move-2007-to-2008-oracle.sql
+END

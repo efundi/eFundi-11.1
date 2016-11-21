@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/api/src/java/org/sakaiproject/signup/model
+END
+SignupAttendee.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/api/src/java/org/sakaiproject/signup/model/SignupAttendee.java
+END
+SignupGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/api/src/java/org/sakaiproject/signup/model/SignupGroup.java
+END
+SignupTimeslot.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/api/src/java/org/sakaiproject/signup/model/SignupTimeslot.java
+END
+SignupSite.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/api/src/java/org/sakaiproject/signup/model/SignupSite.java
+END
+MeetingTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/api/src/java/org/sakaiproject/signup/model/MeetingTypes.java
+END
+SignupAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/api/src/java/org/sakaiproject/signup/model/SignupAttachment.java
+END
+SignupMeeting.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/signup/api/src/java/org/sakaiproject/signup/model/SignupMeeting.java
+END

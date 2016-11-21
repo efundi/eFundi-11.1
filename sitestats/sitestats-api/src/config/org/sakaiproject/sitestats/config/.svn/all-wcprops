@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-api/src/config/org/sakaiproject/sitestats/config
+END
+toolEventsDef.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-api/src/config/org/sakaiproject/sitestats/config/toolEventsDef.xml
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-api/src/config/org/sakaiproject/sitestats/config/README.TXT
+END
+toolEventsDef_sakai-2-4-x.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-api/src/config/org/sakaiproject/sitestats/config/toolEventsDef_sakai-2-4-x.xml
+END
+toolEventsDef_sakai-2-5-x.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/sitestats/sitestats-api/src/config/org/sakaiproject/sitestats/config/toolEventsDef_sakai-2-5-x.xml
+END

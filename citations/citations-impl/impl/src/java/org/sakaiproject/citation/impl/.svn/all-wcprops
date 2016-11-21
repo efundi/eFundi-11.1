@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl
+END
+DbCitationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/DbCitationService.java
+END
+BaseConfigurationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/BaseConfigurationService.java
+END
+NestedCitationValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/NestedCitationValidator.java
+END
+BaseCitationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/BaseCitationService.java
+END
+CitationContentChangeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/CitationContentChangeHandler.java
+END
+BaseSearchManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/BaseSearchManager.java
+END
+BasicCitationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/BasicCitationService.java
+END
+CitationListAccessServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/CitationListAccessServlet.java
+END
+SampleSiteOsidConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/SampleSiteOsidConfiguration.java
+END
+SakaiOsidLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/citations/citations-impl/impl/src/java/org/sakaiproject/citation/impl/SakaiOsidLoader.java
+END

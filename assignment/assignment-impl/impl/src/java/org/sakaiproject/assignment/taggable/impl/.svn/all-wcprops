@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-impl/impl/src/java/org/sakaiproject/assignment/taggable/impl
+END
+AssignmentActivityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-impl/impl/src/java/org/sakaiproject/assignment/taggable/impl/AssignmentActivityImpl.java
+END
+AssignmentItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-impl/impl/src/java/org/sakaiproject/assignment/taggable/impl/AssignmentItemImpl.java
+END
+AssignmentActivityProducerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/assignment/assignment-impl/impl/src/java/org/sakaiproject/assignment/taggable/impl/AssignmentActivityProducerImpl.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/impl/src/java/org/sakaiproject/component/common/edu/person
+END
+InetOrgPersonImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/impl/src/java/org/sakaiproject/component/common/edu/person/InetOrgPersonImpl.java
+END
+SakaiPersonImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/impl/src/java/org/sakaiproject/component/common/edu/person/SakaiPersonImpl.java
+END
+SakaiPersonImpl.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/impl/src/java/org/sakaiproject/component/common/edu/person/SakaiPersonImpl.hbm.xml
+END
+EduPersonImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/impl/src/java/org/sakaiproject/component/common/edu/person/EduPersonImpl.java
+END
+PersonImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/impl/src/java/org/sakaiproject/component/common/edu/person/PersonImpl.java
+END
+OrganizationalPersonImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/common/impl/src/java/org/sakaiproject/component/common/edu/person/OrganizationalPersonImpl.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-impl/src/java/org/sakaiproject/lti/impl
+END
+DBLTIService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-impl/src/java/org/sakaiproject/lti/impl/DBLTIService.java
+END
+LTIRoleMapperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-impl/src/java/org/sakaiproject/lti/impl/LTIRoleMapperImpl.java
+END
+UserPictureSetterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-impl/src/java/org/sakaiproject/lti/impl/UserPictureSetterImpl.java
+END
+BaseLTIService.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-impl/src/java/org/sakaiproject/lti/impl/BaseLTIService.java
+END
+SiteEmailPreferenceSetterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-impl/src/java/org/sakaiproject/lti/impl/SiteEmailPreferenceSetterImpl.java
+END
+SiteMembershipUpdaterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-impl/src/java/org/sakaiproject/lti/impl/SiteMembershipUpdaterImpl.java
+END
+UserLocaleSetterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-impl/src/java/org/sakaiproject/lti/impl/UserLocaleSetterImpl.java
+END
+UserFinderOrCreatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-impl/src/java/org/sakaiproject/lti/impl/UserFinderOrCreatorImpl.java
+END
+SiteMembershipsSynchroniserImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-impl/src/java/org/sakaiproject/lti/impl/SiteMembershipsSynchroniserImpl.java
+END
+FoormMapRowMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/basiclti/basiclti-impl/src/java/org/sakaiproject/lti/impl/FoormMapRowMapper.java
+END

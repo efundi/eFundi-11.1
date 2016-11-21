@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/osid/shared/impl
+END
+AgentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/osid/shared/impl/AgentImpl.java
+END
+ObjectIteratorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/osid/shared/impl/ObjectIteratorImpl.java
+END
+PropertiesIteratorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/osid/shared/impl/PropertiesIteratorImpl.java
+END
+IdImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/osid/shared/impl/IdImpl.java
+END
+PropertiesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/samigo/samigo-services/src/java/org/sakaiproject/tool/assessment/osid/shared/impl/PropertiesImpl.java
+END

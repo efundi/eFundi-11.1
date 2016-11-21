@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/providers/kerberos/src/java/org/sakaiproject/component/kerberos/user
+END
+JassAuthenticate.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/providers/kerberos/src/java/org/sakaiproject/component/kerberos/user/JassAuthenticate.java
+END
+UsernamePasswordCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/providers/kerberos/src/java/org/sakaiproject/component/kerberos/user/UsernamePasswordCallback.java
+END
+NullCallbackHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/providers/kerberos/src/java/org/sakaiproject/component/kerberos/user/NullCallbackHandler.java
+END
+KerberosUserDirectoryProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/sakaiproject/sakai.git/!svn/ver/45526/tags/11.1/providers/kerberos/src/java/org/sakaiproject/component/kerberos/user/KerberosUserDirectoryProvider.java
+END
