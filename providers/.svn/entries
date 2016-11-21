@@ -1,126 +1,0 @@
-10
-
-dir
-46020
-https://github.com/sakaiproject/sakai.git/tags/11.1/providers
-https://github.com/sakaiproject/sakai.git
-
-
-
-2016-08-13T20:25:57.000000Z
-45526
-matthew.jones
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-b162ff4a-c4c1-f1d3-daf4-ce57b7db7bff
-
-imsent
-dir
-
-cm-authz-provider
-dir
-
-jldap-mock
-dir
-
-sample
-dir
-
-component
-dir
-
-openldap
-dir
-
-allhands
-dir
-
-federating
-dir
-
-jldap
-dir
-
-pom.xml
-file
-
-
-
-
-2016-10-27T12:48:48.972079Z
-ae54b6aa8ad6579b9846ea391ba29d74
-2016-08-13T20:25:57.000000Z
-45526
-matthew.jones
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2596
-
-README.txt
-file
-
-
-
-
-2016-10-27T12:48:48.972079Z
-3f26f39a81cc7b2771d6f7e697f778b4
-2016-08-13T20:25:57.000000Z
-45526
-matthew.jones
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-730
-
-kerberos
-dir
-

@@ -1,122 +1,0 @@
-10
-
-dir
-46020
-https://github.com/sakaiproject/sakai.git/tags/11.1/common
-https://github.com/sakaiproject/sakai.git
-
-
-
-2016-08-13T20:25:57.000000Z
-45526
-matthew.jones
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-b162ff4a-c4c1-f1d3-daf4-ce57b7db7bff
-
-archive-impl
-dir
-
-manager-api
-dir
-
-privacy-hbm
-dir
-
-privacy-api
-dir
-
-import-util
-dir
-
-import-pack
-dir
-
-import-parsers
-dir
-
-edu-person-api
-dir
-
-common-composite-component
-dir
-
-archive-api
-dir
-
-type-api
-dir
-
-pom.xml
-file
-
-
-
-
-2016-10-27T12:48:34.626164Z
-48ad3c73b4d13af0affb2782c8b87319
-2016-08-13T20:25:57.000000Z
-45526
-matthew.jones
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7067
-
-privacy-components
-dir
-
-impl
-dir
-
-ddl
-dir
-
-import-handlers
-dir
-
-privacy-comp-impl
-dir
-
-import-impl
-dir
-
-privacy-integration-test
-dir
-
-import-samples
-dir
-
-pack
-dir
-

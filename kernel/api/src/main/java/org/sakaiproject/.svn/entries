@@ -1,112 +1,0 @@
-10
-
-dir
-46020
-https://github.com/sakaiproject/sakai.git/tags/11.1/kernel/api/src/main/java/org/sakaiproject
-https://github.com/sakaiproject/sakai.git
-
-
-
-2016-08-13T20:25:57.000000Z
-45526
-matthew.jones
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-b162ff4a-c4c1-f1d3-daf4-ce57b7db7bff
-
-i18n
-dir
-
-springframework
-dir
-
-event
-dir
-
-cluster
-dir
-
-log
-dir
-
-thread_local
-dir
-
-antivirus
-dir
-
-db
-dir
-
-email
-dir
-
-tomcat
-dir
-
-alias
-dir
-
-hikaricp
-dir
-
-authz
-dir
-
-id
-dir
-
-exception
-dir
-
-time
-dir
-
-site
-dir
-
-config
-dir
-
-memory
-dir
-
-conditions
-dir
-
-javax
-dir
-
-content
-dir
-
-entity
-dir
-
-tool
-dir
-
-util
-dir
-
-messagebundle
-dir
-
-user
-dir
-
-webapp
-dir
-

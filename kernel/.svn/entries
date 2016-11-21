@@ -1,92 +1,0 @@
-10
-
-dir
-46020
-https://github.com/sakaiproject/sakai.git/tags/11.1/kernel
-https://github.com/sakaiproject/sakai.git
-
-
-
-2016-08-13T20:25:57.000000Z
-45526
-matthew.jones
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-b162ff4a-c4c1-f1d3-daf4-ce57b7db7bff
-
-kernel-impl
-dir
-
-kernel-component
-dir
-
-kernel-common
-dir
-
-kernel-tim
-dir
-
-kernel-private
-dir
-
-api
-dir
-
-component-manager
-dir
-
-pom.xml
-file
-
-
-
-
-2016-10-27T12:48:43.157113Z
-1291fc81faf5ab3c690b5c32abc53652
-2016-08-13T20:25:57.000000Z
-45526
-matthew.jones
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-17922
-
-kernel-util
-dir
-
-deploy
-dir
-
-kernel-storage-util
-dir
-

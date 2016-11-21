@@ -1,95 +1,0 @@
-10
-
-dir
-46020
-https://github.com/sakaiproject/sakai.git/tags/11.1/samigo
-https://github.com/sakaiproject/sakai.git
-
-
-
-2016-08-13T20:25:57.000000Z
-45526
-matthew.jones
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-b162ff4a-c4c1-f1d3-daf4-ce57b7db7bff
-
-samigo-cp
-dir
-
-samigo-services
-dir
-
-samigo-api
-dir
-
-samigo-import
-dir
-
-docs
-dir
-
-samigo-qti
-dir
-
-pom.xml
-file
-
-
-
-
-2016-10-27T12:49:10.891950Z
-5f9813518bffe7aecb5734f6f293ce34
-2016-08-13T20:25:57.000000Z
-45526
-matthew.jones
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6192
-
-samigo-pack
-dir
-
-samigo-app
-dir
-
-samlite-impl
-dir
-
-samigo-hibernate
-dir
-
-samigo-impl
-dir
-

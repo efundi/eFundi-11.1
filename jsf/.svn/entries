@@ -1,95 +1,0 @@
-10
-
-dir
-46020
-https://github.com/sakaiproject/sakai.git/tags/11.1/jsf
-https://github.com/sakaiproject/sakai.git
-
-
-
-2016-08-13T20:25:57.000000Z
-45526
-matthew.jones
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-b162ff4a-c4c1-f1d3-daf4-ce57b7db7bff
-
-jsf-app
-dir
-
-jsf-tool-sun
-dir
-
-myfaces-tool
-dir
-
-jsf-widgets-sun-depend
-dir
-
-jsf-widgets
-dir
-
-jsf-resource
-dir
-
-jsf-spreadsheet
-dir
-
-myfaces-widgets-depend
-dir
-
-jsf-widgets-sun
-dir
-
-pom.xml
-file
-
-
-
-
-2016-10-27T12:48:41.240125Z
-e1a0d0e0084019230a00543f5712dde8
-2016-08-13T20:25:57.000000Z
-45526
-matthew.jones
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3396
-
-myfaces-widgets
-dir
-
-jsf-tool
-dir
-

@@ -1,80 +1,0 @@
-10
-
-dir
-46020
-https://github.com/sakaiproject/sakai.git/tags/11.1/userauditservice
-https://github.com/sakaiproject/sakai.git
-
-
-
-2016-08-13T20:25:57.000000Z
-45526
-matthew.jones
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-b162ff4a-c4c1-f1d3-daf4-ce57b7db7bff
-
-impl
-dir
-
-api
-dir
-
-pom.xml
-file
-
-
-
-
-2016-10-27T12:49:15.851921Z
-764120338f1b87cc35faaac77e46334f
-2016-08-13T20:25:57.000000Z
-45526
-matthew.jones
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3047
-
-deploy
-dir
-
-tool
-dir
-
-util
-dir
-
-pack
-dir
-
