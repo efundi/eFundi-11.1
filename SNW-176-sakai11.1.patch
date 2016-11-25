@@ -1,0 +1,38 @@
+diff --git a/entitybroker/core-providers/src/java/org/sakaiproject/entitybroker/providers/SiteEntityProvider.java b/entitybroker/core-providers/src/java/org/sakaiproject/entitybroker/providers/SiteEntityProvider.java
+index 65254d2..b7d5dd8 100644
+--- a/entitybroker/core-providers/src/java/org/sakaiproject/entitybroker/providers/SiteEntityProvider.java
++++ b/entitybroker/core-providers/src/java/org/sakaiproject/entitybroker/providers/SiteEntityProvider.java
+@@ -1178,4 +1178,23 @@
+         }
+     }
+ 
++    @EntityCustomAction(action = "search", viewKey = "")
++    public String searchSitesByTitle(EntityView view, Map<String, Object> params) {
++        // expects site/search
++    	String queryTitle = view.getPathSegment(2);		    
++	    List<Site> sites = siteService.getSites(SelectionType.ACCESS,
++				"course", null, null, SortType.TITLE_ASC, null);
++
++		//should only course sites be used?
++//		List<Site> sites = siteService.getSites(SelectionType.ACCESS,
++//				null, null, null, SortType.TITLE_ASC, null);
++		
++		for (Site courseSite : sites) {
++			if(courseSite.getTitle().equals(queryTitle)){
++
++				return courseSite.getId();
++			}
++		}
++		return null;
++    }
+ }
+diff --git a/entitybroker/core-providers/src/java/site.properties b/entitybroker/core-providers/src/java/site.properties
+index f7bdadf..83225ec 100644
+--- a/entitybroker/core-providers/src/java/site.properties
++++ b/entitybroker/core-providers/src/java/site.properties
+@@ -37,3 +37,5 @@
+ use "props" (true/false, default false) to include page properties, \
+ use "config" (true/false, default false) to include tool configurations
+ site.action.withPerm=The URL for example, /site/withPerm/.json?permission=site.upd
++site.action.search = Retrieves a siteid that matches the Site title value send.  /site/search/[/:SITE_TITLE]  <br />\
++(GET) /direct/site/search/ - gets siteId for title query parameter. 
