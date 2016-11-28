@@ -9,8 +9,10 @@ Tools include:
   - Import from word
   - Export to Word
   - Export to epub3
- Turnitin
-  - ###### For the Turnitin installation please see Turnitin Branch for detail
+- Turnitin
+  - ###### For the Turnitin installation please see 11.x Turnitin Repo for detail
+- NWU Course Management
+- eVission Webservices
 
 ## Dependencies
 -	1) Tomcat v 8
