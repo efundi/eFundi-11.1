@@ -73,7 +73,7 @@
 				</form>
 			#end
 			<!-- end if section for selected courses -->
-		<p class="instruction">$tlang.getString("nscourse.findInstruction”)</p>
+		<p class="instruction">$tlang.getString("nscourse.findInstruction")</p>
 	<form name="findCourseForm" id="findCourseForm" method="post" action="#toolForm($action)">
 		
 		<!-- loop through course identifier fields -->
