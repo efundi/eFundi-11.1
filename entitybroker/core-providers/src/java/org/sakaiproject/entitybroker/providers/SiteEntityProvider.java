@@ -1182,7 +1182,7 @@ RESTful, ActionsExecutable, Redirectable, RequestStorable, DepthLimitable {
     public String searchSitesByTitle(EntityView view, Map<String, Object> params) {
         // expects site/search
     	String queryTitle = view.getPathSegment(2);		    
-	    List<Site> sites = siteService.getSites(SelectionType.ACCESS,
+	    List<Site> sites = siteService.getSites(SelectionType.ANY,
 				"course", null, null, SortType.TITLE_ASC, null);
 
 		//should only course sites be used?

@@ -52,6 +52,7 @@
                 <module>chat</module>
                 <module>citations</module>
                 <module>cmprovider</module>
+                <module>cm-scheduler-base</module>
                 <module>common</module>
                 <module>config</module>
                 <module>cloud-content</module>
