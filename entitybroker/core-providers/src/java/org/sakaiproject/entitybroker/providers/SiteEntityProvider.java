@@ -1181,20 +1181,22 @@ RESTful, ActionsExecutable, Redirectable, RequestStorable, DepthLimitable {
     @EntityCustomAction(action = "search", viewKey = "")
     public String searchSitesByTitle(EntityView view, Map<String, Object> params) {
         // expects site/search
-    	String queryTitle = view.getPathSegment(2);		    
-	    List<Site> sites = siteService.getSites(SelectionType.ANY,
-				"course", null, null, SortType.TITLE_ASC, null);
+    	String queryTitle = view.getPathSegment(2);	
 
-		//should only course sites be used?
-//		List<Site> sites = siteService.getSites(SelectionType.ACCESS,
-//				null, null, null, SortType.TITLE_ASC, null);
+       List<String> siteIds = siteService.getSiteIds(SelectionType.ANY,
+           "course", queryTitle, null, SortType.TITLE_ASC, null);   
+             return siteIds.toString();
+
+	   // List<Site> sites = siteService.getSites(SelectionType.ANY,
+			//	"course", null, null, SortType.TITLE_ASC, null);
+
 		
-		for (Site courseSite : sites) {
-			if(courseSite.getTitle().equals(queryTitle)){
+	//	for (Site courseSite : sites) {
+		//	if(courseSite.getTitle().equals(queryTitle)){
 
-				return courseSite.getId();
-			}
-		}
-		return null;
+			//	return courseSite.getId();
+		//	}
+	//	}
+	//	return null;
     }
 }
