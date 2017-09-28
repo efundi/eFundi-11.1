@@ -1401,7 +1401,7 @@ RESTful, ActionsExecutable, Redirectable, RequestStorable, DepthLimitable {
 
                 id = collectionId + resourceFilename;
                 ContentResource contentResource = contentHostingService.addResource(id, contentType,
-                        resourceFile.getInputStream(), resourceProperties, 1);
+                        resourceFile.getInputStream(), resourceProperties, 0);
                 return contentResource.getId();
             } catch (Exception e1) {
                 try {
